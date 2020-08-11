@@ -11,4 +11,5 @@ Objectives:
 
 If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/2457rF21Wk8qWgSw060KU4/fa04d08e9c7692c948952ce475ab811f/ba-foundation-syllabus.pdf)  
 
-Business Change Lifecycle [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/BCL.md)
+Business Change Lifecycle [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/BCL.md)  
+Abbreviations [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/abbreviations.md)
