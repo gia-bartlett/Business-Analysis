@@ -1,49 +1,49 @@
-- BA Business Analyst  
-- BAM Business Activity Model  
-- BAMM Business Analysis Maturity Model  
-- BBS Balanced Business Scorecard  
-- BCS BCS, The Chartered Institute for IT  
-- BPMN Business Process Model and Notation  
-- CARDI (log) Constraints, Assumptions, Risks, Dependencies and Issues (log)  
-- CATWOE Customer, Actor, Transformation, World view (Weltanschauung), Owner, Environment  
-- CBAP Certified Business Analysis Professional  
-- CEO Chief Executive Officer  
-- CI Configuration Item  
-- CIO Chief Information Officer  
-- CMMI Capability Maturity Model Integration  
-- COTS Commercial Off-The-Shelf (software solution)  
-- CSF Critical Success Factor  
-- DBMS Database Management System  
-- DCF Discounted Cash Flow  
-- DMAIC Define, Measure, Analyse, Improve, Control  
-- DSDM Dynamic Systems Development Method  
-- ERD Entity Relationship Diagram  
-- ERP Enterprise Resource Planning  
-- HR Human Resources  
-- IET Institution of Engineering and Technology  
-- IIBA International Institute of Business Analysis  
-- IMIS Institute for the Management of Information Systems  
-- IRR Internal Rate of Return  
-- IS Information Systems  
-- IT Information Technology  
-- itSMF IT Service Management Forum  
-- KPI Key Performance Indicator  
-- MoSCoW Must have, Should have, Could have, Want to have but won’t have this time  
-- MOST (analysis) Mission, Objectives, Strategy and Tactics (analysis)  
-- NPV Net Present Value  
-- OSCAR Objectives, Scope, Constraints, Authority, Resources  
-- PESTLE Political, Economic, Sociocultural, Technological, Legal and Environmental  
-- POPIT People, Organisation, Process, Information and Technology  
-- RACI (chart) Responsible, Accountable, Consulted and Informed (chart)  
-- RAID (log) Risks, Assumptions, Issues and Dependencies (log)  
-- RASCI (chart) Responsible, Accountable, Supportive, Consulted and Informed (chart)  
-- SARAH Shock, Anger, Rejection, Acceptance, Hope  
-- SBU Strategic Business Unit  
-- SDLC Systems Development Lifecycle  
-- SFIA Skills Framework for the Information Age  
-- SMART Specific, Measurable, Achievable, Relevant and Time-framed  
-- SSADM Structured Systems Analysis and Design Method  
-- SSM Soft Systems Methodology  
-- STROBE Structured Observation of the Business Environment  
-- SWOT Strengths, Weaknesses, Opportunities and Threats  
-- UML Unified Modeling LanguageUP Unified Process  
+- [x] BA -> Business Analyst  
+- [] BAM -> Business Activity Model  
+- [] BAMM -> Business Analysis Maturity Model  
+- [] BBS -> Balanced Business Scorecard  
+- [x] BCS -> The Chartered Institute for IT  
+- [] BPMN -> Business Process Model and Notation  
+- [] CARDI (log) -> Constraints, Assumptions, Risks, Dependencies and Issues (log)  
+- [] CATWOE -> Customer, Actor, Transformation, World view (Weltanschauung), Owner, Environment  
+- [] CBAP -> Certified Business Analysis Professional  
+- [x] CEO -> Chief Executive Officer  
+- [] CI -> Configuration Item  
+- [x] CIO -> Chief Information Officer  
+- [] CMMI -> Capability Maturity Model Integration  
+- [] COTS -> Commercial Off-The-Shelf (software solution)  
+- [] CSF -> Critical Success Factor  
+- [] DBMS -> Database Management System  
+- [] DCF -> Discounted Cash Flow  
+- [] DMAIC -> Define, Measure, Analyse, Improve, Control  
+- [] DSDM -> Dynamic Systems Development Method  
+- [x] ERD -> Entity Relationship Diagram  
+- [] ERP -> Enterprise Resource Planning  
+- [x] HR -> Human Resources  
+- [] IET -> Institution of Engineering and Technology  
+- [] IIBA -> International Institute of Business Analysis  
+- [] IMIS -> Institute for the Management of Information Systems  
+- [] IRR -> Internal Rate of Return  
+- [x] IS -> Information Systems  
+- [x] IT -> Information Technology  
+- [] itSMF -> IT Service Management Forum  
+- [] KPI -> Key Performance Indicator  
+- [] MoSCoW -> Must have, Should have, Could have, Want to have but won’t have this time  
+- [] MOST (analysis) -> Mission, Objectives, Strategy and Tactics (analysis)  
+- [] NPV -> Net Present Value  
+- [] OSCAR -> Objectives, Scope, Constraints, Authority, Resources  
+- [] PESTLE -> Political, Economic, Sociocultural, Technological, Legal and Environmental  
+- [] POPIT -> People, Organisation, Process, Information and Technology  
+- [] RACI (chart) -> Responsible, Accountable, Consulted and Informed (chart)  
+- [] RAID (log) -> Risks, Assumptions, Issues and Dependencies (log)  
+- [] RASCI (chart) -> Responsible, Accountable, Supportive, Consulted and Informed (chart)  
+- [] SARAH -> Shock, Anger, Rejection, Acceptance, Hope  
+- [] SBU -> Strategic Business Unit  
+- [x] SDLC -> Systems Development Lifecycle  
+- [] SFIA -> Skills Framework for the Information Age  
+- [] SMART -> Specific, Measurable, Achievable, Relevant and Time-framed  
+- [] SSADM -> Structured Systems Analysis and Design Method  
+- [] SSM -> Soft Systems Methodology  
+- [] STROBE -> Structured Observation of the Business Environment  
+- [x] SWOT -> Strengths, Weaknesses, Opportunities and Threats  
+- [] UML -> Unified Modeling LanguageUP Unified Process  
