@@ -1,6 +1,7 @@
 ## What is Business Analysis?  
 
 `Individual responsible for ensuring that the proposed business change solutions are aligned with the eneds of the business.`  
+
 `An advisory role which has the responsibility for investigating and analysing business situations, identifying and evaluating options for improving business systems, elaborating and defining requirements, and ensuring the effective implementation and use of information systems in line with the needs of the business.`
 
 - Intro to BA [click here](https://www.youtube.com/watch?v=XsKdzHVEXig)  
