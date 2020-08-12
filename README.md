@@ -15,7 +15,7 @@ If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/245
 | Syllabus Area | Target number of questions | Notes |
 | ------------- | -------------------------- | ----- |
 | What is business analysis? | 1 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/BA.md) |
-| The competencies of a Business Analyst | 1 | [notes]() |
+| The competencies of a Business Analyst | 1 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/BA.md) |
 | Strategy Analysis | 3 | [notes]() |
 | The Business Analysis Process Model |2 | [notes]() |
 | Investigation Techniques | 6 | [notes]() |
@@ -30,5 +30,4 @@ If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/245
 | Delivering the business solution | 2 | [notes]() |
 | Total | 40 Questions |  |
 
-Business Change Lifecycle [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/BCL.md)  
 Abbreviations [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/abbreviations.md)
