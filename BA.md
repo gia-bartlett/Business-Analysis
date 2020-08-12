@@ -21,6 +21,4 @@
 - The requirements must be precise to meet the business needs  
 
 ### 3. Succesful business change  
-- BAs uncover the causes of business problems, identify issues to address and ensure suggested solutions align wiht the businesses needs.  
-
-- BAs can be internal or external  
+- BAs uncover the causes of business problems, identify issues to address and ensure suggested solutions align with the businesses needs.  
