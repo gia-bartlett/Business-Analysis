@@ -14,7 +14,7 @@ If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/245
 
 | Syllabus Area | Target number of questions | Notes |
 | ------------- | -------------------------- | ----- |
-| What is business analysis? | 1 | [notes]() |
+| What is business analysis? | 1 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/BA.md) |
 | The competencies of a Business Analyst | 1 | [notes]() |
 | Strategy Analysis | 3 | [notes]() |
 | The Business Analysis Process Model |2 | [notes]() |
