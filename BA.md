@@ -5,6 +5,12 @@
 - Intro to BA [click here](https://www.youtube.com/watch?v=XsKdzHVEXig)  
 - Day In The Life [click here](https://www.youtube.com/watch?v=9rMYgG6tNkg)
 
+The questions being asked by businesses are:  
+` ‘What can IT do to exploit business opportunities and enhance the portfolio of products and services?’`  
+and  
+`‘What needs to change in the organisation if the benefits from a new or enhanced IT system are to be realised?’`  
+
+
 ### Business Change Solutions:  
 - development of new systems  
 - improvement/enhancement of exisiting systems  
@@ -17,11 +23,34 @@
 - The BA bridges the gap in communication  
 
 ### 2. Competetive advantage of using IT  
-- IT systems are driven by the businesses needs  
-- The requirements must be precise to meet the business needs  
+- IT systems must be driven by the business' needs  
+- Implementation of IT must be accompanied by the necessary business changes
+- The requirements must be precise and accurate    
 
 ### 3. Succesful business change  
 - BAs uncover the causes of business problems, identify issues to address and ensure suggested solutions align with the businesses needs.  
+
+#### Business Change Lifecycle:  
+<img src="https://i.pinimg.com/originals/2b/5b/f1/2b5bf1fa00659851ef6542104ffbdcb2.jpg"><img>  
+
+### Alignment and Definisiton stages involve:  
+- Analysis of the organisation  
+- Its business needs  
+- The requirements which determine new ways to improve effectiveness and efficiency of the business
+
+### Subsequent stages involve:  
+- Change, design and development  
+- Business acceptance testing  
+- Implementation of new IT systems  
+- Realisation of business benefits  
+
+The analysis portion of the BCL falls to the BA.  
+Issues arise if the BA is not involved in this:  
+- definition of business needs and requirements for meeting these needs are often unclear and not aligned  
+
+It is critical to ensure that the focus is on understanding the problems that are to be addressed rather than on IT solutions to be developed  
+
+A lack of clarity on the issues can result in failure to deliver business beefits and wastage of invested resources.
 
 ## The competencies of a Business Analyst  
 
