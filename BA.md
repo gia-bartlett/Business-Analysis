@@ -48,13 +48,14 @@ The analysis portion of the BCL falls to the BA.
 Issues arise if the BA is not involved in this:  
 - definition of business needs and requirements for meeting these needs are often unclear and not aligned  
 
-It is critical to ensure that the focus is on understanding the problems that are to be addressed rather than on IT solutions to be developed  
-
-A lack of clarity on the issues can result in failure to deliver business beefits and wastage of invested resources.
+- It is critical to ensure that the focus is on understanding the problems that are to be addressed rather than on IT solutions to be developed  
+- All too often the focus almost from the outset is on the solution rather than understanding what problem we are trying to address.  
+- A lack of clarity on the issues can result in failure to deliver business beefits and wastage of invested resources.
 
 ## The competencies of a Business Analyst  
 
 - Some business analysts were previously experienced IT systems analysts and proved less comfortable considering the business requirements and the range of potential solutions that would meet the requirements.  
 - Many business analysts have a business background and have a limited understanding of IT and how software is developed. While knowledge of the business is invaluable for business analysts, problems can occur where IT forms part of the business solution and the analyst has insufficient understanding of IT. This may cause communication difficulties with the developers and could result in failure to ensure that there is an integrated view of the business and IT system.  
+
 **Therefore** an excellent BA has BOTH business knowledge and IT knowledge
 
