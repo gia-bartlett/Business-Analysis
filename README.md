@@ -12,6 +12,7 @@ Objectives:
 If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/2457rF21Wk8qWgSw060KU4/fa04d08e9c7692c948952ce475ab811f/ba-foundation-syllabus.pdf)  
 
 | Syllabus Area | Target number of questions | Notes |
+| ------------- | -------------------------- | ----- |
 | What is business analysis? | 1 | [notes]() |
 | The competencies of a Business Analyst | 1 | [notes]() |
 | Strategy Analysis | 3 | [notes]() |
