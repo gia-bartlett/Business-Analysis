@@ -22,3 +22,10 @@
 
 ### 3. Succesful business change  
 - BAs uncover the causes of business problems, identify issues to address and ensure suggested solutions align with the businesses needs.  
+
+## The competencies of a Business Analyst  
+
+- Some business analysts were previously experienced IT systems analysts and proved less comfortable considering the business requirements and the range of potential solutions that would meet the requirements.  
+- Many business analysts have a business background and have a limited understanding of IT and how software is developed. While knowledge of the business is invaluable for business analysts, problems can occur where IT forms part of the business solution and the analyst has insufficient understanding of IT. This may cause communication difficulties with the developers and could result in failure to ensure that there is an integrated view of the business and IT system.  
+**Therefore** an excellent BA has BOTH business knowledge and IT knowledge
+
