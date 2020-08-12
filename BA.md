@@ -1,6 +1,7 @@
 ## What is Business Analysis?  
 
-`Individual responsible for ensuring that the proposed business change solutions are aligned with the eneds of the business.`
+`Individual responsible for ensuring that the proposed business change solutions are aligned with the eneds of the business.`  
+`An advisory role which has the responsibility for investigating and analysing business situations, identifying and evaluating options for improving business systems, elaborating and defining requirements, and ensuring the effective implementation and use of information systems in line with the needs of the business.`
 
 - Intro to BA [click here](https://www.youtube.com/watch?v=XsKdzHVEXig)  
 - Day In The Life [click here](https://www.youtube.com/watch?v=9rMYgG6tNkg)
@@ -81,3 +82,45 @@ Is there a supportive management style? Are jobs and responsibilities well defin
 Do the staff have the information to conduct their work effectively? Are managers able to make decisions based on accurate and timely information?  
 #### The technology  
 Do the systems support the business as required? Do they provide the information needed to run the organisation?  
+
+## Roles and Responsibilities:  
+Although there are different role definitions, depending upon the organisation, there does seem to be an area of common ground where most business analysts work. These core responsibilities are:  
+- Investigate business systems taking a holistic view of the situation; this may include examining elements of the organisation structures and staff development issues as well as current processes and IT systems.  
+- Evaluate actions to improve the operation of a business system. Again, this may require an examination of organisational structure and staff development needs, to ensure that they are in line with any proposed process redesign and IT system development.  
+- Document the business requirements for the IT system support using appropriate documentation standards.  
+- Elaborate requirements, in support of the business users, during evolutionary system development.  
+
+Some business analysis roles extend into other areas, possibly the strategic analysis or systems analysis activities described above. This may be where business analysts are in a more senior role or choose to specialise. These areas are:  
+- Strategy implementation – here the business analysts work closely with senior management to help define the most effective business system to implement elements of the business strategy.  
+- Business case production – more senior business analysts usually do this, typically with assistance from Finance specialists.  
+- Benefits realisation – the business analysts carry out post-implementation reviews, examine the benefits defined in the business case and evaluate whether or not the benefits have been achieved. Actions to achieve the business benefits are also identified and sometimes carried out by the business analysts.  
+- Specification of IT requirements – typically using standard modelling techniques such as data modelling or use case modelling.  
+
+The rationale for business analysis is:  
+- Root causes not symptoms  
+- To distinguish between the symptoms of problems and the root causes  
+- To investigate and address the root causes of business problems  
+- To consider the holistic viewBusiness improvement not IT change  
+- To recognise that IT systems should enable business opportunity or problem resolution  
+- To analyse opportunities for business improvement  
+- To enable business agilityOptions not solutions  
+- To challenge pre-determined solutions  
+- To identify and evaluate options for meeting business needs  
+- Feasible, contributing requirements not meeting all requests  
+- To be aware of financial and timescale constraints  
+- To identify requirements that are not feasible and do not contribute to business objectives  
+- To evaluate stated requirements against business needs and constraints  
+- The entire business change lifecycle not just requirements definition  
+- To analyse business situations  
+- To support the effective development, testing, deployment and post-implementation review of solutions  
+- To support the management and realisation of business benefits  
+- Negotiation not avoidanceTo recognise conflicting stakeholder views and requirements  
+- To negotiate conflicts between stakeholders  
+
+#### Business Analysis Maturity Model:  
+<img src="https://www.assistkd.com/sites/default/files/paragraph/image/bamm.jpg"><img> 
+- The **scope** may be very specific if an initial study has identified the required course of action and the analyst now needs to explore and define solution in greater detail. Alternatively, the scope may have been defined at only an overview level, or may be very ambiguous, with the business analyst having to carry out detailed investigation to uncover the issues before the options can be explored.  
+- The level of **authority** of the BA can also vary considerably, from a limited level of authority to the ability to influence and guide at senior management level.  
+- The **first level** is where the business analysis work is concerned with defining the requirements for an IT system improvement. At this level, the scope is likely to be well-defined and the level of authority limited to the project on which the business analyst works.  
+- The **next level** is where the business analysis work has moved beyond a specific IT development so that the analysts work cross-functionally to improve the business processes that give rise to the requirements.  
+- The **third level** is where the scope and authority of the analysts are at their greatest. Here, the business analysis work is concerned with improving the business and working with senior management to support the delivery of value to customers.  
