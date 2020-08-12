@@ -70,5 +70,14 @@ Some organisations consider this work to be of such a technical nature that they
 The gap between the two is straddled by the BA. BAs will usually be required to investigate a business system where improvements are required but the range and focus of those improvements can vary considerably.  
 
 POPIT shows the different views that must be considered when identifying areas for improving the business system.  
-<img src="https://www.improvementservice.org.uk/__data/assets/image/0012/14115/varieties/w1170.jpg"><img>  
-
+<img src="https://www.improvementservice.org.uk/__data/assets/image/0012/14115/varieties/w1170.jpg"><img>    
+#### The processes:  
+Are they well defined and communicated? Is there good IT support or are there several ‘work-arounds’ in existence? Does the process require documents to be passed around the organisation unnecessarily? Is there the potential for delays or the introduction of errors?  
+#### The people  
+Do they have the required skills for the job? How motivated are they? Do they understand the business objectives that they need to support?  
+#### The organisation  
+Is there a supportive management style? Are jobs and responsibilities well defined? Is there collaborative cross-functional working?  
+#### The information  
+Do the staff have the information to conduct their work effectively? Are managers able to make decisions based on accurate and timely information?  
+#### The technology  
+Do the systems support the business as required? Do they provide the information needed to run the organisation?  
