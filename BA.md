@@ -57,5 +57,18 @@ Issues arise if the BA is not involved in this:
 - Some business analysts were previously experienced IT systems analysts and proved less comfortable considering the business requirements and the range of potential solutions that would meet the requirements.  
 - Many business analysts have a business background and have a limited understanding of IT and how software is developed. While knowledge of the business is invaluable for business analysts, problems can occur where IT forms part of the business solution and the analyst has insufficient understanding of IT. This may cause communication difficulties with the developers and could result in failure to ensure that there is an integrated view of the business and IT system.  
 
-**Therefore** an excellent BA has BOTH business knowledge and IT knowledge
+**Therefore** an excellent BA has BOTH business knowledge and IT knowledge  
+
+### Range of analysis activities:  
+- Strategic Analysis and Definition  
+Some BAs may be required to undertake strategic analysis and identify business transformation actions, but it is more likely that they will have a role to play in supporting this activity. However, BAs are expected to have access to information about their organisation’s business strategy and be able to understand it, as their work will need to support the execution of this strategy. BAs will need a good understanding of how strategy is developed and the impact upon the work of the IT and business change functions.  
+
+- IT Systems Analysis  
+Some organisations consider this work to be of such a technical nature that they perceive it to be completely outside the province of the BA and have separated the business analysis and IT teams into different departments, expecting the IT department to carry out the detailed IT systems modelling and specification. Others differentiate between IT BAs and ‘business’ business analysts, with those in IT often performing a role more akin to that of a systems analyst. In order to do this, the BAs need a detailed understanding of IT systems and how they operate, and must be able to use the approaches and modelling techniques that fell historically within the remit of the system analyst role.  
+
+- Business Analysis  
+The gap between the two is straddled by the BA. BAs will usually be required to investigate a business system where improvements are required but the range and focus of those improvements can vary considerably.  
+
+POPIT shows the different views that must be considered when identifying areas for improving the business system.  
+<img src="https://www.improvementservice.org.uk/__data/assets/image/0012/14115/varieties/w1170.jpg"><img>  
 
