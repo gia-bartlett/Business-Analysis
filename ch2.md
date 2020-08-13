@@ -5,7 +5,7 @@
 - **Personal qualities** are concerned with how you think and how you interact with the people around you. They are not specific to business analysis but are general skills that are important for developing and progressing in any business environment. Behavioural skills are arguably more important than technical or business skills as they are a prerequisite for working with other people.  
 - A BA also requires **business knowledge** which helps to develop a good understanding of their organisation and the business domain or sector within which it operates. This knowledge is vital if the business analyst is to offer advice and insights that will help improve the organisation’s performance.  
 
-#### Personal Qualities:  
+### Personal Qualities:  
 COMMUNICATION:  
 - Most important skill  
 - Encompasses a wide range of areas such as building rapport, listening, influencing and building empathy.  
@@ -49,7 +49,7 @@ LEADERSHIP:
 SELF-BELIEF:  
 - Having sufficient self-confidence – in yourself, in the quality of your analysis, in the relevance of your approach – to be able to withstand pressure, challenge proposals, analyse impacts and sustain your arguments. Self-belief is a key competence for working effectively with stakeholders across the broad range of situations.  
 
-#### Business Knowledge:
+### Business Knowledge:
 BUSINESS FINANCE AND BUSINESS CASE DEVELOPMENT:  
 - Whether working in the commercial, government or non-profit sectors of the economy, finance plays a key role in deciding what funds are available and what can and cannot be done.  
 -A  general understanding of aspects such as the balance sheet and income statement (profit and loss account), financial analysis tools like ratio analysis, budgeting and cash flow, the nature of profit or surplus, and the principles of costing products and services.  
@@ -81,8 +81,47 @@ SUPPLIER MANAGEMENT:
 BUSINESS ARCHITECTURE:  
 - Knowledge and understanding of how organisations behave with particular emphasis on the systems, processes, management structures, culture and people.  
 
-#### Professional Techniques:  
-
+### Professional Techniques:  
 PROJECT MANGEMENT:  
-- 
+- BAs may be required to undertake the project manager role and so needs an awareness of project management techniques and approaches, and have project management skills.  
+- An understanding of project management planning approaches – as they will have to work within a plan – and an awareness of particularly relevant aspects such as dependencies between tasks, quality assurance and risk management.  
+
+STRATEGY ANALYSIS:  
+- To understand the business direction and the strengths and weaknesses of an organisation.  
+Covered in [Ch3](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch3.md)  
+
+STAKEHOLDER MANAGEMENT:  
+- Involves the ability to identify, analyse and develop management strategies for stakeholders; to determine the stakeholders in a business analysis project, understand their views and work out how their interests are best managed.  
+Covered in [Ch6](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch6.md)  
+
+INVESTIGATION TECHNIQUES:  
+- To get to the root of a business issue, the analyst will have to have a range of techniques within their toolkit in order to undertake an effective analysis of the area.  
+Covered in [Ch5](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch5.md)  
+
+REQUIREMENTS ENGINEERING:  
+- The set of practices and processes that lead to the development of a set of well-formed business requirements.  
+Covered in [Ch10](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch10.md), [Ch11](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch11.md) and [Ch12](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch12.md)   
+
+BUSINESS MODELLING:  
+- Business modelling is an approach to visualising business systems through the creation of conceptual models.  
+
+DATA MODELLING:  
+- Analysing the data held and used within a business system affords valuable insights into how a business system operates.  
+
+GAP ANALYSIS:  
+Covered in [Ch8](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch8.md)  
+
+FACILITATION SKILLS:  
+- Effective facilitation usually results from a combination of good preparation, an effective facilitator, clear understanding of the objectives, ‘buy in’ from senior stakeholders and the use of helpful techniques given the task, the participants and the organisation context of the situation.  
+
+PORTFOLIO MANAGEMENT:  
+- The development of a management delivery framework through evaluation, prioritisation and delivery of a portfolio of projects required to deliver business strategies.  
+
+BENEFITS MANAGEMENT:  
+- Active planning, monitoring and evaluation of benefits predicted in a business case for a business change initiative.  
+- Benefits management provides structure and insight to projects and programmes, ensuring that the delivery of benefits is planned and monitored so that the value to the organisation is delivered.  
+
+AGILE THINKING:  
+- The ability to enable business agility in order to support the effective use of resources and the delivery of value by their organisations.  
+- BAs have the potential to provide an agile response to identified problems and opportunities through their focus on understanding what is to be addressed and the evaluation of options.  
 
