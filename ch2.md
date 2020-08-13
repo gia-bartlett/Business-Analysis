@@ -48,3 +48,41 @@ LEADERSHIP:
 
 SELF-BELIEF:  
 - Having sufficient self-confidence – in yourself, in the quality of your analysis, in the relevance of your approach – to be able to withstand pressure, challenge proposals, analyse impacts and sustain your arguments. Self-belief is a key competence for working effectively with stakeholders across the broad range of situations.  
+
+#### Business Knowledge:
+BUSINESS FINANCE AND BUSINESS CASE DEVELOPMENT:  
+- Whether working in the commercial, government or non-profit sectors of the economy, finance plays a key role in deciding what funds are available and what can and cannot be done.  
+-A  general understanding of aspects such as the balance sheet and income statement (profit and loss account), financial analysis tools like ratio analysis, budgeting and cash flow, the nature of profit or surplus, and the principles of costing products and services.  
+- BAs need to disregard costly options quickly, and ensure that they deliver value from their analysis work.  
+
+DOMAIN KNOWLEDGE:  
+- Having a good understanding of the domain/sector in which your organisation operates.  
+- Enables a BA to use familiar language, understand what would and would not be acceptable or useful and some ideas and experiences may be applicable in other domains.  
+
+SUBJECT MATTER EXPERTISE:  
+- A good understanding of the terminology, processes and constraints is important to establish credibility with the customer.  
+- Enables BAs to communicate more easily with the business staff and identify potential areas for change or further analysis.  
+
+IT PRINCIPLES:  
+- The original conception of business analysis was as a ‘bridging’ role, enabling the communication between the business and IT staff.  
+- A general understanding of IT and software development approaches is necessary so that business analysts can communicate meaningfully with the IT professionals and appreciate their role and contribution to the systems development process.  
+- [IT FUNDAMENTALS](https://github.com/gia-bartlett/Business-Analysis/blob/master/IT.md)  
+
+ORGANISATION STRUCTURES:  
+- Many business analysis projects involve restructuring divisions or teams in order to remove hand-offs, centralise tasks or improve the customer service.  
+- It is important to have a good understanding of the various organisation structures that may be encountered – functional, project, matrix and so on – and of their relative strengths and weaknesses.  
+
+SUPPLIER MANAGEMENT:  
+- As a minimum, business analysts should be aware of the different contractual arrangements that are available:  
+  Time and materials - contracted party is paid on the basis of the time worked  
+  Fixed price delivery - contracted party is paid the price that they agreed for the delivery of the work  
+  Risk and reward - contracted party has agreed to bear some or all of the risk of the project  
+
+BUSINESS ARCHITECTURE:  
+- Knowledge and understanding of how organisations behave with particular emphasis on the systems, processes, management structures, culture and people.  
+
+#### Professional Techniques:  
+
+PROJECT MANGEMENT:  
+- 
+
