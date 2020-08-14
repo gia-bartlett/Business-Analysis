@@ -69,6 +69,13 @@ no other part of the organisation can do what the powerful group does
 - Uncertainty:  
 power resides with people and groups who can cope with unpredictable effect of the environment and protect other groups
 
+Once a strategy is formulated it should be provided in a written statement.  WHY?  
+- provides focus for the organisation and enables all parts to understand the reason behind decisions and how all can contribute ot its achievement.  
+- provides a framework for a practical allocation of investment and other resources.  
+- provides a guide to innovations, where new products, services or systems are needed.  
+- enables appropriate performance measures to be put in place that measure key indicators of the success of the strategy.  
+- tells the outside world especially outside stakeholders and market analysts about the organisation and develops the expectations.  
+
 Whatever the approach, external and internal analysis is needed:  
 #### External -> What is happeneing out there?  
 - Most organisations face a complex and changing external environment of increasing unpredictability.  
@@ -136,12 +143,111 @@ Scenarios are useful when thinking about high levels of uncertianty.
 -> They begin by identifying the potential high impact and high uncertainty factors in the environment.  
 -> Once at least four plausible and detailed scenarios are constructed the future each of these scenarios would construct is then considered using the PESTLE framework.  
 
-Internal -> Where does the organisation fit in to what's happening out there?  
+#### Internal -> Where does the organisation fit in to what's happening out there?  
+- Successful strategies depend on something else as well; it is the capability of the organisation to perform.  
+-> Can an organisation continue to change its capability so that it constantly fits the environment in which it operates?  
+-> Can it always be innovative in the way it exploits this capability?  
 
-Once a strategy is formulated it should be provided in a written statement.  WHY?  
-- provides focus for the organisation and enables all parts to understand the reason behind decisions and how all can contribute ot its achievement.  
-- provides a framework for a practical allocation of investment and other resources.  
-- provides a guide to innovations, where new products, services or systems are needed.  
-- enables appropriate performance measures to be put in place that measure key indicators of the success of the strategy.  
-- tells the outside world especially outside stakeholders and market analysts about the organisation and develops the expectations.  
+**MOST** analysis examines the current mission, objectives, strategy and tactics and considers whether or not these are clearly defined and supported within the organisation.  
 
+<img src="https://lh3.googleusercontent.com/proxy/bCL3e9dPlzyvoIWSHw-uHPwUVOSRoJarKJX5dac1R__bqjhZWymqXWpmxN2W39OerOXtdIlWEt1a0Yj9X3eZo_UZsxB_RoLCZABuBYymYfAq7PvGOnMK3mzxgVRz86B5j3d4EUaweGM"><img>  
+
+- **Mission** A statement declaring what business the organisation is in and what it is intending to achieve.  
+- **Objectives** The specific goals against which the organisation’s achievements can be measured.  
+- **Strategy** The medium to long-term approach that is going to be taken by the organisation in order to achieve the objectives and mission.  
+- **Tactics** The detailed means by which the strategy will be executed.  
+
+MOST should be used in conjunction with SMART (Specific, Measurable, Achievable, Relevant and Time framed) objectives and SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis.  
+
+The **Resource Audit** can help us to identify core competences or may highlight where there is a lack of competence that could undermine any competitive moves.  
+There are five key areas to examine, the first three being sets of tangible resource:  
+-> **PHYSICAL**  
+buildings, land, equipment etc  
+-> **FINANCIAL**  
+stability, capability to invest and weather fluctuations  
+-> **HUMAN**  
+expertise, adaptability and commitment of staff  
+
+-> **know-how** of the organisation which may include actual patents or trademarks, but this may also be derived from the use made of resources such as information and technology.  
+-> **reputation** of the organisation, for example the brand recognition and the belief that is held about the quality of the brand, and the goodwill – or antipathy – that this produces.  
+
+An analysis of the organisation’s resources will identify where these provide a source of competence – strengths, or where there is a lack of capability – weaknesses.  
+
+The **Boston Box** was developed as a means of conducting portfolio analysis. A company’s strategic business units (SBUs) – parts of an organisation for which there is a distinct and separate external market – are identified and the relationship between the SBU’s current or future revenue potential is modelled against the current share of the market.
+
+<img src="https://analyst-zone.com/storage/app/media/Techniques/Strategy_StrategicAnalysis_BostonBox_Poprtfolio_Analysis_Technique_Texavi_AnalystZone.png"><img>  
+
+- A successful product or SBU starts as a Wild Cat and goes clockwise round the model until it dies or is revitalised as a new product or service or SBU.  
+- The **Wild Cats (or Problem Children)** are unprofitable but are investments for the future.  
+- The **Stars** strengthen their position in a growth industry until they become the big profit earners.  
+- The **Cash Cows** are the mature products or services, in markets with little, if any, growth.  
+- The **Stars** and **Cash Cows** provide the funding for the other segments of the matrix.  
+- The **Dogs** have low market share in markets with low growth and are often the areas that are removed or allowed to wither away.  
+
+**SWOT** analysis (strengths, weaknesses, opportunities, threats) is often used to pull together the results of an analysis of the external and internal environments.  
+It should not be used as the first analytical tool - the results are usually weak, inconclusive and insufficiently robust to be of much use.  
+ more robust approach is to use the techniques described earlier as they help identify the major factors, both internal and external to the organisation, that the business strategy needs to take into account.  
+ 
+SWOT should be brief, with strengths and weaknesses related to critical success factors. Strengths and weaknesses should also be measured against the competition. All statements should be specific, realistic and supported by evidence.  
+
+It is important to get right the balance between the external and the internal analysis.  
+Completely changing the nature of the organisation because of the external analysis may lead to radical change but without any assurance that capability exists to deliver this successfully.  
+Basing everything on an internal analysis may lead to little or no change, or changes that are internally focused and ignore the desires of the customers.  
+Using both analyses is more balanced and is likely to contribute towards the creation of a more robust strategic direction.  
+
+### Executing strategy  
+Executing strategies implies risk because it involves change.  
+There are three particular aspects of implementing strategy:  
+1 the context for the strategy  
+2 the role of the leader  
+3 two tools that we can use (the Balanced Business Scorecard and the McKinsey 7-S Model)  
+
+#### CONTEXT  
+There are five contextual issues to be considered:  
+- **Time** – how quickly does the new strategy need to be implemented? What pace of change is needed?  
+- **Scope** – how big is the change? Is the new strategic direction transformational or incremental?  
+- **Capability** – does the organisation have the required resources for the change? is the organisation adaptable and able to change? Are the experiences of change positive or negative?  
+- **Readiness** – is the whole organisation, or the part of it to be affected, ready to make the change?  
+- **Strategic leadership** – is there a strategic leader for the change?  
+
+#### LEADER  
+Strategic leadership does not have to be delivered from the top; there are many successful strategic changes that have been driven from other parts of the organisation.  
+The leader needs to demonstrate the following key characteristics:  
+- Challenges the status quo, setting new and demanding targets  
+- Establishes and communicates a clear vision of the direction to be taken, why it has to be taken and how the journey will be made.  
+- He or she demonstrates through their behaviour how everyone else should behave and act in order to deliver the strategy.  
+- Empowers people to deliver their part of the strategic change within the vision, values and mission that have been set out.  
+- Celebrates success with those who achieve it.  
+
+#### TOOLS  
+**McKinsey 7-S Model**
+
+<img src="https://cdn.calltheone.com/public/storage/blog/3/2013/03/29/7s-model-3.jpg"><img>  
+
+The 7-S model supposes that all organisations are made up of seven components.  
+Three are often described as ‘hard’ components – strategy, structure and systems, and four as ‘soft’ – shared values, style, staff and skills.  
+All seven need attention if the strategy is to be executed successfully, because if there is a change with one, others will be affected.  
+Changing one element, such as the strategy, means that all of the others have to change as well.  
+
+- The **structure** – the basis for building the organisation will change to reflect new needs for specialisation and coordination resulting from the new strategic direction.  
+- Formal and informal **systems** that supported the old system must change.  
+- The **style** or culture of the organisation will be affected by a new strategic direction. Values, beliefs and norms, which developed over time, may be revised or even swept away.  
+- The way **staff** are recruited, developed and rewarded may change. New strategies may mean relocating people or making them redundant.  
+- **Skills** – competences acquired in the past may be of less use now. The new strategy may call for new skills.  
+- **Shared values** are the guiding concepts of the organisation, the fundamental ideas that are the basis of the organisation. Moving from an ‘engineering first’ company to a ‘customer service first’ company would change the shared values.  
+
+The **Balanced Business Scorecard** (BBS) can be thought of as the strategic balance sheet for an organisation as it captures the means of assessing the financial and non-financial components of a strategy.  
+
+<img src="https://cdn.ttgtmedia.com/rms/onlineImages/balanced_scorecard_2016_mobile.jpg"><img>  
+
+The emphasis of the scorecard is to measure aspects of performance in a balanced way. In the past, managers have perhaps paid more attention to the financial measures but the BBS shows it is important to consider all of the four aspects when evaluating organisational performance.  
+- The customer perspective measures those critical success factors that provide a customer focus. It forces a detailed examination to be made of statements like ‘superior customer service’ so that everyone can agree what it means, and measures can be established to show the progress being made. It also identifies the need to consider how the customers view the organisation and its products or services.  
+- The delivery of value to the customers is likely to be affected by the internal processes so the process effectiveness also needs to be measured.  
+- The learning and growth perspective could generate a need for new products or new internal processes if the organisation is to continue to perform well.  
+
+The BBS helps in the definition of two components which are vital to assess business performance; these are Critical Success Factors (CSFs) and Key Performance Indicators (KPIs).  
+CSFs are defined as ‘the few key areas where “things must go right” for the business to flourish and for a manager’s goals to be attained’.  
+Not every activity is a 'key area' but the CSFs mean that there are some goals that *must* be reached.
+
+KPIs come in when setting these goals to ensure they are achievable.
+KPIs are the measures that show whether or not progress is being made towards the achievement of a CSF. KPIs measure specific areas of performance so also limit the amount of data that managers have to consider and act upon.  
