@@ -194,7 +194,7 @@ Requirements elicitation, analysis and validation
 Requirements documentation and management  
 IT systems modelling techniques  
 
-#### Deliver Changes:  
+6. **Deliver Changes:**  
 Once the business analysts have investigated and analysed the situation, considered the stakeholders and their perspectives, developed options for improvement and defined the requirements to be fulfilled, it is important to consider how the business changes will be delivered and implemented, and the business benefits realised. In the main, this work is not solely the responsibility of the business analyst but some tasks, such as providing support to the stakeholders, does fall within our remit.  
 
 The requirements will need to be developed into the business change solution. This solution may include process, people, organisational and IT system change. The lifecycle and approach to be adopted to develop and deliver the changes will need to be determined. This decision will have an impact upon the roles of the project team, the deliverables to be produced and the techniques to be used.  
