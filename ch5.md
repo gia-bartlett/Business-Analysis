@@ -88,7 +88,130 @@ Relevant source documents to hand on site
 
 | Open | Body | Close |
 | ---- | ---- | ----- |
-| Introductions and Setting the scene | Questions and Answers | Sumamrise and Next steps |
+| Introductions and Setting the scene | Questions and Answers | Summarise and Next steps |  
+
+**Intro**  
+Personal introductions and setting the purpose of the interview  
+Explaining helps put the interviewee at ease and help them provide relevant information  
+
+**Body**  
+A good approach is to begin by obtaining a context for the information this interviewee can provide. This context will usually cover the responsibilities of the interviewee, and their range of responsibilities.  
+Essential to take notes (draw diagrams to understand procedures - flow chart)(mind maps are excellent for what has been said and area for further discussion)  
+
+**Close**  
+It is important to close the interview formally. The analyst should:
+
+Summarise the points covered and the actions agreed.
+Explain what happens next, both with regard to the particular interview and the project. We will usually send the interviewee a copy of the written-up notes so that they can check for any errors.
+Ask the interviewee how any further contact should be made; managing the interviewee’s expectations of future behaviour can be extremely useful and will be invaluable if we need any additional information or clarifications at a later point. This also serves to keep the door open for a future interview session if required.
+
+Following up the interview:  
+Write up notes as soon as possible adn send copies to relevant parties. Once approved, file them as a formal part of the prject documentation.  
+
+- Observation:  
+There are several different approaches to observation, depending upon the level and focus of interest: formal observation, shadowing, protocol analysis and ethnographic studies.  
+It is important to reassure the person being observed that their performance is not being judged. Protocols must be observed and trade unions must be informed.  
+
+Advantages of Observation:  
+- We obtain a much better understanding of the problems and difficulties faced by the business users.  
+- Seeing a task performed will help us prepare appropriate questions for a more in-depth interview with the person responsible for that task.  
+- It will help us to devise workable solutions that are more likely to be acceptable to the business.  
+
+Disadvantages of Observation:  
+- It is quite unnerving and people will often change their behaviour despite reassurances  
+
+#### Types of Observation:  
+Formal:  
+Useful tool to understand the environment.  
+Care must be taken to avoid the task being carried out 'by the rulebook' instead of how it has evolved over time.  
+Ask questions about the task but avoid sounding critical in tone or words  
+Do not interfere with the task  
+Observe the task several times in order to understand the sequence, observe exceptions, timings etc.  
+Sketch the physical layout of the task  
+
+Protocol Analysis:  
+Perform and describe - asking staff to carry out a task while describing the steps  
+The higher the level of unconscious skill involved in a task the harder it is to explain  
+Delivers a greater understanding of a task - useful for training people as well  
+
+Shadowing:  
+Follow a user for a period of time (one or two days)  
+Powerful tool for understanding a particular role  
+Explanations can be sought for what work is done, information used, workflow sequences etc.  
+Uncovers taken-for-granted aspects of the work  
+Useful during the requirements definition work as it provides a visual context for processes described during interviews or workshops.  
+
+Workshops:  
+Provide a collaborative forum where issues can be discussed, conflicts resolved and requirements elicited.  
+Other activities include compliling process models, understanding data requirements, eliciting CSFs and KPIs and analysing the quality of a requirements set before they are formally documented.  
+Very usefull when time is tight as they allow several viewpoints to be canvassed.
+
+Advantages of Workshops:  
+- Gain a broad view of the area under investigation: having a group of stakeholders in one room will allow the analyst to gain a more complete understanding of the issues and problems.  
+- Increase speed and productivity: it is less time-consuming to have one extended meeting with a group of people than interviewing them one-by-one.  
+- Obtain buy-in and acceptance for the project: when stakeholders are involved in such collaboration, not only will they be more open to any business changes or features that result but they are more likely to be champions of the change.  
+- Gain a consensus view or group agreement: if all the stakeholders are involved in the decision-making process there is a greater chance that they will take ownership of the results. If two or more stakeholders have different viewpoints at the outset, there is a better chance of helping them move to an agreement in a well-facilitated workshop, as long as they feel that their concerns and views have been listened to respectfully.  
+
+Disadvantages of Workshops:  
+- Can be time-consuming and must be carefully managed so that one voice does not drown out others.  
+- Care must be taken for level of authority with regards to decisions - is the person qualified to make that decision?  
+
+Preparing for workshops:  
+- Objective:  
+Must be achieved within the time constraints. Either split into multiple sub workshops or kept simple  
+
+- Who is invited:  
+All stakeholders interested should either be invited or represented - it is the organisers responsibilty that interested parties are able to contribute.  
+Breakout groups or other tasks can be used  
+Consider personalities, concerns and viewpoints of all invited  
+
+- Structure and techniques to be used:  
+Achieve the defined objective  
+Take into account the nature of the group, needs of the attendees and their preferred participation style (standard brainstorming might not work well for a group that have never met or who don't often work together)  
+
+- Venue:  
+Provide an environment for focused participation  
+May be in site or at a neutral venue (better for contentious issues or to prevent attendees being called away by managers or colleagues)  
+
+Facilitating workshops:  
+Discuss the objective(s) and endeavour to secure the participants buy-in  
+Invite a senior manager if difficulties are anticipated to define ground-rules and ensure the smoooth running  
+Ensure the issues are discussed, views are aired and progress is made towards the objective - allow to discussion to range widely but ensure it doesn't go completely off-track.  
+Ensure all are able to express their concerns  
+Keep a record of key points - appoint someone to take the role of scribe (allowing the facilitator to focus entirely on the workshop)  
+At the end of the workshop, the facilitator needs to summarise the key points and actions. Each action should be assigned to an owner and allocated a timescale for completion.  
+
+Techniques to employ:  
+
+| **Discovery** |  | **Visualisation** |
+| ---- | ---- | ----- |
+| Round Robin | W | Process Models |  
+| Branstorming | O | Rich Pictures |  
+| Brainwriting | R | Mind Maps |  
+| Post-It Exercise | K | Context Diagrams |  
+| Stepwise Refinement | S | Use Case Diagrams |  
+| Breakout Groups | H | Task Scenarios |  
+|  | O | User Stories |  
+|  | P |  |  
+
+
+**Discovery**  
+
+**Visualisation**  
+
+
+
+
+
+
+
+
+
+
+
+Ethnographic Studies:  
+Often beyond the budget of most projects - involves spending extended periods of time in the target environment.  
+People become used to the observer and over time return to their natural behaviours  
 
 
 #### Quantitative Investigation:  
