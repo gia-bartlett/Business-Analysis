@@ -182,6 +182,8 @@ Keep a record of key points - appoint someone to take the role of scribe (allowi
 At the end of the workshop, the facilitator needs to summarise the key points and actions. Each action should be assigned to an owner and allocated a timescale for completion.  
 
 Techniques to employ:  
+**Discovery** techniques are those that help the facilitator to elicit information and views from the participants. It is vital that the facilitator considers which technique would be most suitable for a particular situation and group of participants.  
+Many **visualisation** techniques are suitable for use in a workshop. Visual approaches are quick to understand and to explain, and they help workshop participants to access the information being captured.  
 
 | **Discovery** |  | **Visualisation** |
 | ---- | ---- | ----- |
@@ -194,10 +196,35 @@ Techniques to employ:
 |  | O | User Stories |  
 |  | P |  |  
 
-
 **Discovery**  
+- **Brainstorming** (sometimes known as **idea storming**), where the participants are asked to call out ideas about a given item, all of which are written on a flipchart or whiteboard. It is important that all of the suggestions can be seen by everyone taking part as this allows the participants to build on each other’s ideas. Any evaluation of the ideas is suspended until everyone has finished making suggestions.  
 
-**Visualisation**  
+- **Round robin** discussions where the workshop participants are asked for their ideas in turn. This can be very useful to encourage participation from those who do not like brainstorming because they are uncomfortable when required to shout out ideas. Round robin discussions provide everyone with an opportunity to speak without fear of interruption or being ignored.  
+
+- **Brainwriting** which has similarities with brainstorming but requires participants to write down ideas. Each person writes an idea on a sheet of paper and then puts it in the middle of the table. Everyone then takes another sheet with an idea already written on it, writes down another idea and then returns the paper to the centre. This continues until there are no more ideas being generated. This approach is useful because it overcomes the problem of ‘shouting out’ while still enabling everyone to build on the ideas of the other workshop attendees.  
+
+- **Sticky (post-it) note exercises** also involve writing down ideas but in this case, the participants work individually or in pairs. Each individual or pair writes down their suggestions – one per sticky note – and, once everyone has stopped writing, displays them to the group, usually by sticking them on a wall or board. Once all of the suggestions have been displayed, those that are similar are grouped together and broader themes are developed.  
+
+- **Stepwise refinement** is where we take a statement or idea and keep asking ‘why?, why?’ to every answer until we think we’ve got to the heart of a problem, idea or situation.  
+
+- **Smaller ‘break-out’ or ‘syndicate’ groups**, where specific aspects are considered and then reported back to the larger group. This is a powerful way to manage a larger workshop, particularly where there is a range of skills and knowledge. It can also be useful for each break-out group to have its own sub-facilitator.
+
+Recognised organisational analysis techniques can also be used such as CSF analysis  
+
+Following up the workshop:  
+After the workshop any key points and actions are written up and sent to the relevant participants and stakeholders. This should be done as quickly as possible as this will help to keep up the momentum and highlight the need for quick action.  
+
+Hothouse Workshop:  
+Applies Lean and Agile principles to a business problem.  
+In Agile environments a project, or phase of a project, may be initiated by a hothouse workshop, bringing the business and development teams together to solve business problems and using prototypes to define the functionality and scope of the solution.  
+This idea derives from the work of James Martin at IBM in the 1980s, when a Joint Requirements Planning (JRP) workshop brought senior executives and analysts together to define functionality, scope and timeframes for new developments. Hothouses combine this JRP approach with Lean techniques. As its name suggests, it is a very intense experience, often with participants working into the night, to produce prototype models of how the new solution might look. Hothouses typically take place over 2–3 days and are primarily for innovation projects rather than simple administration systems or enhancements to existing systems. The workshop group is typically split into smaller teams who each develop a prototype solution during a series of iterations. At the end of each iteration, the output is reviewed and feedback given which is used during the next iteration and so on. The hothouse may be run as a competition between the groups. Ultimately, the outcome should be a prototype solution to a business problem accompanied by additional analyses of the corresponding metrics, processes, costs and benefits required to enable the delivery of the full solution.  
+
+### Focus Groups:  
+Business and Market Research  
+Focus-group participants should represent a sample of the target constituency, whether they be external customers or internal staff gathered from multiple sites and branches. They are given an opportunity to express their opinions and views, and to discuss them. In a focus group, unlike a workshop, there is no intention to form a consensus during the discussion, or for the group to acquire a sense of ownership of any decisions made or solutions identified.  
+Good way of obtaining views and ideas but do not offer much in the way of design or obtaining quatitative data.  
+
+### Scenarios:  
 
 
 
