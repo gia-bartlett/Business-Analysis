@@ -86,8 +86,9 @@ Interviewee's own territory where they feel comfortable
 Interviewer can observe the formal working environment  
 Relevant source documents to hand on site  
 
-
-
+| Open | Body | Close |
+| ---- | ---- | ----- |
+| Introductions and Setting the scene | Questions and Answers | Sumamrise and Next steps |
 
 
 #### Quantitative Investigation:  
