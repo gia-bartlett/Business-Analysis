@@ -113,8 +113,8 @@ A one-page assessment can be made for each stakeholder but a more useful approac
 - Current Interest  
 - Issues and Interests (This is a brief summary of what interests each stakeholder and what we believe their main issues with the project are likely to be.)  
 - Current Attitude (See table below)  
-|   |   |
-| - | - |
+| Position | Description |
+| -------- | ----------- |
 | Champion | will actively work for the success of the project. |
 | Supporter | in favour of the project but probably will not be very active in promoting it. |
 | Neutral | has expressed no opinion either in favour or against the project. |
