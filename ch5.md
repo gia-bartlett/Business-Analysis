@@ -225,20 +225,167 @@ Focus-group participants should represent a sample of the target constituency, w
 Good way of obtaining views and ideas but do not offer much in the way of design or obtaining quatitative data.  
 
 ### Scenarios:  
+Telling the stroy of a task or transaction.  
+Useful for analysing or redesigning business processes as the steps can be visualised and thought through.  
+A scenario description will include the business event that triggers the transaction, the set of actions that have to be completed in order to achieve a successful outcome and other aspects such as the actor responsible for carrying out the task, the preconditions and the postconditions.  
+The preconditions are the characteristics of the business or state of the IT system that must be true for the scenario to begin.  
+Postconditions are the characteristics that must be true following the conclusion of the scenario.
 
+Advantages of Scenarios:  
+- They provide a framework for discovering the expections that require alternative paths when carrying out a task. Each step provides an opportunity to analysie what else might happen.  
+- They require the user to include each step and the transitions between the steps, and as a result remove the opportunity for omissions.  
+- The step-by-step development approach helps ensure that there are no taken-for-granted elements and the problem of tacit knowledge is addressed.  
+- They are developed using a ‘top-down’ approach, starting with an overview scenario and then refining this with further detail. This helps the business user visualise all possible situations and removes uncertainty.  
+- A workshop group refining a scenario will identify those paths that do not suit the corporate culture, or that are not congruent with any community of practice involved.  
+- They provide a basis for developing prototypes.  
+- They provide a tool for preparing test scripts.  
 
+Disadvantages of Scenarios:  
+- Time-consuming to develop  
+- Can become very complex - particularly where there are several alternative paths (consider treating each alternative path as a separate scenario)  
 
+Developing a Scenario:  
+1. Identify the task or interaction to be modelled as a scenario and the trigger, or event, that causes that interaction to take place.  
+2. Identify the steps that will be carried out during the usual progress of the interaction, and the flow of these steps.    
+3. Define the control conditions; the conditions that must be met in order to move from one step to the next, following the typical sequence of steps.  
+4. Identify the alternative paths that would be required to handle the situations where the control conditions are not met.  
 
+This is the main scenario - happy day scenario - that assumes no complications and that everything is running as expected.  
+Scenarios are powerful when eliciting information, because they break down each of the default steps to ask the questions ‘What needs to be true to continue with this path?’ and ‘At this point, what might happen instead?’ Once the alternatives have been uncovered the analyst can then ask the question ‘What should we do if this happens or if this is true?’  
 
+It can be helpful for the analyst to present a prepared ‘happy day’ scenario which is then used as the basis for a discussion. An approach that helps encourage the business stakeholders to contribute wholeheartedly to this process involves placing them in break-out groups with the instruction to produce a concrete scenario that will break the ‘happy day’ path. Experience shows that this instruction sharpens their creativity and produces many valid extensions. All extensions, and resultant requirements, that are uncovered are then added to the analysis documentation.  
 
+Documenting Scenarios:  
+A popular way of documenting scenario descriptions is to develop use case descriptions to support use case diagrams. This technique is part of the Unified Modeling Language (UML) and is a textual method. However, there are a number of graphical methods for documenting a scenario, such as storyboards, activity diagrams, task models and decision tree diagrams.  
 
+### User Analysis:  
+A starting point for understanding these users is to identify them and give them generic titles, like ‘customer’, ‘supplier’ or ‘regulator’. (There is a clear relationship here with stakeholder analysis)
 
+However, sometimes these generic titles do not tell us enough about the business users for us to envisage how and why they might want to use an information system. ‘Customer’, for example, is a very broad term that may not capture the different sets of characteristics displayed by the actual customers of an organisation. A good way of understanding customers is to create ‘personas’ for them.  
 
+Personas can also be useful when analysing the users of the business system who have particular accessibility requirements. For example, we may identify a persona that represents customers who have a specific disability that we need to understand in order to enable access to the available business services.
 
+### Prototyping:  
+Prototyping is an important technique for eliciting, analysing, demonstrating and validating requirements.  
+Users often don't know what they want, making it difficult for analysts to define requirements.  It is difficult to envisage requirements wihtout knowing what is possible - it is easier to review a suggested solutions and identify potential problems.  
 
-Ethnographic Studies:  
+Using a prototype often releases the blocks to thinking, and can result in greater understanding and clarity. Prototypes also offer a way of demonstrating how the new processes or system might work and provide a concrete basis for evaluation and discussion. Agile software development approaches, such as DSDM and Scrum, use evolutionary prototyping as an integral part of their development lifecycle.
+
+Prototyping involves building simulations of a process or system in order to review them with the users to increase understanding about the requirements.  
+
+A quick but effective form of prototyping is to use flipchart sheets, pens and packs of sticky notes and work with the users to develop paper prototypes. This will enable the users to develop screens, identify navigation paths, define the data they must input or refer to, and prepare lists of specified values that they know will apply. This approach can also be used to develop prototypes of a business process.  
+
+Scenarios can be used as the basis for developing prototypes. As well as confirming requirements, prototyping can help the users to identify others that they had not considered previously.  
+
+Advantages of Prototyping:  
+- to clarify any uncertainty on the part of the analysts and confirm to the user that we have understood what they asked for;  
+- to help the user identify new requirements as they gain an understanding of what the system will be able to do to support their jobs;  
+- to demonstrate the look and feel of the proposed system and elicit usability requirements;  
+- to validate the system requirements and identify any errors;  
+- to provide a means of assessing the navigation paths and system performance.  
+
+Disadvantages of Prototyping:  
+Prototyping has a number of hazards, most of which can be avoided by setting clear objectives for the prototyping exercise and managing the stakeholders’ expectations.  
+- The prototyping cycle can spin out of control with endless iterations taking place.  
+- If the purpose of the exercise has not been explained clearly, the users may think that when they are happy with the mock-up, the system is now complete and ready for use.  
+- User expectations can be raised unnecessarily by failing to mimic the final appearance of the system, or its performance; a system that is on a stand-alone machine with six dummy data records to search will be more responsive than a machine that is sharing resources with a thousand other machines on a national network, and has several million records to access. If there is likely to be a delay in the real response time, it is important that you build that into the prototype.  
+
+Prototyping in Agile:  
+In an Agile software development environment, prototyping sessions are used to elicit and analyse requirements, and to construct and test working functionality. The development work is conducted iteratively, with each iteration using the concept of a timebox or sprint, typically a predefined number of weeks, within which certain functionality is delivered. During the timebox, the selected requirements for that delivery will be validated, coded, tested and released. Contingency is provided by the prioritisation of the requirements, whereby some are designated at a lower level of priority and may be postponed to a later timebox if necessary. In this approach, the tension between time and quality is resolved in favour of time but, because Agile encourages iterative development, the quality – i.e. the scope of functionality – is merely postponed, not sacrificed. The prototyping approach allows the business to receive the most critical pieces of functionality when it needs it, and the less urgent functionality will be delivered in future iterations.  
+
+### Ethnographic Studies:  
 Often beyond the budget of most projects - involves spending extended periods of time in the target environment.  
 People become used to the observer and over time return to their natural behaviours  
 
-
 #### Quantitative Investigation:  
+Quantitative approaches are used to obtain data that is needed to quantify the information that has been provided during interviews, workshops or other qualitative techniques. Examples of the quantitative data we need could be the following: we might want to know the number of workers who use a particular system, the number of complaints received during a set period or the number of orders processed each day.  
+
+### Surveys and Questionnaires:  
+Useful for limited amounts of informations from a lot of people (when interviewing them infdividually or running multiple workshops is not feasible)  
+
+Surveys must be carefully designed and contain a heading, classification and data section:  
+
+**Heading:**  
+Explain purpose and instructions to complete and return - this improves information provided and increases returns.  
+
+**Classification:**  
+Capture details of respondant - age, gender, length of service, role etc  
+Confidence in anonymity must be provided so that data provided is reliable  
+
+**Data:**  
+Main body of questions  
+Ideally should allow for yes/no answers (agree/disagree/neutral or excellent/satisfactory/inadequate etc)  
+All responses should use the MECE (Musutally Exclusive, Completely Exhaustive) approach to ensure they cover every situation  
+The aim is to extract meaningful data, observe patterns and draw relevant conclusions.  
+Questions must not be ambiguous ('Have you used the website recently?' -> No (Could mean: not interested/does not know about website/not IT-literate/used it 3 months ago))
+
+A key disadvantage is that people are not often motivated to complete surveys so it is important to clarify why their input is needed. Rewards can be an excellent motivator (prize draw) or asking the manager to instruct completion.  
+
+### Special Purpose Records:  
+Special purpose records are data-gathering forms used by the analyst; the format is usually decided by the analyst and they are not company records. They can be completed either by the analyst during an observation session or given to the business users to complete over a period of time.  
+
+Can be completed by an analyst shadowing a staff memeber or given to the staff member to complete as they go about their tasks.  
+There are difficulties with getting people to keep this form of record, chief of which is that it is easy to forget to record each occurrence. As with surveys, it is difficult to get people to buy-in to this task.  
+
+Notwithstanding this, it can still be useful sometimes to get people to keep such records as they help avoid the problems associated with observation and it can be an effective use of the analyst’s time.  
+
+### Activity Sampling:  
+This can be used when it is necessary to know how people divide their work time among a range of activities. For example, how much time is spent on the telephone? How much time spent on reconciling payments? How much time on sorting out complaints?  
+
+Activity sampling is more accurate than SPRs as it deals with the number of times an activity is carried out per day.  
+An activity sampling exercise is carried out in five steps:  
+
+1. Identify the activities to be recorded. This list should include a ‘not working’ activity as this covers breaks or times away from the desk. It might also include a ‘not-related’ task, such as first aid or health and safety officer duties.  
+2. Decide on the frequency and timings, i.e. when and how often you will record the activities being undertaken.  
+3. Visit the study group at the times decided upon and record what each group member is doing.  
+4. Record the results.  
+5. After a set period, analyse the results.  
+
+By analysing that figure against other data, such as the total amount of time available, we are able to calculate the total length of time spent on that activity and the average time one occurrence of the activity will take. This information can be useful when developing business cases and evaluating proposed solutions. Also, it will raise other questions such as whether the average time is reasonable for this task or whether it indicates a problem somewhere else in the process.  
+
+### Document Analysis:  
+Document analysis involves reviewing samples of source documents to uncover information about an organisation, process or system.
+
+For each document, we might analyse:  
+
+How is the document completed?  
+Who completes the document?  
+Are there any validations or controls on the document?  
+Who uses the completed document?  
+When is the document used?  
+How many are used or produced?  
+How long is the document retained by the organisation, and in what form?  
+What are the details of the information shown on the document?  
+Where is the data or information obtained?  
+Are other names used in the organisation for any of the items of data?  
+Are all the data items on the document still needed, or are any redundant?  
+Is there other data that is not entered on the document, but would be useful for this process?  
+
+Document analysis is useful to supplement other techniques such as interviewing, workshops and observation. For example, analysing the origin and usage of a document can prove very enlightening when investigating a process. Samples of completed documents or system printouts also help to clarify the key items of data used to carry out the work and can prove an excellent basis for modelling data.  
+
+Some of the techniques described above are suitable for general investigation of the problem situation and others more for eliciting requirements for the new system. Of those suitable for requirements, some are more suitable for a waterfall approach and others geared more towards Agile developments. Some techniques are suitable in all situations.  
+
+The table below gives a guide to the suitability of these techniques for the different situations.  
+| Investigation Technique | Understanding the Situation | Waterfal Requirements Elicitation | Agile Requirements Elicitation |
+| - | - | - | - |
+| Interview | Y | Y | Y |
+| Observation | Y | Y | Y |
+| Shadowing | Y | Y | Y |
+| Workshop | Y | Y | Y |
+| Hothousing | Y | N | Y |
+| Scenarios | Y | Y | Y |
+| Protoyping | Y | Y | Y |
+| Questionnaires | Y | Y | N |
+| SPRs | Y | Y | N |
+| Activity Sampling | Y | Y | N |
+| Document Analysis | Y | Y | N |
+
+### Rich Pictures:  
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.5.jpg"><img>
+### Mind Maps:  
+
+### Business Process Models:  
+
+### Spaghetti Maps:  
+
+### Fishbone Diagrams:  
