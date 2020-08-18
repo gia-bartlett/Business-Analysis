@@ -129,3 +129,100 @@ A one-page assessment can be made for each stakeholder but a more useful approac
 - Messages to Convey (This is where we define the emphasis that should be put on any communications to this stakeholder. For example, we might need to identify and highlight any issues that are of particular interest to this stakeholder. The messages are likely to be tailored to each stakeholder and so the more we know about them and their concerns, the more effective our communications will be.)  
 - Actions and Communications (This is the most important part of the plan, where we define exactly what actions we will take with regard to this stakeholder. It may be just to keep them informed, in a positive way, about the project and progress to date. Alternatively, it may be a more active approach, for example meeting them to engage their interest in the project. Where a strategy has been devised to change a stakeholder’s position – perhaps to encourage someone to take a closer interest – then its success must also be evaluated and other approaches developed if the desired results are not being achieved. As mentioned earlier, the high interest/high power stakeholders are the key players and require positive management, such as frequent meetings and discussions about the direction the project is taking. This will help make sure that they are kept informed about a project and are happy with the approach that we are taking. Perhaps just as important, we will understand when their opinions or issues have changed and will reflect this in the project direction and work as appropriate.)  
 
+### Defining Stakeholder Involvement:  
+Apart from deciding on the management strategy for the various stakeholders, it can also be very useful in a business analysis project to consider the tasks or deliverables and the extent to which the stakeholders are involved with them. A simple and effective method for achieving this is to create a RACI chart.  
+
+A RACI chart – more formally known as a ‘linear responsibility matrix’ – lists the main products/deliverables down the side and the various stakeholders along the top. Where a stakeholder intersects with a product, we indicate their involvement using one of the RACI categories, which mean:  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure6.5.jpg"><img>  
+
+**Responsible:**  
+This is the person or role responsible for creating or developing the product or performing the task.  
+**Accountable:**  
+The person or role who will ‘carry the can’ for the quality of the product or task. The project sponsor, for instance, must ultimately be accountable for the business case for a project.  
+**Consulted:**  
+This person or role provides information that is input to the product or task.  
+**Informed:**  
+These stakeholders are informed about a product or task, though they may not have contributed directly to them. For example, the project sponsor has the right to be kept informed about any of the products being produced during the project.  
+
+RASCI is similar but has an additional **Support** role. This person (or role) will provide assistance, and sometimes resources, to whoever is responsible for the product/deliverable.  
+
+Yet another scheme that could be used on a linear responsibility matrix includes I (initiation), E (execution), A (approval), C (consultation) and S (supervision).  
+
+### Using Social Media in Stakeholder Management:  
+The availability of social media offers the business analyst additional resources to learn about stakeholders and to manage the relationships with them.  
+
+One obvious way of using social media is to use sites such as LinkedIn to carry out research about stakeholders. What is their role? What have they done previously in their careers? Do we have any contacts in common who could introduce us?  
+
+### Understanding Stakeholder Perspectives:  
+It is all very well knowing who the stakeholders are and what is likely to be their influence on a business analysis project. It is also important to understand their attitude – how supportive are they of what we are trying to achieve? But it is also vital to understand what they think, in other words what are their business perspectives? For example, in a commercial organisation, one stakeholder might feel that any activities are allowable as long as they are not actually illegal, whereas other stakeholders may feel that the organisation has some responsibility towards society at large and therefore conclude that some activities should be avoided on ethical grounds.  
+
+#### Soft Sytems Methodology (SSM):  
+To help us understand these stakeholder perspectives, and to model the different business systems that would fulfil them. we can utilise some of the elements from Peter Checkland’s Soft Systems Methodology:  
+
+Peter Checkland and his team at Lancaster University devised SSM in the 1980s as a way of understanding complex real-world situations. The basic premise underlying SSM is that real-world situations are rarely simple and are often very complex.  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure6.7.jpg"><img>  
+
+When investigating business situations, it is often the case that stakeholders have different views about what the ‘problem’ is and also about what needs to be done. There are five main stages that should be applied:  
+
+1. The situation is identified, for example the loss of market share by a company or the poor public perception of a public body, and the issues and causes are investigated.  
+2. Stakeholders’ views – perspectives – are sought about what the organisation is about, what it should be doing and so forth.  
+3. From each stakeholder’s perspective, a conceptual model is created to show what the organisation should do to fulfil the perspective.  
+4. These conceptual models are compared with the real-world situation and a consensus model is generated, possibly by combining elements from various stakeholder’s perspectives.  
+5. Actions are defined to address the situation by implementing the consensus model in place of whatever is happening currently in the organisation.  
+
+#### Analysing Perspectives:  
+SSM provides us with a very useful tool that we can use to explore the stakeholders’ perspectives. Although the technique is known as CATWOE, experience shows that exploring the CATWOE elements is actually best done in the following order:  
+
+**W = Weltanschauung or worldview** This summarises a stakeholder’s beliefs about the organisation or business system, which explain why it exists and what it should be doing.  
+
+**T = Transformation** This is the principal business activity of the business system, in other words what lies at the heart of its operations. (Checkland used the term ‘transformation’ here because, at the highest level of abstraction, all systems exist to transform some form of input into some form of output.)  
+
+**C = Customer(s)** Stakeholders can differ, too, in their views of who their customers are (or should be). Another way of thinking about customers is to ask ‘who is on the receiving end of the transformation?’  
+
+**A = Actor(s)** These are the people who carry out the transformation, for example telesales staff set challenging targets or knowledgeable salespeople and customer services staff capable of establishing long-term relationships with customers.  
+
+**O = Owner(s)** The perspective is someone’s view of a business system, so the question is who ultimately controls that system and who could instigate change, or even closure, if necessary. Who, for example, could decide between the two competing worldviews about the drinks supplier?  
+
+**E = Environment** Finally, all organisations operate within the constraints imposed by their environment. PESTLE can be used to identify the main external factors but, in some situations, things like organisational policies can also feature here.  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure6.8.jpg"><img>  
+
+### Illustrating the perspectives - Business Activity Models:  
+Business activity models (BAM) provide a conceptual model of what we would expect to see to fulfil a particular stakeholder perspective. A BAM shows what the organisation should be doing, as opposed to a business process model which explores how it does these things.  
+
+Creating a BAM:  
+
+| Task | Description |
+| ---- | ----------- |
+| DOING | These are derived from the transformation of CATWOE and reflect the organisation’s principal business activities. |
+| ENABLING | These lead into the doing activities on the model and acquire or replenish the resources needed to carry them out. |
+| PLANNING | Planning activities also include setting targets, such as KPIs against which the performance of the business system can be measured. |
+| MONITORING | The actual evaluation of the performance is done here |
+| CONTROL | If the monitoring activities reveal that performance is not what was expected in the plans,may be required to institute the necessary remedial actions. |  
+
+With regard to the control activities, two observations are relevant:  
+
+1. On a BAM, we could associate a control activity with each monitoring activity and some users of the technique prefer to shown them this way. However, in the real world, managers often take action as a result of a range of measurements so a less cluttered model can be created by feeding all of the monitoring activities into one control activity.  
+2. The control actions themselves could feed back into any of the other activities on the model. Since trying to show this would create an impossible-to-understand diagram, the convention is to show a ‘lightning strike’ symbol emanating from the control activity which means that it feeds back into the model wherever it is relevant.  
+
+Having modelled the organisation from the perspective of each stakeholder (or, at any rate, of each stakeholder with a different CATWOE), it is now necessary to achieve a consensus BAM that represents the agreed or idealised way forward. Ideally, this is achieved through negotiations involving the stakeholders and the business analysts; the aim is for the stakeholders to all ‘buy in’ to the final BAM. Realistically, however, sometimes the stakeholders just cannot agree and this is where identifying the ‘owner’ of the business system (as in CATWOE) is important. The owner has to choose between the competing BAMs or perhaps impose one that is a composite of several. This is less desirable than securing all the stakeholders’ agreement, as some people may not necessarily accept the agreed BAM but it may be the best that can be achieved in some situations.  
+
+The consensus BAM is an extremely valuable product for a business analyst as it provides a model of what the business system should look like and should be doing. Insofar as the actual situation on the ground differs from this conceptual view, this provides a means of considering opportunities for improvement. Examination of the difference between the current situation (perhaps reflected in a range of documents including meeting reports, a rich picture or fishbone diagram) and the conceptual view provided by the BAM, is an important part of gap analysis. As part of the gap analysis, the business analyst may wish to explore how the activities are currently carried out, and how they should be performed in the future; this can be achieved through business process modelling.  
+
+There is no universally agreed notation for BAMs. Many users of the technique like to use ‘cloud’ or ‘thought’ symbols to emphasise that this is a conceptual model and not a representation of what the organisation looks like now. It is probably not a good idea to use boxes, as then the models may be confused with business process models which, as we have shown, illustrate how an organisation works rather than what it does.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
