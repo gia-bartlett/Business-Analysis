@@ -381,11 +381,38 @@ The table below gives a guide to the suitability of these techniques for the dif
 | Document Analysis | Y | Y | N |
 
 ### Rich Pictures:  
-<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.5.jpg"><img>
+A Rich Picture is a way to explore, acknowledge and define a situation and express it through diagrams to create a preliminary mental model. A rich picture helps to open discussion and come to a broad, shared understanding of a situation.  
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.5.jpg"><img>  
+
 ### Mind Maps:  
+Mind maps are a useful tool for summarising a lot of information in a simple visual form that is structured to highlight connections between different ideas and topics. They provide a means of organising information while, in a similar vein to rich pictures, representing all of the issues that have been uncovered about the situation. A mind map helps structure the information gathered into a recognisable and manageable set of connections. Mind maps are extremely useful in helping analysts to order their thinking, and they work well both on their own and when used in conjunction with rich pictures.  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.6.jpg"><img>  
+
+The business system or problem under consideration is drawn at the centre of the diagram with the main elements shown as first level of branches radiating from the central point. Each of these branches is labelled to indicate the nature of the particular area or issue; the labels should use as few words as possible, ideally one word. The branches might represent such matters as particular processes, the equipment and systems used, relationships between the staff that do the job and so on. These branches can then support second-level branches that are concerned with more detailed areas for each aspect of the situation.
 
 ### Business Process Models:  
+In order to understand fully how a process is carried out, it is helpful to draw a ‘swimlane’ diagram, which shows the tasks in a process, the actors responsible for carrying them out and the process flow. These models are easy to draw and business stakeholders find them accessible, so they provide a good communication tool between the analyst and the business staff. Business process models are also invaluable as a diagnostic aid since they help identify problems such as delays, bottlenecks and duplicate tasks.  
+Swimlane example:  
+<img src="https://online.visual-paradigm.com/repository/images/1187db53-7286-4ffa-821c-7b57b401b6b3.png"><img>  
+It is interesting to note that a swimlane diagram would not show the physical movement required for an actor to perform a task, so it would not highlight the potential for improvement.  
 
 ### Spaghetti Maps:  
+A spaghetti map is a tool to show the movement and interactions of the stakeholders in a particular environment, when performing particular tasks and processes. It is called a spaghetti map simply because as the movements are drawn, the diagram created resembles a plate of spaghetti, with lines crossing back and forth without any apparent formality or design. Spaghetti maps can be drawn up during an observation session, mapping the movements of users across the room to meet different actors or to use equipment such as printers or photocopiers.  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.7.jpg"><img>  
+
+This spaghetti diagram shows a clerk in the service department of a garage checking in a car for repair and allocating a courtesy car to the customer. Despite having a computer on her desk she still needed to make use of a printer, a photocopier, a filing cabinet and a wall chart in order to perform the task. Their position on the map is similar to their position in the real office. It is easy to see how much of the clerk’s time is taken over the course of a day in accessing these different stations. This diagram represents one person executing one instance of a common task, and makes clear the scope for efficiency gains.  
 
 ### Fishbone Diagrams:  
+One of the major objectives in investigating and modelling a business system is to identify where there are problems and discover their underlying causes. Some of these may be obvious, or the stakeholders may be aware of the root causes of their problems. However, sometimes it is only the symptoms that are highlighted by the stakeholders because the causes have proved difficult to isolate. The fishbone diagram is a problem-analysis technique, designed to help understand the underlying causes of an inefficient process or a business problem. It is similar to a mind map in some ways, but its purpose is strictly diagnostic.  
+The technique was invented by Dr Kaoru Ishikawa (Ishikawa 1985), and the diagrams are sometimes known as Ishikawa diagrams. They are often used in root cause analysis. The name of the problem is documented in a box at the right-hand side of the diagrams. Stretching out from the box towards the left of the page is the backbone of the fish. Radiating up and down from this backbone are spines; the spines suggest possible areas for causes of the problem.  
+A number of approaches may be used when labelling the spines:  
+- The four Ms: manpower, machines, measures and methods.  
+- An alternative four Ms: manpower, machines, materials and methods.  
+- The six Ps: people, place, processes, physical evidence, product/service and performance measures.  
+- The four Ss: surroundings, suppliers, systems and skills.  
+
+These categories help because they list areas that have been found to be the sources of inefficiencies in many business systems. In practice we often consider a range of categories and might combine the most relevant elements from the approaches above, or even define some categories that are particularly relevant to a given project. Data for this analysis can be found from interviews, workshops, activity sampling, observation and special purpose records. The categories to be used on the fishbone diagrams can also provide a structure to a workshop discussion.  
+
+<img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure5.8.jpg"><img>  
