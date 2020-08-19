@@ -1,7 +1,7 @@
 # BCS Foundation Certificate in Business Analysis  
 
 ### Objectives:  
-To understand the follwing:  
+To understand the following:  
 - the role and competencies of a business analyst
 - strategy analysis
 - business system and business process modelling
