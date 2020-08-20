@@ -195,6 +195,91 @@ Even if a process is perfectly designed, however, this does not guarantee that t
 
 #### Improving Business Processes:  
 - remove problems identified in 'as-is'  
-- decide if this is the real problem 
+- decide if this is the real problem  
+
+Our initial analysis, for example, might have identified that our invoice production is taking too long and we are missing deadlines for billing our customers. One solution to this could be to allocate more resources to the processing to speed it up. Further analysis, however, might reveal that the real cause of the delay is excessive rework. A more appropriate solution to this situation would be to implement tighter controls, reduce the rework and eliminate the delays without incurring the cost of increased resources.  
+
 #### Business Rules:  
-#### Simplify the Process:
+Business process improvement is also about challenging the assumptions and business rules upon which the current process is built and which, in some circumstances, may limit the process. Business rules are categorised in two ways:  
+
+- Constraints – these are the business rules that have to be applied and restrict how a process or task is performed. The constraints may be enforced upon the organisation, such as legal or regulatory constraints. Alternatively, they may result from internal policies or strategies.  
+- Operational guidance – these are the business rules that determine how procedures are conducted within the organisation. For example, there may be rules governing cancellation fees for hotel bookings or postage charges for delivering orders.  
+
+#### Simplify the Process:  
+- eliminate unnecessary/redundant tasks or hand-offs  
+- combine tasks to a single actor where possible  
+- if a task does not add value or enable another part of the process to add value then it should eliminated  
+- where workarounds have been devloped a standard way of doing things should be intorduced  
+- remove bottlenecks (it can be useful to use sophisticated process modelling tools as they provide simulation facilities that help us examine the performance and resource requirements of proposed process designs)  
+- update the sequence of tasks  
+- update the boundary of processes (extend or reduce the activities carried out by the organisation). For example, where order processing staff are replaced with an online booking system or access is provided to electronic documentation. OR A distribution company supplying goods to retailers would traditionally require those retailers to submit their replenishment orders as and when their stocks got low. If the distributor were given access to retailers’ sales data, they could then maintain the retailers’ stock without any action on the retailers part. Not only would this make life easier for the retailer but the distributor would have better information for planning their own stock levels.  
+- automate! (faster, cheaper, more reliable, standardised)  
+-> Bespoke IT development. The definition of the business process provides an excellent basis on which to define the detailed requirements of a bespoke IT solution.  
+-> Packaged applications. These provide best practice processes for specific areas such as Finance or HR. Examples are the ERP packages supplied by organisations such as SAP and Oracle.  
+-> Workflow management systems. Essentially this is software that controls the flow of electronic documents/transactions through the various tasks of a process. It can ‘read’ the process model to determine exactly what should happen during a transaction, depending on particular circumstances.  
+-> Straight through processing (STP). This as a concept from the finance industry that allows transactions to be passed from one ‘party’ to another without any manual intervention and is used to integrate the work of front, middle and back office functions.  
+- Redesign the process (devlop 'as-is' model -> analyse 'as-is' and define problems -> identify potential improvements -> document 'to-be' model)  
+- if there is no existing process or it is so different from what the organisation wants to become the a direct creation of 'to-be' must be made  
+- The organisation model, the value chain and the value proposition will reveal the aims of the business and the environment within which the process needs to be implemented (strategic plans, business objective and relevant KPIs also help)  
+
+- Model the to-be' defining the expected outcomes of the process and the events/triggers that the process will need to respond to  
+- work backwards from expected outcomes - detwrmine logical tasks needed to achieve these outcomes  
+- if the planned organisational structure is known then tasks can eba ssigned to relevant swimlanes  
+- even if the existing process is not relevant it is useful to analyse to identify underlying business rules that may need to be carried over and to plan where the changeover will begin and where it will end  
+
+- define not only what the process does but also how well that processing is to be carried out  
+- there are two perspectives on performance measurement: measurement for internal management purposes and measurement by our external customers  
+
+Internal Measures:  
+- organisational objectives, CSFs and PKIs
+- defined at organisational level, cascaded down to departmental level and then further to the operational level  
+- internal measures are often focused on what the organisation wants to achieve and not on what the customer values (ie low cost operation as a KPI can cause porblems for the successful delivery of the services)  
+
+External Measures:  
+- what the customer expects to have delivered (what the customer values)  
+- areas to consider: time to complete a task -> cost/prices (financial) -> accuracy/effectiveness (quality)  
+
+Performance and Task Measures:  
+- key issue is to understand customers' value expectations  
+- process amy be made up of serveral tasks, all of which needs to be measured for performance (this should be aggregated within the overall performance measures)  
+- performance targets for a process must align with the expectations of the customers  
+- estimating timelines depends on the following:  
+-> length of each task within the process  
+-> resources available  
+-> number of transactions to be processed  
+-> variety of transactions  
+-> errors causing rework  
+-> delays and queues at hand-offs  
+-> quality and productivity of staff  
+
+- process modelling software can provide performance information to simulate the behaviour using the data above  
+- cost and time are interrelated (the longer it takes the more it costs)  
+
+Performance Issues:  
+- measures and targets must be carfeully chosen (especially when incentives are involved)  
+- the implications of the target must be thought through (increasing sales target leading to lowering prices to meet targets)  
+
+### Business Process Model and Notation (BPMN):  
+- standardised way of drawing BPMs  
+- represents BPMs in an industry-standard way  
+- precise logic that can be understood and executed by workflow or process engines that control many business processes  
+
+- similar to UML (swimlanes) with additional notation:  
+-> POOL - consists of lanes (process shows sequence of task carried out by actors each in their own lane)  
+-> blackbox pool - external actor (customer who initiates the process) no activities shown in this lane/pool  
+-> GATEWAY - controls the flow through the tasks (represented as a diamond - letter 'O' inside = either/or decision, '+' inside = parallel process flow)  
+
+### Six Sigma:  
+Its purpose is to eradicate performance deficiencies in processes that are critical to achieving customer satisfaction. These processes might include complaint handling, order fulfilment or delivering a package to a customer’s house. To achieve process improvement, Six Sigma follows a five step approach known as DMAIC:  
+
+- **Define** the problem. What is going wrong? Is it one problem or many? What is the visible evidence? Where is it and where does it come from? How serious is it? Is it organisation wide or localised? What will be done about it? What is the objective of this investigation?  
+
+- **Measure** the data. This means obtaining the data to identify the symptoms; do they occur all the time or from time to time? Produce a map of the process that is producing the problem. Concentrate on the symptoms doing the most damage.  
+
+- **Analyse** the results so far. Be creative and prepare theories about the causes of the problems. Document the theories and test them. Identify the root causes.  
+
+- **Improve** the process. Assess alternative improvement methods. Design and test the chosen method. Implement the chosen method.  
+
+- **Control** the new process and monitor its effectiveness.  
+
+
