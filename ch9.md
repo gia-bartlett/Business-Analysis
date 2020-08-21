@@ -166,6 +166,58 @@ Ownership
 | Cash flow for year (savings less costs) | -260,000 | 90,000 | 90,000 | 90,000 | 90,000|
 | Cumulative cash flow | -260,000 | -170,000 | -80,000 | +10,000 | +100,000 |
 
+Year 0 - cost outweigh benefits by a lot  
+Year 3 - benefits are finally exceeding the costs  
+
+A method that takes account of the time value of money is known as discounted cash flow (DCF) which leads to a ‘net present value’ (NPV) for the project.  
+This method calculates the value of the money by studying the likely movement of the markets etc.  
+
+| Year | Net cash flow | Discount factor | Present value |
+| ---- | ------------- | --------------- | ------------- |
+| 0 | -260,000 | 1.000 | -260,000 |
+| 1 | 90,000 | 0.909 | 81,810 |
+| 2 | 90,000 | 0.826 | 74,340 |
+| 3 | 90,000 | 0.751 | 67,590 |
+| 4 | 90,000 | 0.683 | 61,470 |
+Net present value of project = 25,210  
+Not as great a margin as the table above  
+
+Internal rate of return (IRR):  
+single percentage figure for return on investment  
+IRR is worked out from the DCF/NPV calculations - what discount rate would we have to use to get a net present value of zero after five years  
+Excel has an automated function to do this  
+IRR does not take into account the overall size of the project, so that the project with the smaller IRR may produce more actual pounds.  
+Therefore DCF/NPV is the best emthod for assessing the value but manager like the simplicity of IRR  
+
+#### Presentation of a business case:  
+- think about the audience - try to address the concerns of the decision makers  
+- keep it short - these are busy managers  
+- tell them what you're going to tell them -> tell them -> tell them what you've told them  
+
+RAID and CARDI LOGS:  
+Risks - Assumptions - Issues - Dependencies  
+
+CARDI:  
+**Constraints**  
+Iron triangle - time, costs, quality  
+Legislation  
+Compatibility  
+
+**Assumptions**  
+project may rest on certain assumptions  
+
+**Risks**  
+logged risks  
+new risks  
+retire risks that do not happen  
+
+**Dependencies**  
+other projects  
+training  
+
+**Issues** 
+risks that materialise  
+
 
 <img src=""><img>  
 <img src=""><img>  
