@@ -106,6 +106,43 @@ Capability models represent, at a high level, what the organisation needs to be 
 
 A capability is a particular ability to achieve an outcome and reflects something a business is able to do that creates value for a customer. A full business capability model usually investigates and models the whole organisation across a number of business strata (layers). The main strata found on a typical business capability model would be:
 
-strategic or direction setting;
-core or customer facing;
-supporting.
+strategic or direction setting;  
+core or customer facing;  
+supporting.  
+
+At foundation level:  
+
+| Strata | Foundation Capabilities |
+| ------ | ------------------------|
+| Strategic | Business Planning - Capital Management - Policiy Management |
+| Customer Facing | Distribution - Customer Service - Product Development - Account Management |
+| Support | Staff Recruitment - Procurement - Vendor Management |
+
+It should be noted that the following rules apply when producing a business capability model:  
+- capabilities should be defined in business terms;  
+- capabilities should be named as nouns not verbs;  
+- capabilities are static (value streams show movement);  
+- capabilities should be unique across the entire capability model;  
+- capabilities are enabled via value streams.  
+
+Organisations that document and maintain business capabilities can adapt better.  
+Helpful when working with externals if the organisation knows what they need to deliver quality to the customer.  
+
+#### Value Stream Analysis:  
+Used to investigate and represent the delivery of value.  
+End-to-end collection of high-level linear stages that create an outcome of value to a specific customer group.  
+Value streams are used to identify, map and analyse the value exchanged between an organisation and various stakeholders (internal and external) that interact
+with it. They focus on the delivery of value and may not reflect the way the work is done in practice.  
+Shows the main sequential stages which add value to the customer (considers all stages needed, regardless of how many business may be involved).  
+Example of a mortgage application:  
+
+Initial enquiry -> Mortgage Application -> Mortgage Assessment -> Release of Funds -> Funds Available  
+Does not show who performs each stage -  the business capabilities can be mapped onto the stages of the value stream  
+
+Value streams should:  
+- be stakeholder focused;  
+- take a holistic view;  
+- be customer centric;  
+- facilitate further decomposition;  
+- help identify which business capabilities help achieve stakeholder value.  
+
