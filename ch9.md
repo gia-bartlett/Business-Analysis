@@ -198,8 +198,10 @@ RAID and CARDI LOGS:
 Risks - Assumptions - Issues - Dependencies  
 
 CARDI:  
+CARDI is RAID with Constraints added  
 **Constraints**  
 Iron triangle - time, costs, quality  
+<img src="https://miro.medium.com/max/597/1*Su1bnrGz2WdTChT87HBhgA.png"><img>
 Legislation  
 Compatibility  
 
@@ -209,7 +211,7 @@ project may rest on certain assumptions
 **Risks**  
 logged risks  
 new risks  
-retire risks that do not happen  
+retiring risks that do not happen  
 
 **Dependencies**  
 other projects  
@@ -217,8 +219,3 @@ training
 
 **Issues** 
 risks that materialise  
-
-
-<img src=""><img>  
-<img src=""><img>  
-<img src=""><img>  
