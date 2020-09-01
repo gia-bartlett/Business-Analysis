@@ -1,8 +1,12 @@
 ## What is Business Analysis?  
 
-`Individual responsible for ensuring that the proposed business change solutions are aligned with the eneds of the business.`  
+`Individual responsible for ensuring that the proposed business change solutions are aligned with the needs of the business.`  
 
 `An advisory role which has the responsibility for investigating and analysing business situations, identifying and evaluating options for improving business systems, elaborating and defining requirements, and ensuring the effective implementation and use of information systems in line with the needs of the business.`
+
+`Business Analysis is the practice of enabling change in an organizational context, by defining needs and recommending solutions that deliver value to stakeholders. - IIBA`  
+
+`Identifying business needs. Recommending relevant solutions. Working with stakeholders to elicit requirements. Analyzing, defining, documenting and managing requirements. BAs help to shape the outcome of projects to ensure they deliver business benefits. - PMI`  
 
 - Intro to BA [click here](https://www.youtube.com/watch?v=XsKdzHVEXig)  
 - Day In The Life [click here](https://www.youtube.com/watch?v=9rMYgG6tNkg)
