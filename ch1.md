@@ -28,7 +28,7 @@ and
 - Implementation of IT must be accompanied by the necessary business changes
 - The requirements must be precise and accurate    
 
-#### 3. Succesful business change  
+#### 3. Successful business change  
 - Roles and skill sets need to enable the successful delivery of business change initiatives.  
 - BAs uncover the causes of business problems, identify issues to address and ensure suggested solutions align with the businesses needs.  
 
