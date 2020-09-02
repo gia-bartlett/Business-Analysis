@@ -6,6 +6,24 @@ This should be produced and revised as the project proceeds, as more information
 The initial case comes from a feasibility study - broad requirements and ballpark figures - but should be re-examined once the solution has been desinged and more reliable figures are available.  
 It should be reviewed again before the solution is deployed, as figures are more reliable and the business circumastances may have changed.  
 
+### Why?  
+Includes results of needs asssessment and findings previously discovered with key stakeholders  
+Living document - adjusts over time to align with organisational objectives  
+Prevents creep (which in turn prevents cost overruns, delays and rework)  
+
+`A business case documents benefits and justifies resources`  
+
+### Vision:  
+`An idealistic view of the desired outcome`  
+- What will the result look like to the stakeholders?  
+- Project charter which formally intiates the project will contain the vision  
+**Why:** Vision, mission, and goals to be delivered by the result.  
+**What:** Objectives identified in the business case. Initial scope boundaries. What is out of scope.  
+**Who:** Key internal and external stakeholders.  
+**When:** Expected start and end date.  
+**Where:** The work or deployment sites of the final solution.  
+**How:** Collection of approaches that are recommended. Include predictive and adaptive methods.  
+
 <img src="https://sathyamedha.com/consultancy-services/business-analysis-consultancy-services/img/business-case-in-project-life-cycle-01.png"><img>  
 
 The review points are called decision gates and should pass before moving on.  
@@ -166,7 +184,7 @@ Ownership
 | Cash flow for year (savings less costs) | -260,000 | 90,000 | 90,000 | 90,000 | 90,000|
 | Cumulative cash flow | -260,000 | -170,000 | -80,000 | +10,000 | +100,000 |
 
-Year 0 - cost outweigh benefits by a lot  
+Year 0 - costs outweigh benefits by a lot  
 Year 3 - benefits are finally exceeding the costs  
 
 A method that takes account of the time value of money is known as discounted cash flow (DCF) which leads to a ‘net present value’ (NPV) for the project.  
