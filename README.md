@@ -24,7 +24,7 @@ If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/245
 | Defining the solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch8.md) |
 | Making a business and financial case | 4 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch9.md) |
 | Establishing the Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch10.md) |
-| Documenting and Managing Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch11md) |
+| Documenting and Managing Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch11.md) |
 | Modelling Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch12.md) |
 | Delivering the Requirements | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch13.md) |
 | Delivering the business solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch14.md) |
