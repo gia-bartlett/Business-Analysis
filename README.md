@@ -21,13 +21,13 @@ If you are interested [click here](https://assets.ctfassets.net/6nfn3d4188qj/245
 | Investigation Techniques | 6 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch5.md) |
 | Stakeholder Analysis and Management | 4 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch6.md) |
 | Modelling Business Processes | 4 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch7.md) |
-| Defining the solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch8.md) |
-| Making a business and financial case | 4 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch9.md) |
+| Defining the Solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch8.md) |
+| Making a Business and Financial Case | 4 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch9.md) |
 | Establishing the Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch10.md) |
 | Documenting and Managing Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch11.md) |
 | Modelling Requirements | 3 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch12.md) |
 | Delivering the Requirements | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch13.md) |
-| Delivering the business solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch14.md) |
+| Delivering the Business Solution | 2 | [notes](https://github.com/gia-bartlett/Business-Analysis/blob/master/ch14.md) |
 | Total | 40 Questions |  |
 
 Abbreviations [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/abbreviations.md)
