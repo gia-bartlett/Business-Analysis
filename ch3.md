@@ -85,7 +85,7 @@ Whatever the approach, external and internal analysis is needed:
 -> changes in technology  
 -> new marketing approaches (online or catalogue v shops)  
 
-The **PESTLE** (AKA PESTEL or PEST) framework helps examine the external issues and influences
+The **PESTLE** (AKA PESTEL or PEST) (Politcal - Economic - Social - Environmental - Legal) framework helps examine the external issues and influences
 
 <img src="https://i0.wp.com/www.business-to-you.com/wp-content/uploads/2016/09/PESTEL.jpg"><img>
 
