@@ -2,6 +2,8 @@
 
 A good working definition of a stakeholder is ‘anyone who has an interest in, or may be affected by, the issue under consideration’. This means, more or less, anyone affected by the project or who may be in a position to influence it.  
 
+`Individual, group, or organisation that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a program or project - PMBOK(r) Guide`
+
 Of course, each project will have its own distinctive set of stakeholders, determined by the nature of the project and the environment in which it is taking place.  
 
 Effective stakeholder management is absolutely crucial to the success of any business analysis project. Knowing who the stakeholders are, and understanding what it is they expect from the project and delivered solution, is vital if they are to remain involved and supportive of the undertaking. One of the major reasons why business analysis projects do not succeed – or do not succeed fully – is poor stakeholder management. The project team does not recognise the importance, or even the existence, of a key stakeholder and they find that their plans are constantly frustrated. On the other hand, if the right stakeholders are identified and managed properly, most obstacles can be cleared from the path. In fact, much of the groundwork for stakeholder management takes place before the business analysis project proper begins – during project inception and initiation – and that work must be revisited constantly during the project itself.  
@@ -73,7 +75,7 @@ One technique for analysing stakeholders is the power/interest grid illustrated 
 ### Stakeholder Management Strategies:  
 In using the power/interest grid, it is important to plot stakeholders where they actually are, not where they should be or perhaps where we would like them to be. We can then explore strategies for managing them in their positions or, perhaps, for moving them to other positions that might be more advantageous for the success of our project. There is, of course, an infinite number of positions that could be taken on the power/interest grid but it is probably sufficient here to consider the nine basic situations.  
 
-#### No or Low Interest and No or Low Power/Influence:  
+#### No or Low Interest and No or Low Power/Influence (warm bodies):  
 These are stakeholders who have neither a direct interest in the project nor any real power to affect it. For practical purposes, they can be ignored as regards day-to-day issues on a project and there needs to be no special effort made to ‘sell’ them its benefits. However, as stakeholders do change positions on the map (discussed below), it is probably wise to inform them occasionally about what is going on – perhaps through vehicles like organisation newsletters.  
 
 #### Some or High Interest but No or Low Power/Influence:  
