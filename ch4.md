@@ -1,5 +1,10 @@
 ## The Business Analysis Process Model  
 
+An organisation has needs that fall into three categories:  
+- Problems or potential improvements (what the problem is, the impact that it has and a potential solution)  
+- Opportunities or new endeavours (allow an org to grow and expand, BA helps to focus those opportunities and providing the content to support decisions in these areas)  
+- Compliance requirements (what is required and what happens if those requirements are not met)  
+
 ### An approach to problem solving:  
 Creative problem solving is vital in the business world as, increasingly, organisations need to develop innovative ideas in order to respond to changes in the business environment including actions from competitors.  
 
@@ -128,6 +133,9 @@ Gap analysis
 Activity analysis  
 Business process modelling  
 
+Situation Statement (provides not just the situation encountered, but also the impact on the organization):  
+The (*problem or opportunity*) has the effect of (x) with the resulting impact of (y).  
+
 4. **Evaluate Options:**  
 This stage is concerned with examining the potential improvements identified so far, developing some business options and evaluating them for acceptability and feasibility. The analysis of the gaps between the existing and desired systems will have produced some ideas for improvements and the work now is to develop these ideas into business options. These options may include options for changes in a number of areas; for example, they may change the business processes, the job roles, the management structure or the IT systems. At this point, the changes are likely to be defined in outline only, but in sufficient detail so that a business case may be developed to support the recommendations and provide a basis for decision-making. Once the work to define the changed areas begins in earnest, there may be a need for further consideration of options. 
 
@@ -193,6 +201,10 @@ Investigation techniques
 Requirements elicitation, analysis and validation  
 Requirements documentation and management  
 IT systems modelling techniques  
+
+Solution - something developed to deliver measurable business value.  
+Solution Statement:  
+Recommends the most viable option to meet the needs while also defining initial scope and steps.  
 
 6. **Deliver Changes:**  
 Once the business analysts have investigated and analysed the situation, considered the stakeholders and their perspectives, developed options for improvement and defined the requirements to be fulfilled, it is important to consider how the business changes will be delivered and implemented, and the business benefits realised. In the main, this work is not solely the responsibility of the business analyst but some tasks, such as providing support to the stakeholders, does fall within our remit.  
