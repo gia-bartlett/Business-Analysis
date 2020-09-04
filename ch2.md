@@ -1,11 +1,12 @@
-### Competencies of a BA:
+# Competencies of a Business Analyst  
+
+## Personal Qualities:  
 
 <img src="https://busyanalyst.files.wordpress.com/2010/03/picture2.jpg"><img>
 
 - **Personal qualities** are concerned with how you think and how you interact with the people around you. They are not specific to business analysis but are general skills that are important for developing and progressing in any business environment. Behavioural skills are arguably more important than technical or business skills as they are a prerequisite for working with other people.  
 - A BA also requires **business knowledge** which helps to develop a good understanding of their organisation and the business domain or sector within which it operates. This knowledge is vital if the business analyst is to offer advice and insights that will help improve the organisation’s performance.  
-
-### Personal Qualities:  
+ 
 COMMUNICATION:  
 - Most important skill  
 - Encompasses a wide range of areas such as building rapport, listening, influencing and building empathy.  
@@ -22,7 +23,6 @@ INFLUENCING:
 - If a BA's conclusions are at odds with preconceived ideas about what is required or if it calls for radical or unexpected action, then the ability to influence is essential.  
 - Identifying the stakeholders and understanding the amount of power they exert over the decision-making processes will allow you to target and influence the decision-makers most effectively.  
 - BAs have to develop an understanding of where the other party stands on their proposal, any likely resistance and the influencing style needed to approach the person or group.  
-
 TEAMWORK:  
 - The nature of business analysis work requires collecting information from and collaborating with many groups such as business colleagues, suppliers, project team members and management.  
 - Key factors for consideration are vision, commitment, trust, capability, accountability, principles, creativity, responsiveness and recognition.  
@@ -49,7 +49,8 @@ LEADERSHIP:
 SELF-BELIEF:  
 - Having sufficient self-confidence – in yourself, in the quality of your analysis, in the relevance of your approach – to be able to withstand pressure, challenge proposals, analyse impacts and sustain your arguments. Self-belief is a key competence for working effectively with stakeholders across the broad range of situations.  
 
-### Business Knowledge:
+## Business Knowledge:  
+
 BUSINESS FINANCE AND BUSINESS CASE DEVELOPMENT:  
 - Whether working in the commercial, government or non-profit sectors of the economy, finance plays a key role in deciding what funds are available and what can and cannot be done.  
 -A  general understanding of aspects such as the balance sheet and income statement (profit and loss account), financial analysis tools like ratio analysis, budgeting and cash flow, the nature of profit or surplus, and the principles of costing products and services.  
@@ -81,7 +82,8 @@ SUPPLIER MANAGEMENT:
 BUSINESS ARCHITECTURE:  
 - Knowledge and understanding of how organisations behave with particular emphasis on the systems, processes, management structures, culture and people.  
 
-### Professional Techniques:  
+## Professional Techniques:  
+
 PROJECT MANGEMENT:  
 - BAs may be required to undertake the project manager role and so needs an awareness of project management techniques and approaches, and have project management skills.  
 - An understanding of project management planning approaches – as they will have to work within a plan – and an awareness of particularly relevant aspects such as dependencies between tasks, quality assurance and risk management.  
@@ -125,3 +127,12 @@ AGILE THINKING:
 - The ability to enable business agility in order to support the effective use of resources and the delivery of value by their organisations.  
 - BAs have the potential to provide an agile response to identified problems and opportunities through their focus on understanding what is to be addressed and the evaluation of options.  
 
+## The Development of Competencies:  
+
+TRAINING:  
+Very important for developing professional techniques and business knowledge and ,to a certain extent, personal skills can be taught.  
+Self taught - online, publications, LinkedIn etc.  
+Work experience - opportunity to use and improve techniques and deepen business knowledge. Learn and practice personal skills.  
+Industry engagement - Professional bodies.  
+Industry skills frameworks - SFIA (Skills Framework for the Information Age) Framework (The levels are numbered 1 to 7: 1 is Follow, 2 is Assist, 3 is Apply, 4 is Enable, 5 is Ensure, Advise, 6 is Initiate, Influence, 7 is Set Strategy)  
+Industry Qualifications - BCS, IIBA (CBAP/CCBA)
