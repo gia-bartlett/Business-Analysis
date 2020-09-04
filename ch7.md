@@ -1,4 +1,5 @@
-## Modelling Business Processes  
+# Modelling Business Processes  
+
 The business processes are the means by which an organisation carries out the internal operations and delivers its products and services to its customers.  
 
 There are many reasons for creating business process models:  
@@ -8,7 +9,8 @@ There are many reasons for creating business process models:
 - To help ensure **consistency** of approach, so that everyone follows the same process and customers’ experiences are not wholly dependent on who is dealing with them, in other words the ‘luck of the draw’.  
 - To **identify the problems and weaknesses of an existing business process** with a view to developing and implementing an improved one. A model of an existing business process is often called an ‘as is’ model and the improved one is known as a ‘to be’ model.  
 
-### Organisational Context:  
+## 7.1 Organisational Context:  
+
 <img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure7.1.jpg"><img>  
 
 The functional view of an organisation is very useful for the internal management and staff to see how the organisation is structured and where they fit within it. However, there are some limitations with this view. It is predominantly internally oriented, concentrating on the structure of the organisation and the internal reporting lines, aspects that are usually of little interest to the organisation’s customers. Moreover, it defines the formal structure, ignoring the unofficial communication and cooperation between staff that can be just as important for success. The functional view is also ‘static’ as it does not show what the business does over time in order to react to an event such as a customer requesting a service.  
@@ -21,6 +23,8 @@ The static nature of the functional view contrasts sharply with the process view
 - the goods are then delivered to the customer.  
 
 The process view emphasises the need for cooperation between all the participants if the desired level of customer service is to be achieved. Thinking of the organisation as separate, autonomous departments may erect barriers and create operational difficulties that a more joined-up approach can overcome.  
+
+## 7.2 An Alternative View of an Organisation:  
 
 Paul Harmon (2007) developed the organisation model that provides an alternative view of an organisation, providing a representation of both the internal processes and the external world with which the organisation operates. The model is often developed in two stages: firstly, the external factors that influence the organisation are considered and then the internal business process is analysed.  
 
@@ -43,7 +47,8 @@ Analysing the external context on the organisation model encourages the business
 
 The organisation’s business processes need to operate within this external environment. If we are carrying out a business process improvement project, it is important to understand the business context as this will help us determine the changes that will deliver business success.  
 
-#### The Organisational View of Business Processes:  
+## 7.3 The Organisational View of Business Processes:  
+
 Now that we have understood the circumstances in which the business operates, we can turn our attention to what the business does when reacting to the external environment. Bearing in mind that the organisation model is a high-level view of the processes that operate across the entire business, we need to show the end-to-end set of processes that convert the inputs from the suppliers to the outputs for the customers. It is possible to identify the high-level processes by discussing with the staff and managers of the organisation.  
 
 INPUT --> PROCESS --> OUTPUT
@@ -63,7 +68,8 @@ The value chain provides a means of analysing the activities performed by an org
 When using the value chain, it is usually easiest to start with the operations – the core activity of this value chain – and then consider the other areas.  
 Imagine a manufacturing organisation and the operations primary activity is ‘Make products’. However, we can only do this if we ‘Obtain raw materials’ so this is the inbound logistics activity. The outbound logistics activity concerns delivery to the end customers. In the marketing and sales area, the organisation needs to ‘Promote products’ and ‘Take orders’. Finally, the service activity involves providing support to customers presumably by answering queries and dealing with complaints. While the value chain was originally applied in a manufacturing context, it is possible to apply it to service organisations although this usually involves combining the operations and outbound logistics areas.  
 
-#### Value Propositions:  
+## 7.4 Value Propositions:  
+
 The definition of the value chain assumes that we understand the customers who purchase our goods and know what products or services they want. A value proposition is a definition of an organisation’s product or service that will demonstrate to customers that we understand and can satisfy their needs. Moreover, it differentiates organisations from their competitors. Unfortunately, many organisations produce poor value propositions which are bland descriptions of their products rather than being closely aligned with the needs of their customers.  
 
 Kaplan and Norton (1992), the architects of the Balanced Scorecard, have identified the main attributes that make up successful value propositions. These are the drivers that lead to increased customer satisfaction, acquisition and retention. The proposition attributes cover three areas:  
@@ -89,21 +95,22 @@ When conducting a business process improvement project, an understanding of the 
 
 An alternative view of the value proposition is to consider the customer’s perspective. Customers usually know what they expect and will survey the industry to find the organisations that will meet their needs. An understanding of the customers’ value expectations helps us to consider whether, and if so how, they align with the organisational value proposition and can illuminate areas of the business processes that would benefit from improvement.  
 
-#### Business Process Models:  
+## 7.5 Business Process Models:  
+
 A business process is triggered by a business event and includes five key components: the tasks that make up the process, the process flow, the decision points, the actors that carry out the tasks and the outcome of the business process. Unfortunately, there is no universally agreed set of terms in business process modelling and the terms ‘process’, ‘activity’, ‘task’ and ‘step’ are often used interchangeably. For the sake of simplicity, we have adopted the following convention here:  
 
 - ‘Process’ refers to an entire set of activities that start with a triggering event and end with some output being delivered.  
 - ‘Task’ refers to an individual activity within the overall process; these are usually carried out by an actor at a single point in time.  
 - ‘Step’ refers to the activities carried out within an individual task. It is useful to show just the tasks on the process model rather than each individual step as this helps with the readability and clarity of the model. Task descriptions can then be produced where the steps within each task can be defined.  
 
-#### Business Events:  
+### Business Events:  
 There are three types of business event:  
 
 External – these business events originate from outside the organisation or the business system under consideration. For example, a customer makes a hotel booking or orders some goods.  
 Internal – these business events originate within the business system and typically involve business managers making decisions. For example, the marketing manager makes a decision to reduce prices on a product line or the finance manager decides to review fees charged by suppliers.  
 Time-based – these business events occur at a regular point in time. For example, a process to make salary payments to staff is initiated when it is the last working day of the month.  
 
-#### Developing the Business Process Model:  
+### Developing the Business Process Model:  
 During a process improvement project, it is common for the business analyst to produce an ‘as is’ model to show how the process works at the moment. Analysis of this ‘as is’ model will help to identify problems and weaknesses, leading to an improved version documented in the ‘to be’ process model.  
 
 Two of the most popular standards are the UML activity diagram technique and the Business Process Model and Notation (BPMN). Business process models are often called ‘swimlane diagrams’ because the ‘swimlanes’ showing all of the tasks performed by a defined ‘actor’, form a key element of the models. Here, we will use the notation and structure from the UML activity diagramming technique to build swimlane diagrams.  
@@ -155,10 +162,11 @@ Usually it is the initiator (who triggers an event) shown at the top of the swim
 
 The end of the process is a bullseye symbol. As a guideline, there should be a separate end for each significant end state. Some modellers label the end symbol with the name of its state.  
 
-#### Analysing the 'as is' Process:  
+## 7.6 Analysing the 'as is' Process:  
+
 Businesses evolve over time. The internal organisation and people within the business change. The customers and the products we sell them change. As a result, processes are constantly changing to reflect the different environment in which they operate. Unfortunately, many of these changes occur in an ad hoc and uncontrolled way. When we formally model a process, we start to see how messy and incoherent they have become. Many people are surprised when they first see the swimlane diagram of the process on which they work. Whilst they are familiar with their own part of the process, they may have little idea of what the whole process does, how it works and where their work fits within it.  
 
-#### Identifying Problems:  
+### Identifying Problems:  
 In order to identify problems with an 'as is' process, we need to find out how well it supports the business.   
 - Are the customer-facing processes good enough to satisfy the customers and ensure that they come back and spend more money? The ordering process must be fast, accurate and efficient so that it does not cost too much.  
 For analysis purposes, we need to know exactly what such terms actually mean.  
@@ -166,7 +174,7 @@ For analysis purposes, we need to know exactly what such terms actually mean.
 - How much should it cost the business to handle an order?  
 Once we have determined the required performance levels, the next step is to compare them with the actual performance of the existing process. Information about the required and actual performance levels may not be easily available which can suggest several problems. However, it is worth persevering in order to obtain this information. A gap between the actual and required performance levels indicates the need for improvements. We can use the ‘as is’ model as a basis for analysing why the performance targets are not being achieved. There are two key aspects of the model we need to examine, the hand-offs between the tasks and the tasks themselves.  
 
-#### Analysing the Hand Offs:  
+### Analysing the Hand Offs:  
 One of the frequent problems found with business processes involve ‘hand-offs’, where one actor passes the work to another actor.  
 Swimlanes allow for clear representation of hand-offs and is particularly beneficial when we are trying to improve processes. Hand-offs account for many of the problems experienced by traditional processes as they can cause delays, communication errors and bottlenecks to occur.  
 The task may join a queue and not be dealt with immediately or the information might not be passed on correctly on handover. A further cause of delays at hand-offs is where there is inadequate resource capacity to handle the throughput and queues develop.  
@@ -175,7 +183,7 @@ Analysis of the ‘as is’ processes commonly shows that transactions spend mor
 
 There are other problems with hand-offs, often occurring because the transaction is going from one IT system to another. Problems occur where the data issued by the sending system needs to be reformatted to suit the needs of the receiving software. This not only takes time and effort but can also introduce errors.  
 
-#### Analysing the Processing:  
+### Analysing the Processing:  
 The ‘as is’ processes may have been in use for some considerable time and during this period they may have changed, reacting to changing business needs. As a result, they may contain significant inefficiencies and inconsistencies. When analysing business processes it is important to look for the following possibilities:  
 
 - Duplication of work. Some tasks may be carried out despite the fact that they duplicate other actors’ tasks or record the same information.  
@@ -186,26 +194,29 @@ The ‘as is’ processes may have been in use for some considerable time and du
 
 If any of these situations are encountered, the analyst needs to apply business process modelling and improvement approaches in order to rectify the situation.  
 
-#### Other Factors Causing Inadequate Performance of a Process:  
+### Other Factors Causing Inadequate Performance of a Process:  
 Even if a process is perfectly designed, however, this does not guarantee that the process will achieve its performance objectives. There are various reasons why this might be the case:  
 
 - The staff working on the process may not have the right skills, training and motivation to produce the desired results.  
 - The resources made available to run the process may be insufficient to handle the volume of transactions received. This could include both staff and equipment resources.  
 - The process may not be managed appropriately. This is a particular problem when a process crosses many organisational boundaries and there is no single owner to manage the whole process.  
 
-#### Improving Business Processes:  
+## 7.7 Improving Business Processes:  
+
 - remove problems identified in 'as-is'  
 - decide if this is the real problem  
 
 Our initial analysis, for example, might have identified that our invoice production is taking too long and we are missing deadlines for billing our customers. One solution to this could be to allocate more resources to the processing to speed it up. Further analysis, however, might reveal that the real cause of the delay is excessive rework. A more appropriate solution to this situation would be to implement tighter controls, reduce the rework and eliminate the delays without incurring the cost of increased resources.  
 
-#### Business Rules:  
+### Business Rules:  
+
 Business process improvement is also about challenging the assumptions and business rules upon which the current process is built and which, in some circumstances, may limit the process. Business rules are categorised in two ways:  
 
 - Constraints – these are the business rules that have to be applied and restrict how a process or task is performed. The constraints may be enforced upon the organisation, such as legal or regulatory constraints. Alternatively, they may result from internal policies or strategies.  
 - Operational guidance – these are the business rules that determine how procedures are conducted within the organisation. For example, there may be rules governing cancellation fees for hotel bookings or postage charges for delivering orders.  
 
-#### Simplify the Process:  
+### Simplify the Process:  
+
 - eliminate unnecessary/redundant tasks or hand-offs  
 - combine tasks to a single actor where possible  
 - if a task does not add value or enable another part of the process to add value then it should eliminated  
@@ -281,5 +292,3 @@ Its purpose is to eradicate performance deficiencies in processes that are criti
 - **Improve** the process. Assess alternative improvement methods. Design and test the chosen method. Implement the chosen method.  
 
 - **Control** the new process and monitor its effectiveness.  
-
-
