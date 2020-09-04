@@ -1,6 +1,8 @@
-## Making a Business and Financial Case  
+# Making a Business and Financial Case  
 
 This is the place where the BAs present their findings and proposed course of action to senior management for their consideration.  
+
+## 9.1 The Business Case in the Project Lifecycle:  
 
 This should be produced and revised as the project proceeds, as more information is uncovered.  
 The initial case comes from a feasibility study - broad requirements and ballpark figures - but should be re-examined once the solution has been desinged and more reliable figures are available.  
@@ -10,7 +12,7 @@ It should be reviewed again before the solution is deployed, as figures are more
 
 The review points are called decision gates and should pass before moving on.  
 
-### Putting together a business case:  
+## 9.2 Identifying the Options:  
 
 Identify the **what** (what the proposed solution intends to achieve) and the **how** (how the solution will be implemented - often through IT)  
 Workshops, brainstorming, problem-solving, BAM and BPM are all usefull techniques here.  
@@ -24,12 +26,12 @@ A shortlist of three or four options including a 'do-nothing' (status-quo) optio
 - the next option adds some additional features to the solution but costs more and takes longer.  
 - the last option a comprehensive solution but obviously takes the longest and costs the most.  
 
-#### Assessing project viability:  
+## 9.3 Assessing Project Feasibility:  
 There are many issues to think about in assessing feasibility but all fall under the three broad headings
 
 <img src="https://sathyamedha.com/consultancy-services/business-analysis-consultancy-services/img/aspects-of-feasibility-03.png"><img>  
 
-**Business**  
+### Business Feasibility:  
 - does the proposal match the business objectives and strategy?  
 - will it be delivered in sufficient time to secure the desired benefits?  
 - does it fit with the management structure and with its culture?  
@@ -37,7 +39,7 @@ There are many issues to think about in assessing feasibility but all fall under
 - does it align with other processes that might not be changing (but interact with the proposed changed processes)  
 - is it acceptabel to relevant regulators?  
 
-**Technical**  
+### Technical Feasibility:  
 - does it meet the organisation's demands in terms of system performance?
 - availability?  
 - reliability?  
@@ -46,7 +48,7 @@ There are many issues to think about in assessing feasibility but all fall under
 - is the solutions scalable? up and down?  
 - is it compatible with other systems?  
 
-**Financial**  
+### Financial Feasibility:  
 - can the organisation afford it? (do they have the required funds or the ability to borrow?)  
 - is the return considered acceptable? (amount and time-scale)  
 
@@ -64,7 +66,8 @@ Force-field analysis is another useful tool:
 
 This considers forces inside and outside the organisation that will support the solution and those that will oppose it - the positives must outweigh the negatives.  
 
-### Structure of a Business Case:  
+## 9.4 Structure of a Business Case:  
+
 Some organisations want large documents, some prefer short and to the point (as little as an A4 in some cases)  
 Whatever their size, however, the structure and content of most business cases are similar and tend to include these elements:  
 
@@ -96,7 +99,8 @@ It should be possible to put a numeric value on any cost or benefit (there is se
 Do not over-state intangible benefits. State what they are and emphasise them but let the decision-makers add their own valuations to them.  
 Do not base cost-benefits on assumptions  
 
-##### Tangible costs:  
+### Tangible costs:  
+
 - Development staff costs  
 - User staff costs  
 - Equipment  
@@ -106,11 +110,13 @@ Do not base cost-benefits on assumptions
 - Staff training  
 - Ongoing costs  
 
-##### Intangible costs:  
+### Intangible costs:  
+
 - Disruption and loss of productivity  
 - Recruitment  
 
-##### Tangible benefits:  
+### Tangible benefits:  
+
 - Staff savings  
 - Reduced effort and improved speed of working  
 - Faster reponses to customers  
@@ -118,7 +124,8 @@ Do not base cost-benefits on assumptions
 - Reduced inventory  
 - Reduced overtime  
 
-##### Intangible benefits:  
+### Intangible benefits:  
+
 - Increased job satisfaction  
 - Improved customer satisfaction  
 - Better management information  
@@ -127,7 +134,8 @@ Do not base cost-benefits on assumptions
 - Improved presentation and better market image  
 - Better communications  
 
-**impact assessment;**  
+### Impact Assessment:
+
 - organisational structure (reorganising departments or functions or roles)  
 - Interdepartmental relations  
 - Working practices (new processes and systems lead to changes in working practices)  
@@ -136,7 +144,8 @@ Do not base cost-benefits on assumptions
 - Appraisal and promotion criteria (change in targets and incentives to encourage different behaviours)  
 - Supplier relations  
 
-**risk assessment;**  
+### Risk assessment:  
+
 - identify potential risks and make available suitable countermeasures  
 - risk log:  
 Description  
@@ -153,8 +162,9 @@ Ownership
 **appendices, with supporting information.**  
 
 
-##### Investment Appraisal:  
-- payback calculation  
+## 9.5 Investment Appraisal:  
+
+### Payback Calculation:  
 
 | Item | Year 0 | Year 1 | Year 2 | Year 3 | Year 4 |
 | ---- | ------ | ------ | ------ | ------ | ------ |
@@ -168,6 +178,8 @@ Ownership
 
 Year 0 - costs outweigh benefits by a lot  
 Year 3 - benefits are finally exceeding the costs  
+
+### Discounted Cash Flow and Internal ROI:  
 
 A method that takes account of the time value of money is known as discounted cash flow (DCF) which leads to a ‘net present value’ (NPV) for the project.  
 This method calculates the value of the money by studying the likely movement of the markets etc.  
