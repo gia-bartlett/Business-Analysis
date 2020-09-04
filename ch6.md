@@ -1,4 +1,4 @@
-## Stakeholder Analysis and Management  
+# Stakeholder Analysis and Management  
 
 A good working definition of a stakeholder is ‘anyone who has an interest in, or may be affected by, the issue under consideration’. This means, more or less, anyone affected by the project or who may be in a position to influence it.  
 
@@ -15,11 +15,11 @@ The main responsibility for stakeholder management may rest with the project man
 
 It is important for each project that the identification of stakeholders is as complete as possible, as it will otherwise be impossible to develop and implement effective management strategies for them. It may be useful to conduct some sort of workshop with people knowledgeable about the organisation and the proposed project to make sure that the coverage of stakeholders is comprehensive.  
 
-### Stakeholder Categories and Identification:  
+## 6.1 Stakeholder Categories and Identification:  
 
 <img src="https://analyst-zone.com/storage/app/media/Techniques/Stakeholders_StakeholderIdentification_StakeholderWheel_Technique_Texavi_AnalystZone.png"><img>  
 
-#### Customers:  
+### Customers:  
 These are the people or organisations for whom our organisation provides products or services. They are stakeholders because anything we do in the way of change has a potential effect on them. We must consider how to manage that change most effectively so as not to lose customers that we wish to retain. It may be useful to subdivide this general category to reveal more detail about the stakeholders, for example into:  
 - large or small;  
 - regular or occasional;  
@@ -29,29 +29,29 @@ These are the people or organisations for whom our organisation provides product
 - civilian or military;  
 - domestic or export.  
 
-#### Partners:  
+### Partners:  
 These are the organisations that work with our organisation, for example, to provide specialist services on our behalf. Examples of partner organisations may be a reseller of our products or services or an outsourcing company that provides catering services.  
 
-#### Suppliers:  
+### Suppliers:  
 These provide us with the goods and services that we use. Again, we may wish to subdivide them:  
 - major or minor;  
 - regular or occasional;  
 - domestic or overseas.  
 Suppliers are stakeholders because they are interested in the way we do business with them, what we wish to buy, how we want to pay and so on. Many change initiatives have the effect of altering the relationships of organisations with their suppliers and, as with the customers, such changes need to be managed carefully to make sure that they achieve positive and mutually beneficial results.  
 
-#### Competitors:  
+### Competitors:  
 Competitors vie with us for the business of our customers and they therefore have a keen interest in changes made by our organisation. We have to consider what their reactions might be and whether they might try, for instance, to block our initiative or to produce some sort of counterproposal.  
 
-#### Regulators:  
+### Regulators:  
 Many organisations are now subject to regulation or inspection – either by statutory bodies like Ofcom (Office for Communications) and Ofsted (Office for Standards in Education), or by professional bodies like the General Medical Council. These regulators will be concerned that changes proposed by an organisation are within the letter and spirit of the rules they enforce.  
 
-#### Owners:  
+### Owners:  
 For a commercial business, the owners are just that – the people who own it directly. The business may be, in legal terms, a sole trader or partnership. Or, it could be a limited company, in which case the owners are the shareholders. For public limited companies, the majority of shares are held by institutions like investment companies and pension funds and so the managers of these share portfolios become proxy owners.  
 
-#### Employees:  
+### Employees:  
 The people who work in an organisation clearly have an interest in the way it is run and in changes that it makes. In a small firm, the employees may be regarded as individual stakeholders in their own right but, in larger concerns, they are probably best considered as groups. Sometimes, employees belong to trades unions, whose officials therefore become stakeholders too.  
 
-#### Managers:  
+### Managers:  
 Finally, we have the professional managers of the organisation, those to whom its direction is entrusted. In a large organisation, there may be many layers of management and each may form a distinctive stakeholder grouping, for example:  
 - board-level senior managers;  
 - middle managers;  
@@ -60,41 +60,43 @@ Finally, we have the professional managers of the organisation, those to whom it
 
 As with many aspects of stakeholder management, it is an error to assume that a group like ‘managers’ is homogeneous in its views and concerns; junior managers may well have a very different perspective, and a different set of values and priorities, from those on the board who take the major strategic decisions.  
 
-#### Other Stakeholders:  
+### Other Stakeholders:  
 - Insurers (interested in decisions that could affect risk)  
 - Police (interested in decisions that might affect law and order)  
 - staff associations  
 
-### Analysing Stakeholders:  
+## 6.2 Analysing Stakeholders:  
+
 Having identified the stakeholders, the next step is to make an assessment of the weight that should be attached to their issues. No stakeholder should be ignored completely but the approach to each will be different depending on (a) their level of interest in the project and (b) the amount of power or influence they wield to further or obstruct it.  
 
 One technique for analysing stakeholders is the power/interest grid illustrated below:  
 
 <img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure6.4.jpg"><img>
 
-### Stakeholder Management Strategies:  
+## 6.3 Stakeholder Management Strategies:  
+
 In using the power/interest grid, it is important to plot stakeholders where they actually are, not where they should be or perhaps where we would like them to be. We can then explore strategies for managing them in their positions or, perhaps, for moving them to other positions that might be more advantageous for the success of our project. There is, of course, an infinite number of positions that could be taken on the power/interest grid but it is probably sufficient here to consider the nine basic situations.  
 
-#### No or Low Interest and No or Low Power/Influence (warm bodies):  
+### No or Low Interest and No or Low Power/Influence (warm bodies):  
 These are stakeholders who have neither a direct interest in the project nor any real power to affect it. For practical purposes, they can be ignored as regards day-to-day issues on a project and there needs to be no special effort made to ‘sell’ them its benefits. However, as stakeholders do change positions on the map (discussed below), it is probably wise to inform them occasionally about what is going on – perhaps through vehicles like organisation newsletters.  
 
-#### Some or High Interest but No or Low Power/Influence:  
+### Some or High Interest but No or Low Power/Influence:  
 These groups can be very difficult to manage effectively as, although they may be directly affected by a change project, they feel powerless to shape its direction in any way. This can result in frustration and a passive resistance to change that, though overcome by positional power, can lead to delay and less-than-optimal results.  
 
 The basic management strategy here is to keep such stakeholders informed of what is going on and, in particular, of the reasons for the proposed change. But this is a rather passive approach and, in most circumstances, more effort has to be devoted to ‘selling’ the project. This can best be done by being as honest as possible about the need for change; by highlighting the positive aspects of the change or the negative consequences of not making it; and by frequent and focused communication of progress.  
 
-#### No or Low to High Interest but Some Power/Influence:  
+### No or Low to High Interest but Some Power/Influence:  
 This is a rather varied group. It includes some stakeholders like middle or senior managers who do have some power or influence but who, because their interests are not directly affected, are not very concerned about the direction a project is taking. Regulators may also fall into this category and they will only start to get involved if some breach of the rules is suspected when they could, in effect, squash an initiative. The group can also include people with more interest in the project but, again, only some power or influence over it.  
 
 The best approach with this group is to keep them supportive of the project, possibly by frequent, positive communication with them but perhaps also by involving them more with the project. As the old saying has it, it is better to have them inside the glasshouse throwing stones out than outside throwing them in.  
 
-#### No or Low Interest but High Power/Influence:  
+### No or Low Interest but High Power/Influence:  
 These are probably very senior managers who, for one reason or another, have no direct interest in the project. This may be because it is too small or unimportant for them to bother with or it may be that it is in an area that doesn’t interest them; the Group Marketing Director, for instance, probably will not be concerned about a project to streamline the stationery purchasing procedures. For many purposes, it might be thought that they can be ignored but this is actually a rather risky approach. Our Marketing Director may, for instance, suddenly get very interested in the stationery system if she keeps getting pens that don’t work or can’t get hold of any sticky notes for a conference! So, if a situation arises that might cause them to take a greater interest in the project, we might want to address their needs directly, via one-to-one meetings perhaps, in order to ensure that they do not start to raise concerns or even decide to exert their influence. In some situations it is possible that we may wish to encourage the increased interest of influential stakeholders, for example, if we felt that their support would help achieve the project objectives. Where this is the case, we may need to highlight any aspects of the project that will have a direct impact upon the stakeholder’s business area; some form of discussion will be required which, with very influential stakeholders, would typically involve a meeting.  
 
-#### Some Interest and High Power/Influence:  
+### Some Interest and High Power/Influence:  
 These people have some interest in the project – probably an indirect one as it is happening within or affecting their empire – and they have real power. The usual stakeholder management strategy here is to keep them satisfied and, perhaps, to prevent them from taking a more direct (and hence, possibly, more obstructive) interest in the project. In other circumstances, the strategy may be precisely the opposite – to get the stakeholder more actively involved in a project. For example, if the finance director of an organisation can be persuaded to get positively involved in a project, they will often be a powerful force for success, since they can make resources available that would otherwise be hard to come by.  
 
-#### High Interest and High Power/Influence:  
+### High Interest and High Power/Influence:  
 These are the key players, the people who are both interested in the project and have the power to make it work or not. Often, the key players are the managers of the functions involved in a project. Initially, it is important to determine if individual key stakeholders are positive or negative in their approach to a project. If positive, then their enthusiasm must be sustained, especially during times of difficulty. It is also important to appreciate the concerns and opinions of key stakeholders and you will need to take these into account when making any recommendations. For example, if one of the key stakeholders has a particular solution in mind it is important to know about this as early as possible in order to ensure that, at the very least, the solution is evaluated as one of the options. It is also vital that the key stakeholders understand the progress of the project and why certain decisions have been made. These are the people to whom any final recommendations will be presented and who will have the final say on any decisions. They need to be kept informed at all stages of the project so that none of the recommendations come as a shock to them.  
 
 Those key players who are negatively inclined towards a project can be managed in various ways, depending on the circumstances:
@@ -107,8 +109,12 @@ An individual customer may not be of much concern to an organisation such as a b
 
 These examples illustrate the dangers of ignoring the weakness of an individual or mistaking individual weakness for collective weakness. Stakeholders must be considered not just as individuals but as potential groups as well. Their ability to gain strength, particularly with the availability of social media mechanisms, should never be underestimated.  
 
-### Managing Stakeholders:  
+## 6.4 Managing Stakeholders:  
+
 Stakeholders’ positions on the framework do not remain static during the life of a project. At the most obvious level, a manager may get promoted so that, from being in the high interest/low power situation, is now both interested and powerful. Alternatively, the manager may lose interest in a project if promoted into a job with a wider remit. The circumstances of an organisation may change so that senior managers begin to focus more on IT projects. A scandal within a competitor organisation may cause a regulator to take a closer interest in all companies in a sector. This means that stakeholder analysis must be a continuing activity throughout the project – and even afterwards to find out what the stakeholders thought of the final outcome. The project team and project manager should be constantly on the lookout for changes in stakeholders’ positions and should be re-evaluating their management strategies accordingly. Once stakeholders’ initial positions have been plotted, a plan should be drawn up for managing each of them and how to approach it.  
+
+### Stakeholder Plan/Assessment:  
+
 A one-page assessment can be made for each stakeholder but a more useful approach would be to see all stakeholders at a glance by setting up a spreadsheet using the following headings:  
 - Name (and job title)  
 - Current Power/Influence  
@@ -156,10 +162,10 @@ The availability of social media offers the business analyst additional resource
 
 One obvious way of using social media is to use sites such as LinkedIn to carry out research about stakeholders. What is their role? What have they done previously in their careers? Do we have any contacts in common who could introduce us?  
 
-### Understanding Stakeholder Perspectives:  
+## 6.5 Understanding Stakeholder Perspectives:  
 It is all very well knowing who the stakeholders are and what is likely to be their influence on a business analysis project. It is also important to understand their attitude – how supportive are they of what we are trying to achieve? But it is also vital to understand what they think, in other words what are their business perspectives? For example, in a commercial organisation, one stakeholder might feel that any activities are allowable as long as they are not actually illegal, whereas other stakeholders may feel that the organisation has some responsibility towards society at large and therefore conclude that some activities should be avoided on ethical grounds.  
 
-#### Soft Sytems Methodology (SSM):  
+### Soft Sytems Methodology (SSM):  
 To help us understand these stakeholder perspectives, and to model the different business systems that would fulfil them. we can utilise some of the elements from Peter Checkland’s Soft Systems Methodology:  
 
 Peter Checkland and his team at Lancaster University devised SSM in the 1980s as a way of understanding complex real-world situations. The basic premise underlying SSM is that real-world situations are rarely simple and are often very complex.  
@@ -174,7 +180,7 @@ When investigating business situations, it is often the case that stakeholders h
 4. These conceptual models are compared with the real-world situation and a consensus model is generated, possibly by combining elements from various stakeholder’s perspectives.  
 5. Actions are defined to address the situation by implementing the consensus model in place of whatever is happening currently in the organisation.  
 
-#### Analysing Perspectives:  
+### Analysing Perspectives:  
 SSM provides us with a very useful tool that we can use to explore the stakeholders’ perspectives. Although the technique is known as CATWOE, experience shows that exploring the CATWOE elements is actually best done in the following order:  
 
 **W = Weltanschauung or worldview** This summarises a stakeholder’s beliefs about the organisation or business system, which explain why it exists and what it should be doing.  
@@ -191,10 +197,11 @@ SSM provides us with a very useful tool that we can use to explore the stakehold
 
 <img src="https://learning.oreilly.com/library/view/business-analysis-/9781780172774/images/figure6.8.jpg"><img>  
 
-### Illustrating the perspectives - Business Activity Models:  
-Business activity models (BAM) provide a conceptual model of what we would expect to see to fulfil a particular stakeholder perspective. A BAM shows what the organisation should be doing, as opposed to a business process model which explores how it does these things.  
+## 6.6 Business Activity Models:  
 
-Creating a BAM:  
+**Business activity models** (BAM) provide a conceptual model of what we would expect to see to fulfil a particular stakeholder perspective. A BAM shows what the organisation should be doing, as opposed to a business process model which explores how it does these things.  
+
+### Creating a BAM:  
 
 | Task | Description |
 | ---- | ----------- |
@@ -209,22 +216,10 @@ With regard to the control activities, two observations are relevant:
 1. On a BAM, we could associate a control activity with each monitoring activity and some users of the technique prefer to shown them this way. However, in the real world, managers often take action as a result of a range of measurements so a less cluttered model can be created by feeding all of the monitoring activities into one control activity.  
 2. The control actions themselves could feed back into any of the other activities on the model. Since trying to show this would create an impossible-to-understand diagram, the convention is to show a ‘lightning strike’ symbol emanating from the control activity which means that it feeds back into the model wherever it is relevant.  
 
+### Developing a Consensu Model:  
+
 Having modelled the organisation from the perspective of each stakeholder (or, at any rate, of each stakeholder with a different CATWOE), it is now necessary to achieve a consensus BAM that represents the agreed or idealised way forward. Ideally, this is achieved through negotiations involving the stakeholders and the business analysts; the aim is for the stakeholders to all ‘buy in’ to the final BAM. Realistically, however, sometimes the stakeholders just cannot agree and this is where identifying the ‘owner’ of the business system (as in CATWOE) is important. The owner has to choose between the competing BAMs or perhaps impose one that is a composite of several. This is less desirable than securing all the stakeholders’ agreement, as some people may not necessarily accept the agreed BAM but it may be the best that can be achieved in some situations.  
 
 The consensus BAM is an extremely valuable product for a business analyst as it provides a model of what the business system should look like and should be doing. Insofar as the actual situation on the ground differs from this conceptual view, this provides a means of considering opportunities for improvement. Examination of the difference between the current situation (perhaps reflected in a range of documents including meeting reports, a rich picture or fishbone diagram) and the conceptual view provided by the BAM, is an important part of gap analysis. As part of the gap analysis, the business analyst may wish to explore how the activities are currently carried out, and how they should be performed in the future; this can be achieved through business process modelling.  
 
 There is no universally agreed notation for BAMs. Many users of the technique like to use ‘cloud’ or ‘thought’ symbols to emphasise that this is a conceptual model and not a representation of what the organisation looks like now. It is probably not a good idea to use boxes, as then the models may be confused with business process models which, as we have shown, illustrate how an organisation works rather than what it does.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
