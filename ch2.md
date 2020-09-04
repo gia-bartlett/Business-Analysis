@@ -2,7 +2,7 @@
 
 <img src="https://busyanalyst.files.wordpress.com/2010/03/picture2.jpg"><img>
 
-## Personal Qualities:  
+## 2.1 Personal Qualities:  
 
 - **Personal qualities** are concerned with how you think and how you interact with the people around you. They are not specific to business analysis but are general skills that are important for developing and progressing in any business environment. Behavioural skills are arguably more important than technical or business skills as they are a prerequisite for working with other people.  
 - A BA also requires **business knowledge** which helps to develop a good understanding of their organisation and the business domain or sector within which it operates. This knowledge is vital if the business analyst is to offer advice and insights that will help improve the organisation’s performance.  
@@ -49,7 +49,7 @@ LEADERSHIP:
 SELF-BELIEF:  
 - Having sufficient self-confidence – in yourself, in the quality of your analysis, in the relevance of your approach – to be able to withstand pressure, challenge proposals, analyse impacts and sustain your arguments. Self-belief is a key competence for working effectively with stakeholders across the broad range of situations.  
 
-## Business Knowledge:  
+## 2.2 Business Knowledge:  
 
 BUSINESS FINANCE AND BUSINESS CASE DEVELOPMENT:  
 - Whether working in the commercial, government or non-profit sectors of the economy, finance plays a key role in deciding what funds are available and what can and cannot be done.  
@@ -82,7 +82,7 @@ SUPPLIER MANAGEMENT:
 BUSINESS ARCHITECTURE:  
 - Knowledge and understanding of how organisations behave with particular emphasis on the systems, processes, management structures, culture and people.  
 
-## Professional Techniques:  
+## 2.3 Professional Techniques:  
 
 PROJECT MANGEMENT:  
 - BAs may be required to undertake the project manager role and so needs an awareness of project management techniques and approaches, and have project management skills.  
@@ -127,7 +127,7 @@ AGILE THINKING:
 - The ability to enable business agility in order to support the effective use of resources and the delivery of value by their organisations.  
 - BAs have the potential to provide an agile response to identified problems and opportunities through their focus on understanding what is to be addressed and the evaluation of options.  
 
-## The Development of Competencies:  
+## 2.4 The Development of Competencies:  
 
 TRAINING:  
 Very important for developing professional techniques and business knowledge and ,to a certain extent, personal skills can be taught.  
