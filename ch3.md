@@ -1,4 +1,6 @@
-## Strategy Analysis  
+# Strategy Analysis  
+
+## 3.1 The Context for Strategy:  
 
 There are four main aspects of strategy analysis to understand:  
 - what it is and why it is important
@@ -28,6 +30,8 @@ How can an organisation form a strategy if the future is so unpredictable?
 - The organisation of resources such as finance, skills, assets and technical competence so that the organisation can compete.  
 - The environment within which the organisation will operate and its markets.  
 
+## 3.2 The definition of strategy (Johnson, Scholes and Whittington 2008):  
+
 `Strategy is the direction and scope of an organisation over the long term, which achieves advantage in 
 a changing environment through its configuration of resources and competences with the aim of 
 fulfilling stakeholder expectations.`
@@ -45,7 +49,8 @@ Strategies exist in all levels of an organisation from corporates strategies at 
 - Business Unit Strategy (SBU) is concerned with choice of products, pricing, customer satisfaction and competetive advantage.  
 - Operational Strategy is concerned with the delivery of the above strategies through effective organisation and development of resources, processes and people.  
 
-#### Strategy Development  
+## 3.3 Strategy Development:  
+
 - How is strategy developed?  
 - What kinds of strategy should be developed?  
 - Where does strategy development come from?  
@@ -76,8 +81,11 @@ Once a strategy is formulated it should be provided in a written statement.  WHY
 - enables appropriate performance measures to be put in place that measure key indicators of the success of the strategy.  
 - tells the outside world especially outside stakeholders and market analysts about the organisation and develops the expectations.  
 
-Whatever the approach, external and internal analysis is needed:  
-#### External -> What is happeneing out there?  
+Whatever the approach, external and internal analysis is needed.  
+
+## 3.4 External environment analysis:  
+
+#### External -> What is happening out there?  
 - Most organisations face a complex and changing external environment of increasing unpredictability.  
 -> state of national and local economies  
 -> product cost (price competition and moving manufacturing to lower cost economies)  
@@ -143,6 +151,8 @@ Scenarios are useful when thinking about high levels of uncertianty.
 -> They begin by identifying the potential high impact and high uncertainty factors in the environment.  
 -> Once at least four plausible and detailed scenarios are constructed the future each of these scenarios would construct is then considered using the PESTLE framework.  
 
+## 3.5 Internal environment analysis:  
+
 #### Internal -> Where does the organisation fit in to what's happening out there?  
 - Successful strategies depend on something else as well; it is the capability of the organisation to perform.  
 -> Can an organisation continue to change its capability so that it constantly fits the environment in which it operates?  
@@ -184,6 +194,8 @@ The **Boston Box** was developed as a means of conducting portfolio analysis. A 
 - The **Stars** and **Cash Cows** provide the funding for the other segments of the matrix.  
 - The **Dogs** have low market share in markets with low growth and are often the areas that are removed or allowed to wither away.  
 
+## 3.6 SWOT analysis:  
+
 **SWOT** analysis (strengths, weaknesses, opportunities, threats) is often used to pull together the results of an analysis of the external and internal environments.  
 It should not be used as the first analytical tool - the results are usually weak, inconclusive and insufficiently robust to be of much use.  
  more robust approach is to use the techniques described earlier as they help identify the major factors, both internal and external to the organisation, that the business strategy needs to take into account.  
@@ -195,7 +207,8 @@ Completely changing the nature of the organisation because of the external analy
 Basing everything on an internal analysis may lead to little or no change, or changes that are internally focused and ignore the desires of the customers.  
 Using both analyses is more balanced and is likely to contribute towards the creation of a more robust strategic direction.  
 
-### Executing strategy  
+## 3.7 Executing Strategy:  
+
 Executing strategies implies risk because it involves change.  
 There are three particular aspects of implementing strategy:  
 1 the context for the strategy  
@@ -246,8 +259,9 @@ The emphasis of the scorecard is to measure aspects of performance in a balanced
 - The learning and growth perspective could generate a need for new products or new internal processes if the organisation is to continue to perform well.  
 
 The BBS helps in the definition of two components which are vital to assess business performance; these are Critical Success Factors (CSFs) and Key Performance Indicators (KPIs).  
-CSFs are defined as ‘the few key areas where “things must go right” for the business to flourish and for a manager’s goals to be attained’.  
+
+**CSFs** are defined as ‘the few key areas where “things must go right” for the business to flourish and for a manager’s goals to be attained’.  
 Not every activity is a 'key area' but the CSFs mean that there are some goals that *must* be reached.
 
-KPIs come in when setting these goals to ensure they are achievable.
+**KPIs** come in when setting these goals to ensure they are achievable.
 KPIs are the measures that show whether or not progress is being made towards the achievement of a CSF. KPIs measure specific areas of performance so also limit the amount of data that managers have to consider and act upon.  
