@@ -216,7 +216,7 @@ With regard to the control activities, two observations are relevant:
 1. On a BAM, we could associate a control activity with each monitoring activity and some users of the technique prefer to shown them this way. However, in the real world, managers often take action as a result of a range of measurements so a less cluttered model can be created by feeding all of the monitoring activities into one control activity.  
 2. The control actions themselves could feed back into any of the other activities on the model. Since trying to show this would create an impossible-to-understand diagram, the convention is to show a ‘lightning strike’ symbol emanating from the control activity which means that it feeds back into the model wherever it is relevant.  
 
-### Developing a Consensu Model:  
+### Developing a Consensus Model:  
 
 Having modelled the organisation from the perspective of each stakeholder (or, at any rate, of each stakeholder with a different CATWOE), it is now necessary to achieve a consensus BAM that represents the agreed or idealised way forward. Ideally, this is achieved through negotiations involving the stakeholders and the business analysts; the aim is for the stakeholders to all ‘buy in’ to the final BAM. Realistically, however, sometimes the stakeholders just cannot agree and this is where identifying the ‘owner’ of the business system (as in CATWOE) is important. The owner has to choose between the competing BAMs or perhaps impose one that is a composite of several. This is less desirable than securing all the stakeholders’ agreement, as some people may not necessarily accept the agreed BAM but it may be the best that can be achieved in some situations.  
 
