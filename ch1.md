@@ -1,4 +1,6 @@
-## What is Business Analysis?  
+# What is Business Analysis?  
+
+## 1.1 The Origins of Business Analysis:  
 
 `Individual responsible for ensuring that the proposed business change solutions are aligned with the needs of the business.`  
 
@@ -19,6 +21,8 @@ and
 ### Business Change Solutions:  
 - development of new systems  
 - improvement/enhancement of exisiting systems  
+
+## 1.2 The Development of Business Analysis:  
 
 ### BA role has developed as a result of 3 key areas:  
 #### 1. Impact of outsourcing  
@@ -63,6 +67,8 @@ Issues arise if the BA is not involved in this:
 
 **Therefore** an excellent BA has BOTH business knowledge and IT knowledge.  
 
+## 1.3 The Scope of Business Analysis Work:  
+
 ### Range of analysis activities:  
 - Strategic Analysis and Definition:  
 Some BAs may be required to undertake strategic analysis and identify business transformation actions, but it is more likely that they will have a role to play in supporting this activity. However, BAs are expected to have access to information about their organisation’s business strategy and be able to understand it, as their work will need to support the execution of this strategy. BAs will need a good understanding of how strategy is developed and the impact upon the work of the IT and business change functions.  
@@ -72,6 +78,8 @@ Some organisations consider this work to be of such a technical nature that they
 
 - Business Analysis:  
 The gap between the two is straddled by the BA. BAs will usually be required to investigate a business system where improvements are required but the range and focus of those improvements can vary considerably. It may be a localised issue or a broader study, with investigation into several issues where a rigorous business case would need to support any recommendations. It may be the enhancement or replacement of an existing IT system where a requirements document would need to be provided, defining what the IT system would need to provide.   
+
+## Taking a Holistic Approach:  
 
 ### The Scope of BA work:  
 Organisations are placing increasing emphasis upon ensuring that there is a rigorous business case to justify the expenditure on business improvement projects. The focus on the management and realisation of these business benefits, once the solution has been delivered, is also growing. Ensuring that changes are assessed in terms of the impact upon the business case and, post implementation, supporting the assessment of whether or not predicted business benefits have been realised, is a key element of the role.  
@@ -99,6 +107,8 @@ The Agile philosophy is to deliver software increments early and to elaborate re
 <img src="https://www.teampay.co/wp-content/uploads/2020/05/Agile-Manifiesto.png"><img>  
 
 The BA will be involved in supporting the business users in clarifying, elaborating and prioritising the requirements during the development process. The BA brings domain expertise and analytical ability to the development team, assisting the users by assessing the impact of proposed functionality in the light of the strategic business context.  
+
+## 1.5 The Role and Responsibilities of a Business Analyst:  
 
 ### Roles and Responsibilities:  
 Although there are different role definitions, depending upon the organisation, there does seem to be an area of common ground where most BAs work. These core responsibilities are:  
