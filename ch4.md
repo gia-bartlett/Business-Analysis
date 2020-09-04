@@ -1,11 +1,12 @@
-## The Business Analysis Process Model  
+# The Business Analysis Process Model  
 
 An organisation has needs that fall into three categories:  
 - Problems or potential improvements (what the problem is, the impact that it has and a potential solution)  
 - Opportunities or new endeavours (allow an org to grow and expand, BA helps to focus those opportunities and providing the content to support decisions in these areas)  
 - Compliance requirements (what is required and what happens if those requirements are not met)  
 
-### An approach to problem solving:  
+## 4.1 An Approach to Problem Solving:  
+
 Creative problem solving is vital in the business world as, increasingly, organisations need to develop innovative ideas in order to respond to changes in the business environment including actions from competitors.  
 
 **Isaksen and Treffinger’s** problem solving model provides a useful framework for understanding problems and developing creative solutions, particularly as the model emphasises the need to investigate and analyse rather than leap to quick, possibly premature, solutions.  
@@ -41,7 +42,7 @@ Recognising the values of the organisation and being aware of the MOST, will hel
 The process model sets out the key stages for a business analysis project with each stage representing the areas that need to be considered. However, it should be noted that whilst some projects may require a detailed exploration of all of the stages, other projects may focus on a subset of the model, possibly just one stage.   
 One of the most important aspects of a business analysis project is to decide what the focus is and which areas need to be investigated.  
 
-1. **Investigate Situation:**  
+### 1. Investigate Situation:  
 This stage is concerned with uncovering issues and problems. The terms of reference for the project, or possibly a more detailed project initiation document, are needed in order to set out the context within which the business analysis work will take place.  
 
 The OSCAR mnemonic can be very useful when clarifying the terms of reference if none exist:  
@@ -53,18 +54,18 @@ Resources -> The resources, both human and physical, available to the project.
 A key area for the analyst is to clarify the objectives of the study and tailor the approach accordingly. During the initial period the analyst may be presented with a statement of ‘the problem’ but this statement may not be correct. It is important to investigate the situation further in order to determine where the real problems lie, and ensure that symptoms of the problems are not confused with the real issues.  
 It is also vital that the analyst does not make false assumptions or accept all of the information provided without question.  
 
-Stage Summary:  
-- Procedure:  
+#### Stage Summary:  
+- **Procedure:**  
 Study background material – project initiation document, terms of reference  
 Carry out initial investigation with key stakeholders  
 Document the results of the investigation – using meeting reports plus diagrams such as a ‘rich picture’, mind-map or fishbone diagrams  
-- Inputs:  
+- **Inputs:**  
 Terms of reference or project initiation document  
 MOST, statement of business values  
-- Outputs:  
+- **Outputs:**  
 View of the existing business situation, including meeting reports and diagrams such as rich pictures, mind maps and fishbone diagrams  
 List of issues/problems  
-- Techniques:  
+- **Techniques:**  
 Investigation techniques such as interviewing, observation and workshops  
 Quantitative investigation techniques such as surveys, sampling and document analysis  
 ‘Rich pictures’ (from Soft Systems Methodology, developed by Checkland (1999))  
@@ -73,28 +74,28 @@ Spaghetti maps
 Fishbone diagrams (Ishikawa – these are also known as Ishikawa diagrams after their inventor Kaoru Ishikawa (1985))  
 Business process models  
 
-2. **Consider Perspectives:**  
+### 2. Consider Perspectives:  
 This stage is concerned with analysing stakeholders and their perspectives on the business situation. Many stakeholders hold very strong views about why problems exist, what needs to be done to improve the situation and where the focus of the business system should lie.  
 
 Every business situation will affect a range of individuals and organisations. Among this group there will be people or groups with varying levels of interest and power. Some stakeholders may be directly affected by any recommendations and may hold strong views on how the systems and working practices should be changed. Others may be affected only indirectly and, whilst having opinions, may be less concerned about the nature of the new system.  
 
 Stakeholders often have different views on what is important about a business system and, as a result, have different ideas about the improvements that are needed. These views are often contradictory and can lead to hidden agendas, conflicts and inconsistent priorities. Understanding these values and beliefs allows the analyst to approach issues and problems from an informed position and hence have an improved chance of resolving the situation.  
 
-Stage Summary:  
-- Objectives:  
+#### Stage Summary:  
+- **Objectives:**  
 The objective of this stage is to take stock of the range of stakeholder perspectives about the business system under investigation. These perspectives may then be analysed to uncover stakeholder values and beliefs, and developed into business activity models. However, where there is a narrow remit for the business analysis work, for example if we are concerned primarily with improving a particular process, while it will be important to identify and manage the stakeholders, consideration of the entire business system may be beyond the scope of the business analysis work.  
-- Procedure:  
+- **Procedure:**  
 Identify key stakeholders whose perspectives are important to the business analysis project  
 Investigate the values, beliefs and priorities of the key stakeholders  
 Develop and analyse the stakeholder perspectives  
 Build conceptual models of activities to fulfil the stakeholder perspectives  
 Explore and resolve conflicts between stakeholder perspectives  
 Synthesise conceptual models into one view of the desired business system  
-- Inputs:  
+- **Inputs:**  
 Terms of reference or project initiation document  
 Business values and MOST  
 Identified stakeholders (from the documentation of the existing business system)  
-- Outputs:  
+- **Outputs:**  
 Power/Interest grid  
 Stakeholder perspectives  
 Business activity models based upon stakeholder perspectives  
@@ -105,30 +106,30 @@ Stakeholder identification and analysis
 CATWOE  
 Business Activity Modelling  
 
-3. **Analyse Needs:**  
+### 3. Analyse Needs:  
 The focus of this stage is to identify where improvements can be made to the business system. The approach used is known as ‘gap analysis’ whereby a current or ‘as is’ view is compared with a desired, future or ‘to be’ system. This method contrasts with the traditional, more systematic approach to business or systems improvement where new features are added on to an existing set of procedures or IT system functions. With gap analysis the emphasis is on understanding where we want to be and, by looking at where we are now, identify what needs to change to take us there.  
 
 Where you have developed a business activity model from a stakeholder perspective, this can be used to carry out a detailed analysis of the desired business system by examining each activity in turn. As the model provides a conceptual picture of the desired business activities it allows the business analyst to see where the current business system is lacking. Identifying the gaps at this level will help us to determine the potential for change to the business system and the degree to which this is required.  
 
-Stage Summary:  
-- Objectives:  
+#### Stage Summary:  
+- **Objectives:**  
 To explore the differences between the current and desired situations. To identify the opportunities for business change by analysing these differences or ‘gaps’.  
-- Procedure:  
+- **Procedure:**  
 Examine the activities on the business activity model  
 Consider how well each activity is carried out in the current business system and how well it is supported by the organisation’s information systems  
 Identify the key business events to be handled within the business system; develop ‘as is’ business process models for the key business events  
 Develop ‘to be’ business process models for the key business events  
 Analyse the gaps between the existing and the desired business systems. Use these as a basis for identifying potential business system improvements  
 Ensure any potential improvements align with the business architecture  
-- Inputs:  
+- **Inputs:**  
 Agreed business activity model  
 View of the existing business system  
 Business values and MOST  
-- Outputs:  
+- **Outputs:**  
 Analysis of activities, including identified areas of weakness  
 ‘As is’ and ‘to be’ business process models  
 List of potential improvements to the business system  
-- Techniques:  
+- **Techniques:**  
 Gap analysis  
 Activity analysis  
 Business process modelling  
@@ -136,43 +137,43 @@ Business process modelling
 Situation Statement (provides not just the situation encountered, but also the impact on the organization):  
 The (*problem or opportunity*) has the effect of (x) with the resulting impact of (y).  
 
-4. **Evaluate Options:**  
+### 4. Evaluate Options:  
 This stage is concerned with examining the potential improvements identified so far, developing some business options and evaluating them for acceptability and feasibility. The analysis of the gaps between the existing and desired systems will have produced some ideas for improvements and the work now is to develop these ideas into business options. These options may include options for changes in a number of areas; for example, they may change the business processes, the job roles, the management structure or the IT systems. At this point, the changes are likely to be defined in outline only, but in sufficient detail so that a business case may be developed to support the recommendations and provide a basis for decision-making. Once the work to define the changed areas begins in earnest, there may be a need for further consideration of options. 
 
 The first step is to identify possible options by considering which improvements would result in the greatest potential benefits. Once a number of options have been identified these can be reduced to a shortlist of options to be defined in further detail. The business values, MOST and business architecture need to be considered as part of the development and evaluation of options as they must be supported by, and aligned with, any changes.  
 
-Stage Summary:  
-- Objectives:  
+#### Stage Summary:  
+- **Objectives:**  
 The objective of this stage is to collect together the range of potential changes into packages of improvement actions. These packages form the basis for developing a set of options that are then developed and documented in further detail. They are then presented to business managers for consideration.  
-- Procedure:  
+- **Procedure:**  
 Identify range of business options  
 Explore acceptability of options and reduce to a shortlist  
 Develop and document each option in detail. In particular, consider the business, technical and financial feasibility of each option  
 Develop business case, including presenting options and recommendations to business managers  
-- Inputs:  
+- **Inputs:**  
 Project initiation document/terms of reference  
 Business values and MOST  
 List of potential improvements to the business system  
-- Outputs:  
+- **Outputs:**  
 Shortlist of business options  
 Business case including options, feasibility assessment and recommendations  
-- Techniques:  
+- **Techniques:**  
 Business options identification  
 Cost-benefit analysis, including quantification of costs and benefits; investment appraisal techniques  
 Impact analysis  
 Risk analysis  
 
-5. **Define Requirements:**  
+### 5. Define Requirements:  
 This stage is concerned with gathering and documenting the detailed requirements for changes to the business system. These changes may be to any (or all) of the four aspects of a business system: the business processes, the supporting IT systems, the people carrying out the work and the organisation structure. If the recommendations include the implementation of redesigned processes, this is likely to require changes to the structure of the organisation and the job roles, plus development of the staff skills. It is sometimes the case that the improvements to the business system can be made through limited changes such as improved job definitions or additional training for the staff. However, more extensive change is usually required, for example to the business processes, and it is likely that this will necessitate enhancements to existing IT systems, or even the introduction of a new IT system. Business analysts have a responsibility to define the requirements accurately, as their documentation will form the basis for the development of the new processes and system. If the requirements are not documented clearly then this is likely to cause problems not only during the development of the system but also once the system has been implemented. It is vital therefore that the requirements may be related directly to a business need and will support the business objectives.  
 
 The requirements engineering approach has been developed as a response to the lack of rigour often found in requirements documentation. Requirements engineering proposes a framework to help analysts improve their requirements work by highlighting the need for proactive analysis, organisation, documentation and management of stated requirements.  
 
 There are many modelling techniques available to business analysts. These techniques originate mainly from systems analysis and design approaches such as the Unified Modeling Language (UML). Each modelling technique provides insight into a particular aspect of the IT system.  
 
-Stage Summary:  
-- Objectives:  
+#### Stage Summary:  
+- **Objectives:**  
 The objective of this stage is to produce a well-formed requirements document setting out the business requirements for the new business system. This document must include clear textual descriptions of the requirements and sufficient information to trace each requirement from its origin through to its resolution. Modelling techniques may be used to represent the process and data requirements diagrammatically and hence improve the rigour and clarity of the requirements definition.  
-- Procedure:  
+- **Procedure:**  
 Gather the requirements:  
 elicit and analyse the business requirements for the new business system;  
 document and manage the requirements;  
@@ -182,11 +183,11 @@ business process models;
 catalogue of business requirements;  
 models of the IT processing and data;  
 glossary of terms.  
-- Inputs:  
+- **Inputs:**  
 Selected option for revised business system  
 Business values and MOST  
 Terms of reference/project initiation document  
-- Outputs:  
+- **Outputs:**  
 ‘To be’ process models  
 Job definitions  
 Revised organisational structure  
@@ -194,7 +195,7 @@ Validated requirements document including:
 requirements catalogue;  
 models of business process and system requirements;  
 glossary of terms.  
-- Techniques:  
+- **Techniques:**  
 Business process modelling  
 Job design  
 Investigation techniques  
@@ -206,32 +207,32 @@ Solution - something developed to deliver measurable business value.
 Solution Statement:  
 Recommends the most viable option to meet the needs while also defining initial scope and steps.  
 
-6. **Deliver Changes:**  
+### 6. Deliver Changes:  
 Once the business analysts have investigated and analysed the situation, considered the stakeholders and their perspectives, developed options for improvement and defined the requirements to be fulfilled, it is important to consider how the business changes will be delivered and implemented, and the business benefits realised. In the main, this work is not solely the responsibility of the business analyst but some tasks, such as providing support to the stakeholders, does fall within our remit.  
 
 The requirements will need to be developed into the business change solution. This solution may include process, people, organisational and IT system change. The lifecycle and approach to be adopted to develop and deliver the changes will need to be determined. This decision will have an impact upon the roles of the project team, the deliverables to be produced and the techniques to be used.  
 
 The delivery of the business solution will need to consider aspects such as the emotional impact of change and the realisation of the business benefits. The business analyst may be heavily involved in tasks such as designing and documenting the new tasks and procedures, supporting user acceptance testing and reviewing benefits to assess their realisation.  
 
-Stage Summary:  
-- Procedure:  
+#### Stage Summary:  
+- **Procedure:**  
 Decide the lifecycle and approach to be adopted  
 Design and develop the business change solution  
 Support the planning and implementation, in particular the development of the required learning materials and the delivery of training for the business staff  
 Review the predicted benefit  
 Identify any actions required to realise the benefits  
-- Inputs:  
+- **Inputs:**  
 Business change process and organisation design  
 IT software solution  
 Business case  
-- Outputs:  
+- **Outputs:**  
 Business change plan  
 Communication plan  
 Training approach and materials  
 Revised job roles and descriptions  
 Benefits plan  
 Benefits review document  
-- Techniques:  
+- **Techniques:**  
 Use case descriptions  
 Decision tables  
 State charts  
