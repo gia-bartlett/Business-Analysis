@@ -168,16 +168,60 @@ BA Role:
 - Follow up and share valuable workshop artefacts with the team - keep it short - key items, key decisions, valuable models, lists, and diagrams.  
 
 ## Analysis Techniques  
+
 ### Analysis Overview  
+Analysis involves discovering and connecting the big picture, the details and the value for users and their goals, data, rules and decisions, and gaps.  
+Analysis helps us ensure complete and high quality requirements by helping stakeholders see and understand the same tree.  
+Analysis identifies connections, gaps, impacts and questions that have not yet been discussed.  
+Analysis involves a combination of thinking, dialogue, modeling, diagramming, and organising information in various views to help us think about and look at the product, process, or system from various perspectives.  
+
+Analysis can be:  
+- Solo or collaborative  
+- Varied in formality - elaborate techniques with intricate steps or informal conversations.  
+- VARIETY (one technique is not enough)  
+
 ### Process Models  
+- Visual aid to explain a process or sequence of activities  
+Used to:  
+- Ignite dialogue on the team  
+- See where the details fit into the big picture  
+- Visualise the process  
+- Organise requirements information  
+- Analyse various detailed aspects of the system, product or process  
+
+Keep it simple - stakeholders and the team must be able to read and understand the models intuitively (the dialogue should be about the process, not how to read it)  
+
+Process Model Principles:  
+- Know what you are modeling (current state? future state?)  
+- Progressively elaborate and build in layers  
+- Name the process and the activities in a verb-noun format (be specific and avoid vagues like handle, manage, process, coordinate)(select to checkout -> enter payment details -> confirm payment -> create account -> subscribe to newsletter)  
+
+Use simple process models with details provided as supplements (decisions tables to include the logic within each step)  
+
 ### Context Diagrams  
+Provide the solution's big picture by providing a view of the system or product in its environment, including the systems and people it interacts with - helps to identify scenarios, users, user goals, and external systems.  
+
+Creating a context diagram:  
+- Start with the name of your product in the centre  
+- Add key people/roles -> customer, manager, order specialist, shipper, warehouse worker etc.  
+- Add internal and external systems -> payment processors, internal data stores etc.  
+- Explore the interactions between entities and goals using arrows and a phrase to describe  
+
 ### User Stories and Story Mapping  
+
 ### Decision Tables  
+
 ### Data Flow Diagrams  
+
 ### State and Sequence Diagrams  
 
+
 ## Tailoring to the Project or Product Type:  
-###
-###
-###
-###
+
+### Blending Your Elicitation and Analysis Together  
+
+### New Processes, Products, and Systems  
+
+### Adding to a Process, Product, or System  
+
+### Buying and Implementing Software  
