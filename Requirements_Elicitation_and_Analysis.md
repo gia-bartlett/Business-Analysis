@@ -4,21 +4,26 @@
 
 ### What is Elicitation and Analysis?  
 
-`Elicitation is the discover and progressive elaboration of understanding the needs of our stakeholders and customers.`
+`Elicitation is the discover and progressive elaboration of understanding the needs of our stakeholders and customers.`  
+
 Critical to understand if the solution we're working on is right for the stakeholders, customers, and the organization.  
 Everyone has ideas - stakeholders, customers, users, developers. Elicitation and analysis finds the actual needs of the customers.  
+
 **Elicitation** allows BAs to find out if they are working on solving a defect, understanding requirements for an enhancement request, or developing a new product, service, or process.  
 It involves a set of techniques that goes beyond what's stated, beyond what the data says, and beyond everyone's ideas.  
 The process helps the team evolve their ideas into requirements that will take a solution or product into alignment with what the customer needs, and serves the organization strategy.  
+
 **Analysis** takes the information elicited, and looks at where the gaps and impacts are by breaking it down and looking at different angles.  
 The angles you can examine are of a sequence, data, logical rules, the people involved, handoffs, and the various relationships that exist - how they all work together to achieve the goal of the product and improve the customer experience.  
 Analysis involves a combination of thinking, inspiring dialog, and analysis with others. It involves modeling, diagramming, and documenting to bring out the various angles to ensure impact, gaps, scenarios, and connections are well understood by the team.  
 
 ### The Role of Elicitation and Analysis in Requirements  
 True elicitation and analysis is more about dialog, shared understanding, visuals, and exploring.  
+
 **Elicitation** is the discovery and evolution of thought for what you are building - learning together as a team what is the right thing to build for the customer.  
 Many times, stakeholders are simply voicing what their needs are in the only way they know how to voice them at the time - a customer's stated requirements can actually vary greatly from the true need.  
 Elicitation gives them the opportunity to evolve their thoughts, think out loud, and sit with their thoughts - to co-create their idea and solutions with you and the team.  
+
 **Analysis** is analysing the information elicited and bringing back meaningful models, questions, conversation, and diagrams back to the team in order to elicit more.  
 Using various techniques to break down, sum up, and organize the information into views that help you and the team.  
 
