@@ -11,8 +11,8 @@
 - [ ] CI -> Configuration Item  
 - [x] CIO -> Chief Information Officer  
 - [ ] CMMI -> Capability Maturity Model Integration  
-- [ ] COTS -> Commercial Off-The-Shelf (software solution)  
-- [ ] CSF -> Critical Success Factor  
+- [x] COTS -> Commercial Off-The-Shelf (software solution)  
+- [x] CSF -> Critical Success Factor  
 - [ ] DBMS -> Database Management System  
 - [ ] DCF -> Discounted Cash Flow  
 - [ ] DMAIC -> Define, Measure, Analyse, Improve, Control  
@@ -27,8 +27,8 @@
 - [x] IS -> Information Systems  
 - [x] IT -> Information Technology  
 - [ ] itSMF -> IT Service Management Forum  
-- [ ] KPI -> Key Performance Indicator  
-- [ ] MoSCoW -> Must have, Should have, Could have, Want to have but won’t have this time  
+- [x] KPI -> Key Performance Indicator  
+- [x] MoSCoW -> Must have, Should have, Could have, Want to have but won’t have this time  
 - [ ] MOST (analysis) -> Mission, Objectives, Strategy and Tactics (analysis)  
 - [ ] NPV -> Net Present Value  
 - [ ] OSCAR -> Objectives, Scope, Constraints, Authority, Resources  
@@ -46,4 +46,5 @@
 - [ ] SSM -> Soft Systems Methodology  
 - [ ] STROBE -> Structured Observation of the Business Environment  
 - [x] SWOT -> Strengths, Weaknesses, Opportunities and Threats  
-- [ ] UML -> Unified Modeling LanguageUP Unified Process  
+- [ ] UML -> Unified Modeling Language
+- [ ] UP -> Unified Process  
