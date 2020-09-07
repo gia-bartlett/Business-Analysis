@@ -64,12 +64,108 @@ Elicitation can sometimes feel like mindreading, therapy, facilitation, analysis
 - Use your unique perspective (the big picture AND the details) to help the business to make the right decisions about what they need and to help the dev teams to build it.  
 
 ## Elicitation Techniques  
-### Elivitation Overview  
+
+### Elicitation Overview  
+Projects are like icebergs and at the beginning we can only see the tip - we use elicitation techniques to help our stakeholders find the requirements, needs, risks, dependencies, assumptions, and opportunities that lie below the surface.  
+Our stakeholders see the solution differently than engineers and developers do. We need to help them connect the dots by using high-impact collaboration techniques.  
+Collaborative Elicitation:  
+- planned and unplanned activities  
+- vary techniques by level of formality  
+- VARIETY (one technique is not enough)  
+- do research to elicit (industry best practices for the process and technologies related to the subject domain)
+
 ### Interviews  
+- Relationship building tool and deeper dive into the details of someone's domain or scope of work.  
+- Value can be found in interviewing anyone involved in the project - sponsors, SMEs, business managers, customers and users.  
+- Interviews should be strategic - helping to build or smooth relationships with key stakeholders or elicit details in areas of complexity.  
+- Break each interview into three steps: 
+**Prepare:**  
+- Who are you interviewing?  
+- What is their role and how can I make a personal connection with them?  
+- What is my goal for the interview? (relationship building, understanding detailed information, thought provoking to evolve solution concepts?)  
+- Engaging questions - to open up the dialogue  
+- Probing questions - to elicit more detail  
+
+**Conduct:**  
+- Take the time to build rapport  
+- Have 3-5 questions prepared for a 60 minute interview  
+- Keep it converstaional and not rigid or structured  
+- Create a framework of bullets (trying to take extensive notes can distract and wreck the flow)  
+
+**Follow Up:**  
+- Touch base after interview to make sure key points were captured correctly  
+- Ask interviewee to clarify and validate a few important points (instead of giving them reams of notes to read)  
+- Ask interviewee to review a visual model of your understanding of the details  
+
 ### Brainstorming  
-### Observation  
+- When done correctly it inspires creative thinking, new ideas, or a new approach to a problem.  
+Things to brainstorm:  
+- stakeholders who are impacted  
+- features of a solution  
+- solution options and alternatives  
+- risks  
+- ways to resolve issues  
+- reactions and feelings that users might have when using a product  
+- scenarios and exception paths  
+
+Planning and good techniques are needed for effective brainstorming sessions:  
+- Individual brainstorming - have a group silently think about their ideas  
+- Group brainstorming  
+- Flip charts, sticky notes - allows users to be active and anonymous when putting forward their ideas  
+
+When done well brainstorming can boost group dynamics, generate powerful ideas, neutralize strong personalities, and elicit requirements quickly.  
+
+### Observation (shadowing)  
+- Not just watching people use the product but looking at how they go about the task, what problem they're trying to solve and the emotions that they have.  
+- What thought processes are they using while using the product?  
+- What tools are they using outside of the product or system?  
+- What feelings does the user ahve while using the system?  
+- When are they using additional knowledge? (from another system, their head)
+- Is the system working as expected?  
+- Be careful of changes in behaviour because the user knows they are being watched.  
+- Be careful of the level of skill of the user you are observing - are they an average, super or struggling user?  
+- Typically users do not use a product the way we would expect them to.  
+
+Two types of observation:  
+**Active:**  
+- Working with the user - asking questions to understand and confirm the processes  
+- Takes longer because of interruptions
+
+**Passive:**  
+- No interaction with user (sometimes they don't even know they are being observed)  
+- What is frustrating for them? What is delighting them?  
+- Takes less time  
+
 ### Experiments  
-### Workshops  
+Sometimes people have blind spots due to complexity, ambiguity, or just plain uncertainty about the future.  
+Experimenting is about learning the unknown, testing ideas, assumptions, and key theories that drive requirements for products and systems.  
+Identify what you want to learn more about and design an experiment to bring the team the needed information.  
+Experimenting helps teams get through the times when requirements are hard to get at or, on the other side of the equation, requirements keep changing.  
+
+Plan an experiment:  
+- What do we want to learn? (What information could we gather that would help the team make decisions?)  
+
+Experiments are powerful and can get teams realtime information that shines a spotlight on the true needs and requirements of users.
+
+### Workshops 
+Strategically drawing out information from stakeholders and customers.  
+High impact collaboration, deep dialogue, learning, exploring ideas and details.  
+Inspire attendees to learn from each other.  
+
+Plan a workshop:  
+- Define your goal (What is the purpose of the workshop? What information do I need to elicit? How to make this valuable to the stakeholders that attend?)
+- Determine who to invite (What will their role be? Who are the key stakeholders required to help me achieve my goal?)  
+- Discuss roles and agenda with stakeholders before the workshop and help them understadn what's in it for them.  
+- Design the workshop (engaging activities, games, small group work sessions, large group discussion)  
+- Interactive, visual activities - brainstorming, sticky notes, group modeling and diagramming, collaborative games.  
+
+BA Role:  
+- Help draw out information needed to achieve your goal  
+- Be a neutral facilitator  
+- Support the process by prmoting diverent thinking first, and then helping the team converge to decisions.  
+- Use the parking lot - a space to put information to revisit at a later time.  
+- Keep the group focused on meeting the goal and not get distracted by subtopics.  
+- Follow up and share valuable workshop artefacts with the team - keep it short - key items, key decisions, valuable models, lists, and diagrams.  
 
 ## Analysis Techniques  
 ### Analysis Overview  
