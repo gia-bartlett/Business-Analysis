@@ -200,21 +200,99 @@ Use simple process models with details provided as supplements (decisions tables
 
 ### Context Diagrams  
 Provide the solution's big picture by providing a view of the system or product in its environment, including the systems and people it interacts with - helps to identify scenarios, users, user goals, and external systems.  
+A great representation of the intended scope at a summary level that can be used throughout the project.
 
 Creating a context diagram:  
-- Start with the name of your product in the centre  
-- Add key people/roles -> customer, manager, order specialist, shipper, warehouse worker etc.  
-- Add internal and external systems -> payment processors, internal data stores etc.  
+- Start with the name of your product in the centre (in a circle)  
+- Add key people/roles -> customer, manager, order specialist, shipper, warehouse worker etc. (in a rectangle)  
+- Add internal and external systems -> payment processors, internal data stores etc. (in a rectangle)  
 - Explore the interactions between entities and goals using arrows and a phrase to describe  
 
+<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/contextdataflowdiagram.svg"><img>  
+
+**Pro Tip:**  
+- Do not connect user roles to each other or other rectangle entities (it is about interaction and data - not sequence)  
+- Keep it to around 15 arrows (it is about the big picture - not close detail)  
+- Try not to make this a technical architecture diagram of the technical components (it is a context model to help with user and business POV)  
+
 ### User Stories and Story Mapping  
+User stories are placeholders for future conversations, and the story map shows a map of how the user stories relate to one another.  
+User stories and story maps are a great technique many agile teams use, and they can also be used for non-agile projects as well as a powerful requirements technique.  
+
+**User Stories:**  
+WHO - WHAT - WHY (Role - Goal - Benefit)  
+ACCEPTANCE CRITERIA - What is needed for the customer to describe the story as working  
+
+Example: As an online shopper, I want to provide a credit card on file, so that I do not need to re-enter my credit card information each time I make a purchase.
+WHO - online shopper  
+WHAT - provide credit card on file  
+WHY - so that information doesn't have to be re-entered  
+ACCEPTANCE CRITERIA - option to save card details to account  
+
+As the project evolves, it's quite common to discover user stories that are too big, because they include multiple pieces of functionality that need to be discussed, analyzed, and prioritized separately.  
+**Story Splitting**  
+Split from a user point of view (not a technical point of view)  
+Splitting stories is important to analyse and prioritise what is important  
+
+**Story Maps:**  
+As user stories are created and split, a story map is a great way to analyze how all the stories fit together.  
+Tells the whole story.  
+To create a user story map, we take all of the user stories and place them in sequence of how a customer uses the product, from left to right. The vertical columns of the story map provide the details under the higher-level story or theme.  
+
+<img src="https://www.myagilepartner.com/blog/wp-content/uploads/2018/08/story-mapping-%E2%80%93-exemple-story-map-1.png"><img>  
+
+Story mapping is a great way to discover gaps in requirements and analyze flow, data, and the user journey.  
 
 ### Decision Tables  
+Decision Tables are a great way to organize and display decision logic.  
+Ideally, we want the conditions to be binary, a Yes/No condition, and the ideal table has between two and four conditions. With these boundaries, the table stays small and manageable.  
+
+To build a decision table, we start with defining the result or the decision to be made, in the last column.  
+Next, we analyze the text based rules for the conditions that contribute to making the decision and add them as column headers on the table.  
+Once you have the result and the conditions you can calculate how many possible scenarios there are:  
+With a Y/N it's an exponent = 3 conditions with 2 options each -> 2^3 = 8 scenarios (this gives your rows)  
+Now we are ready to determine the decisions of this logic and confirm them as a team, and this means completing the results column of the table.  
+
+| Subscribed | Over £100 | Standard | Shipping cost |
+| -- | -- | -- | -- |
+| Y | Y | Y | 0 |
+| Y | Y | N | 20 |
+| Y | N | N | 20 |
+| N | N | N | 20 |
+| N | Y | N | 0 |
+| N | Y | Y | 0 |
+| N | N | Y | 20 |
+| Y | N | Y | 20 |
+
+Using a decision table helps us pause to identify all of the scenarios, and puts the logic into an easy to read, discuss and review format.  
+Developers and testers also love having this guide, to make sure their developing and testing the right scenarios and have clear results too.  
 
 ### Data Flow Diagrams  
+Data flow analysis is a critical tool for generating high quality requirements. Without data flow analysis, customer satisfaction drops and defects rise. Users get frustrated when they don't see the data they expect, and are asked to reenter data they've already provided. Defects also increase when the data needed for automated decisions is not what it needs to be.  
+
+A data flow diagram provides a great visual of the processes and the data that flows through them.  
+
+**Creating a Data Flow Diagram:**  
+- Place the processes along the top in circles  
+- Identify the data stores that hold the data needed to support the processes and add those data stores to the bottom of the diagram in rectangles.  
+- Next look at each circle or process and determine what chunks of data need to flow to and from the process to the customer, and the data stores.  
+
+A critical step in any diagramming process is collaborating with others and walking the diagram together. Facilitate the walkthrough by asking them questions like, where do we store the decisions needed to calculate shipping? Or, what data do we need to transfer from the customer payment information database to the order database? Data flow diagrams show the inside of a system, and data flow is the primary focus.  
 
 ### State and Sequence Diagrams  
+If status and timing are critical components of a solution, then state and sequence diagrams will boost the value of your requirements.  
 
+**State Diagrams:**  
+State diagrams show the different states something can take on (Order status - in cart, purchased, processing, shipped, delivered).  
+Also shows what causes the state to change.  
+Without understanding the states and how they change, your user experience will be compromised.   
+
+**Sequence Diagrams:**  
+Sequence diagrams show the interaction between people and different parts of a system.  
+It shows the messages that get sent between the parties over time.  
+Sequence diagrams help teams build a shared understanding of how various messages flow between people and systems and when responses are expected. This is important so that the team can see and discuss the interactions expected between various users and systems and when they work alone and together.  
+
+Sequence diagrams can be at the business level or at a very technical level showing system-level messages. Be sure to model what's needed for your intended audience.  
 
 ## Tailoring to the Project or Product Type:  
 
