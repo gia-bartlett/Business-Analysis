@@ -28,7 +28,7 @@ Elicitation gives them the opportunity to evolve their thoughts, think out loud,
 Using various techniques to break down, sum up, and organize the information into views that help you and the team.  
 
 #### What to Analyse?  
-- Poeple who use the system and their interactions  
+- People who use the system and their interactions  
 - Data, rules, and scenarios that drive user behaviour and needs  
 - Others who amy be impacted  
 
