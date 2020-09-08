@@ -297,9 +297,60 @@ Sequence diagrams can be at the business level or at a very technical level show
 ## Tailoring to the Project or Product Type:  
 
 ### Blending Your Elicitation and Analysis Together  
+Blending multiple techniques is the key to better results.  
+
+We elicit to analyze and then the analysis brings out more questions that we need to research or elicit, and so on. This pattern repeats itself until we have enough information to move forward. But how do you know when you have enough?  
+
+It's important when working with requirements to understand which pieces are the more valuable. What parts of a solution are most critical to the value the solution provides to the user?  
+
+Elicitation and analysis are not phases of a project. Elicitation looks to discover information and analysis looks to find the areas where there is more to be discovered. It can be unconscious, which is happening when a conversation is taking place.  
+Even if the solution is set from the beginning these analysis practices will yield powerful, unanticipated insights that will improve the quality of your solution.  
 
 ### New Processes, Products, and Systems  
+Where to start?  
+- Start by asking key stakeholders a few high impact questions (what does success look like? why are we looking for a solution?).  
+- Ask stakeholders to describe their challenges with the current solution.  
+- Try to understand if the challenges are related to why a new solution is being implemented.  
+- Draw a **context diagram** to scope things out - it will help in identifying the various actors that would use the system, product or process.  
+- Use a process model to map out the current and future state processes - to get an understanding from the team what's expected to change with the new solution.  
+
+Keep the vision of a solution in mind to prevent the team from drifting into requirements that are not aligned with the solution.  
+
+Keep in mind:  
+- nonfunctional requirements  
+- assumptions  
+- constraints  
+- data relationships  
+- business rules  
+- human-centered design  
+- user experience  
+
+The two biggest risks to this type of project are **lack of stakeholder involvement** and **lack of vision**. You need the right stakeholders involved to promote the vision. You also need stakeholders who are available to spend time with the team to protect the vision as the requirements are evolving.  
 
 ### Adding to a Process, Product, or System  
+Most backlog items and requests that BAs work on are about adding to or modifying a solution.  
+The trick is figuring out which of these many items are important and actually worth doing (over half of an average teams backlog should never get done - a lot of it is duplicate requests or just not important).  
 
-### Buying and Implementing Software  
+Analyse the backlog to identify patterns. We analyse this by asking questions, such as:  
+- Is each item helping us move forward or keeing us in the past?  
+- Are there duplicates, conflicts, or many items related to a particular part of the solution?  
+- Is the same issue being reported many times in different ways?  
+- What are the root causes of the problems?  
+- Which issues limit the value the users get from the solution?  
+
+Use elicitation techniques to understand why it's important for the item to be completed.  
+Many of these additions to solutions can start out the same way as a new system, using context to elicit and analyse where the change is impacting existing parts of a solution.  You never know what patterns or hidden connections you might find.  
+
+### Buying and Implementing Software COTS (Commercial Off-The-Shelf)  
+Four key differences to consider:  
+1. Keep user goals front and centre  
+Keep your requirements focused on the user and the activities they need to accomplish with the system (if it's already built you don't need to focus on the technical and functional details). What's important is making sure that the software allows the users to perform their necessary activities.  
+
+2. Business rules and logic  
+Understand the business rules, logic, policies, and decisions you're looking for the system to perform - make sure that the system allows you to configure and perform these rules with the needed data inputs. Typically in the configuration part of a system where you configure the inner rules of each step a user performs for an activity.  
+
+3. Data definitions  
+Consider how the purchased software defines and connects data. Prebuilt software has predefined data definitions, assumptions, and relationships. And in many cases, these differ from the buyer's data definitions, assumptions, and relationships. It's important to identify and understand these differences before implementation.  
+
+4. Integrations  
+Integrations are critical to most purchased software as organisations want systems to exchange data to and from the purchased software. It's important to define the business purpose of each integration, the process it supports, and the user impact with and without the integration. The details typically include defining the data needed between the systems and the detailed data attributes.
