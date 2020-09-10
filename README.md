@@ -32,3 +32,5 @@ For some excellent practice questions [click here](https://www.peterfessel.com/2
 | Total | 40 Questions |  |
 
 Abbreviations [click here](https://github.com/gia-bartlett/Business-Analysis/blob/master/abbreviations.md)
+
+LinkedIn Course Notes are also included in this repo
