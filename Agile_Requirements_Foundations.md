@@ -68,22 +68,45 @@ Four Values of Agile:
 #### Agile Principles 5-8 from a Buiness Analyst perspective  
 
 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.  
+- BAs serve the user, customer, and the organisation. They help the team understand each piece of work and how it aligns to the vision  
+- help the product owner prioritise, make decisions, balance trade-offs, and remove features or work that doesn't align with the product vision  
+- On agile teams, BAs are empowered to be part of this by facilitating collaborative requirements, techniques that invoke deep conversations  
 
 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.  
+- On agile teams, BAs don't hand off requirements and stories to developers. Requirements are based on conversations. Documents or details typed into a tool are placeholders for conversation or memories of conversations. The team collaborates on a daily basis to understand stories and features  
+- The BA uses conversations, facilitated sessions, and structured dialogue to keep the team engaged  
+- virtual teams can also use many tools to facilitate face-to-face dialogue as well. Tools that use virtual whiteboards, virtual sticky notes and video are common for virtual agile teams  
 
 7. Working software is the primary measure of progress.  
+- We want the product owner, business analyst, and some user representatives to see working software as often as possible during the sprint or iteration  
+- The BA demonstrates this principle via prioritised stories, well-defined acceptance criteria, prototyping and experimenting. BAs elicit feedback from users as the sprint progresses  
 
 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.  
+- BAs work on requirements just in time. This is not reactive work but actually proactive. BAs work with the product owner to understand the product vision and roadmap  
+- The BA helps the product owner refine the backlog in the big picture view as well as the detailed views - the detailed views are only needed for the upcoming work items and BAs also help the teams slice and estimate work  
+- When the backlog is well refined, the planning and execution of an iteration flows smoothly and maintains a steady manageable pace  
 
 #### Agile Principles 9-12 from a Buiness Analyst perspective  
 
 9. Continuous attention to technical excellence and good design enhances agility.  
+- BAs work with the development team to understand technical risks, architecture, and technical debt  
+- The BA boosts technical excellence by helping the development team understand the product vision and roadmap. In turn, the development team helps the BA and product owner with prioritisation, by communicating technical risks and helping the team understand how decisions impact value to the customer  
 
 10. Simplicity - the art of maximising the amount of work not done - is essential.  
+- BAs ensure that many backlog items actually never get done. Why? Because the BA and product owner are working together to make sure only the most important things get done  - - They evaluate backlog items to make sure they align with the vision and the future. BAs refine the backlog to shift the team's focus to the highest priority items  
+- BAs need to have a ruthless focus on value and analyse items submitted to the backlog for their contribution to value  
+- This principle also applies to the work of BAs in terms of what gets documented. Lightweight documentation and models are key parts of the principles for BAs - only do enough work to meet the purpose and add value to the team  
 
 11. The best architectures, requirements, and designs emerge from self-organizing teams.  
+- The BA has a big part in prioritising what the team works on. To do this well, BAs must identify and act on changing requirements  
+- Requirements emerge and evolve as the team learns. Architectures, requirements, and designs change and these changes cannot be predicted - the team needs to work hard to discover them from building, experimenting, and getting feedback  
 
-12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.  
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.  
+- BAs participate in the team's retrospectives. Frequent retrospectives drive continuous improvement and change the way the team works, to maximise value to the users and the organisation  
+- As BAs, it also helps to look at our own work and retrospect with ourselves on what went well and what we can do to improve things for the next iteration@  
+- Did we, as a team, engage in deep dialog and discovery of requirements?  
+- Did I do lightweight modeling and did it help the dialogue with the team?  
+- Was I focused on value to the customer?
 
 ### Agile Point of View  
 #### The Business Analyst point of view on the Agile team  
