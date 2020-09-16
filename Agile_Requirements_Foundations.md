@@ -19,20 +19,22 @@
 #### The Agile Manifesto from a Buiness Analyst perspective  
 The Agile Manifesto is made up of four values and 12 principles that Agile teams strive to truly be agile.  
 
-First of the four values is: **Individuals and interactions over processes and tools**.  
+Four Values of Agile:  
+
+**Individuals and interactions over processes and tools**.  
 - focus on face-to-face conversations over following a specified process  
 - use high-impact collaboration techniques to elicit and analyze requirements  
 
-Next, **working software over comprehensive documentation**.  
+**working software over comprehensive documentation**.  
 - focus on getting feedback associated with the actual software rather than feedback on a document  
 - requirements will evolve faster and more accurately when our customers and users get their eyes and hands on working software  
 
-Third, **customer collaboration over contract negotiation**.  
+**customer collaboration over contract negotiation**.  
 - understanding, as a team, that contracts and agreements need to flexible given our ever-changing environments  
 - focus on collaborating rather than requirements documents and contracts  
 - shared understanding through dialog will result in better products over a focus on creating a document as the process for requirements  
 
-Last, **responding to change over following a plan**.  
+**responding to change over following a plan**.  
 - plan in value increments instead of big, task-based Gantt charts  
 - plan based on outcomes rather than schedule and tests  
 - a detailed plan is not needed to keep track of such a small scope but details of what's valuable is needed  
@@ -42,11 +44,46 @@ Last, **responding to change over following a plan**.
 - fight to keep work in progress small, so we can respond quickly when priorities change  
 - continuous improvement is important  
 
-
-
 #### Agile Principles 1-4 from a Buiness Analyst perspective  
+
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.  
+- BAs facilitate the dialogue that helps the product owner prioritise what the team builds  
+- BBAs support continuous delivery by facilitating the breaking down of functionality into small pieces of value (No one else provides this perspective - Business leaders see large chunks of functionality and the technical team focuses on technical components and technical layers)  
+- advocate for the users and customers by identifying small increments of value that users can see and experience  
+
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.  
+- facilitate the team in discovering emerging thoughts and ideas that will make the product more valuable  
+- external market changes and feedback from customers continuously influence the product and BAs help incorporate this feedback into the product backlog and priorities  
+- changing requirements mean the product is getting better than previously imagined  
+
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.  
+- BAs are key to helping customers and business leaders realise the intended benefits of a product sooner  
+- BAs slice work into small increments of value and help the team analyse business value, technical dependencies, and technical debt  
+- BAs are a critical player in facilitating the needed dialogue on the team to not only ensure the software works but that it's also valuable  
+
+4. Business people and developers must work together daily throughout the project.  
+- BAs are engaged and available to the team on a daily basis. They facilitate continuous conversations throughout the day using high impact collaboration and communication that results in rapid learning and fast decision making  
+- requirements and documentation are kept lightweight. The focus is on dialogue rather than cranking up documents  
+
 #### Agile Principles 5-8 from a Buiness Analyst perspective  
+
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.  
+
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.  
+
+7. Working software is the primary measure of progress.  
+
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.  
+
 #### Agile Principles 9-12 from a Buiness Analyst perspective  
+
+9. Continuous attention to technical excellence and good design enhances agility.  
+
+10. Simplicity - the art of maximising the amount of work not done - is essential.  
+
+11. The best architectures, requirements, and designs emerge from self-organizing teams.  
+
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.  
 
 ### Agile Point of View  
 #### The Business Analyst point of view on the Agile team  
