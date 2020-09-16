@@ -110,32 +110,66 @@ Four Values of Agile:
 
 ### Agile Point of View  
 #### The Business Analyst point of view on the Agile team  
+Agile can look quite different if you come from a background where traditional software methodologies have been the rule for a long time, and document-driven governance has been the norm.  
+Three points of view to keep in mind:  
+**1. Customer Delight:**  
+'Will the end customer be delighted by this product?'  
+- Helps us to see the connection between our work and the end customer and guage if we are working on the right things  
+- Even if you're working on something quite technical in nature, make the customer experience visible and understood by the team. It will give them the context they need to make good decisions  
+
+**2. Flexibility:**  
+- The role of BA has a lot less definition and boundaries than agile - what's important is that everything you do contributes value to the team, the organisation, and the customer - even if it means stepping outside your normal role and comfort zone  
+
+**3. Learning and Discovery Process:**  
+- Requirements today can be out of date within days of eliciting them, so we need to expect change and look for it. This is why agile principles encourage us to work on a small amount at one time and develop requirements just in time  
+- It's wasteful to go back and rework requirements and even more wasteful to actually develop and deliver requirements that are outdated and that no longer matter  
+
 #### Key agile midsets of Business Analysts  
+
 #### Increments of value  
+
+
 #### Volatility, uncertainty, complexity and ambiguity (VUCA)  
 #### A day in the life of an Agile Business Analyst  
 
+
 ### Backlog Management  
 #### A healthy backlog  
+
 #### Ownership of the backlog  
+
 #### Level of detail in the backlog  
+
 #### Refining the backlog  
+
 #### Analysing the backlog  
+
 #### Collaborating with the Product Owner on the backlog  
 
 ### Techniques for Agile Business Analysts  
 #### Product decomposition  
+
 #### Context techniques  
+
 #### User Stories  
+
 #### Acceptance Criteria  
+
 #### User story maps  
+
 #### Story slicing and splitting  
+
 #### Lightweight Modeling  
 
 ### Agile Concepts for Business Analysts  
 #### Last responsible moment  
+
 #### Minimum Viable Products (MVP)  
+
 #### Experiments  
+
 #### Value-stream  
+
 #### Outcome-focused  
+
 #### Who is the customer?  
