@@ -1,0 +1,1 @@
+**Technical Debt** - Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer. 
