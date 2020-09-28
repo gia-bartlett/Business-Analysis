@@ -170,8 +170,13 @@ Quickly hypothesise and experiment to cut through ambiguity.
 
 ### Backlog Management  
 #### A healthy backlog  
+Ensure the right things are being worked on. PO and BA create the backlog together from observations, analysis and experience.  
+Less detail is needed further back in the roadmap but more detail is needed the higher the priority the item is.  
+This allows for easy accomodation of change in priorities and features.  
+BAs work with the product owner to move around backlog items according to the roadmap and priorities. Then analyze the gaps in value and add to the backlog as appropriate.  
 
 #### Ownership of the backlog  
+
 
 #### Level of detail in the backlog  
 
