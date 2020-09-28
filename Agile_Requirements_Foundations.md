@@ -124,12 +124,33 @@ Three points of view to keep in mind:
 - Requirements today can be out of date within days of eliciting them, so we need to expect change and look for it. This is why agile principles encourage us to work on a small amount at one time and develop requirements just in time  
 - It's wasteful to go back and rework requirements and even more wasteful to actually develop and deliver requirements that are outdated and that no longer matter  
 
-#### Key agile midsets of Business Analysts  
+#### Key agile mindsets of Business Analysts  
+Agile thinking in key scenarios:  
+- Stakeholder adding to current sprint:  
+Chat fact to face with the stakeholder to get more context - bring the product owner and iteration leader/scrum master into the loop. Product owner will determine the priorities, and the iteration leader will identify any impacts to the current content, value, and end dates. A decision can be made by the product owner and the team if it can be accomodated without impacting other items and the goal of the sprint. In many cases, it will have an impact - so the item will need to placed on the backlog and prioritised. If it's a top priority for the next sprint, something may need to be removed in the plans for the next sprint to accommodate it.  
+
+- Dev needs more detail:  
+Ask the iteration lead and developer to meet face to face to better understand the developer's concerns. Confirm our commitment to iterations and getting feedback on working software instead of spending time developing detailed documents. Work to ensure my acceptance criteria are clear and do some whiteboard huddles and drawings with the developer to talk through possible designs and communicate the intent and value of the user needs. Ask the developer if it would help to take a photo or create a quick diagram or mock-up of what was discussed, creating a memory of the conversation.  
 
 #### Increments of value  
+Individual customers know what they want but larger groups of individuals with diverse needs can distort the definition of value.  
+Product owners and BAs bring clarity to needs by breaking work into small increments of value - helping the team to plan, prioritise, and delivery quickly.  
+Consider the customers needs:  
+- Does it provide value to the end user?  
+- Does it meet one user need, or more?  
+- Does it conflict with the needs of any other users?  
 
+Consider alignment to vision and strategy:  
+- How does this backlog item deliver value to the organization?  
+- And does this solution change the product vision?  
+- Does this feature support the organization but conflict with needs of the user?  
+
+Consider maximising the amount of work not done:  
+- Does it bring the user or customer efficiency, like saving them time or money?  
+- Does it bring them peace of mind? Does it make them feel cool or special?  
 
 #### Volatility, uncertainty, complexity and ambiguity (VUCA)  
+
 #### A day in the life of an Agile Business Analyst  
 
 
