@@ -149,10 +149,24 @@ Consider maximising the amount of work not done:
 - Does it bring the user or customer efficiency, like saving them time or money?  
 - Does it bring them peace of mind? Does it make them feel cool or special?  
 
-#### Volatility, uncertainty, complexity and ambiguity (VUCA)  
+#### Volatility, Uncertainty, Complexity and Ambiguity (VUCA)  
 
-#### A day in the life of an Agile Business Analyst  
+Volatility:  
+Requirements are changing quicker than we can define and discover them let alone build solutions that meet them. Prices, regulations, etc are due to market volatility.  
+BAs must be ready to tackle changes and move with the flow.  
 
+Uncertainty:  
+Customers needs and what is important to them is constantly changing. The reactions of competitors to market changes is also unknown.  
+BAs must make just-in-time requirements based on real data and real-time data.  
+
+Complexity:  
+Organisations, customers, and products are all becoming more complex. 
+BAs must define and build in layers in order to adjust the complexity as they go. Delivering and learning at the same time.  
+The smallest layer required to add value is known as the MVP.  
+
+Ambiguity:  
+New products, new markets, new customers, mergers, acquisitions, and many other unknowns make requirements quite ambiguous.  
+Quickly hypothesise and experiment to cut through ambiguity.  
 
 ### Backlog Management  
 #### A healthy backlog  
