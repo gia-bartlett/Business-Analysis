@@ -176,7 +176,7 @@ This allows for easy accomodation of change in priorities and features.
 BAs work with the product owner to move around backlog items according to the roadmap and priorities. Then analyze the gaps in value and add to the backlog as appropriate.  
 
 #### Ownership of the backlog  
-
+Product Owner is in charge of what goes in to the backlog and where it fits.
 
 #### Level of detail in the backlog  
 
