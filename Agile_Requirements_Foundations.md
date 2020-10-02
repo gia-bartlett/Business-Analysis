@@ -176,15 +176,43 @@ This allows for easy accomodation of change in priorities and features.
 BAs work with the product owner to move around backlog items according to the roadmap and priorities. Then analyze the gaps in value and add to the backlog as appropriate.  
 
 #### Ownership of the backlog  
-Product Owner is in charge of what goes in to the backlog and where it fits.
+Product Owner is in charge of what goes in to the backlog and where it fits.  
+What gets put in the backlog? Anyone on the team can submit backlog items but the PO and BA decide if it fits the product vision and what value it provides. Will the team understand? Does it overlap or duplicate something else?  
+
+Getting something on the backlog. Could be a sticky note on a board. Or a tool.  
+
+Where it goes on the backlog. Break the backlog into four categories: Top 10, Next Release, Subsequent Release, and The Rest. 
 
 #### Level of detail in the backlog  
-
+All backlog items should be well-written, easy to understand, and be an independent increment of value. Items in the Top 10 should have the most detail.  
+The closer the item is to the Top 10 the smaller it should be: not adding more detail to a larger backlog item but breaking it down into smaller, more detailed chunks.  
+A single backlog item is often broken up into 25 to 50 more detailed items, and then each item can be prioritised with many items getting left behind as they are determined unnecessary. With this, the team can more accurately estimate what it'll take to get the work done.  
+It's about breaking it down by value from a user point of view so that we can hone in on which pieces are truly important and then pivot to other work when change comes our way.  
 #### Refining the backlog  
+Refining the backlog involves continually estimating, analysing, prioritising, and breaking down stories in order to ensure that upcoming sprints have what the team needs to keep delivering.  
+The team looks at the short, mid, and long-term views of the product. The goal is to make sure the team has a queue of work ready to go at the right levels of detail.  
+
+Part of backlog refining is to review incoming stories and ideas from others. These are stories others submit to the team. Product owners and BAs need to determine if and where these new stories fit in to the road map and release plans.  
 
 #### Analysing the backlog  
+Agile BAs use their deep analysis skills to analyse the context, data, processes, user experience, and various user roles impacted to determine if there are missing items on the backlog, and to decompose the items for further work.  
+Traditional models can include things like: process models, data flow diagrams, state diagrams, context models, user journey maps, business rules analysis, SIPOC analysis, and decision tables. These models help teams find critical missing pieces and identify unknown impacts.  
+
+Agile BAs bring to the team their analysis, they bring key team members and stakeholders together into highly collaborative meetings to do lightweight modeling of these analysis tools.  
 
 #### Collaborating with the Product Owner on the backlog  
+The BA role provides a lot of skills that many product owners need to perform in their role. The BA brings analysis skills at a release and feature level, and they bring collaboration and facilitation skills that help the team deliver the product owner's vision.  
+The BA maximises the efficiency and effectiveness of the product owner by analysing, organising and facilitating the key factors needed for the product owner to engage and make decisions.  
+The PO and BA have three major goals together:  
+External Analysis:  
+Work together to understand the customers, customer journeys, the market and the various aspects of how a product is seen from a market and customer point of view.  
+Defining Increments of Value:  
+Work together to define, at various levels of detail, what gets built. This aligns to the team's work with the organisation's strategy and market needs. And creates small, easily executed slices of work.  
+Team Suuport:  
+They work together with the team on a daily basis to support and facilitate value in the team while getting the work done.  
+
+The product owner is typically looking at the big picture view, the product strategy and the market and organisational changes influencing the product. The BA usually works internally with the team on detailed backlog analysis and day-to-day delivery work.  
+They also work with customer and value for the team, making sure everyone's on the same page.  
 
 ### Techniques for Agile Business Analysts  
 #### Product decomposition  
