@@ -216,16 +216,48 @@ They also work with customer and value for the team, making sure everyone's on t
 
 ### Techniques for Agile Business Analysts  
 #### Product decomposition  
+Also called a product hierarchy or product map - performs the same task as a functional decomposition.  
+This product decomposition helps the team in many ways:  
+First, it helps the team identify and slice user stories. The team can attach and trace user stories to each area. The visual creates a shared understanding that helps the team split stories, define increments of value, and even map defects.  
+Second, it helps the team with planning by driving the roadmap, release plans, and iteration planning.  
+In addition, the decomposition assists the team with alignment. It helps everyone see where the money is being spent, and analyse if the work aligns with the customer needs and organisational strategy. Many teams use a product decomposition as an outline for how they organise user stories in their preferred Agile tool.  
+
+This product map is a great resource for BAs and POs to use in collaboration with one another. It's also a great visual to use with a team, when discussing the scope of a story or the goal for a release or iteration.  
+
+To create a product decomposition map, it's all about the customer point of view, of the functions and features. Reading from left to right, that the detail gets more refined. You can also create this top down like an org chart. It's all about the user perspective rather than technical. The user features are chunked out level by level as the layers develop.  
 
 #### Context techniques  
+Context is so important to agile teams. It's critical to helping our product owner and team make good decisions.  
+A few commonly used context techniques include context diagrams, process models, data flow diagrams, customer journey maps, and user story maps - all of these show the big picture. They also provide a structure for elaborating and connecting the details.  
 
 #### User Stories  
+User stories have a who, a what and a why.  
+The Invest Model helps determine if the user story is well articulated.  
+**I** - Independent: Each user story should be able to be implemented on its own. The incremental value each story provides is from a user point of view, independently.  
+**N** - Negotiable: Each user story should have just enough detail for the team to understand. It should have enough flexibility to discuss and evolve the design as the team learns and works.  
+**V** - Valuable: Each story must be valuable to the user or end customer.  
+**E** - Estimable: The team needs to be able to estimate and have enough detail to move forward.  
+**S** - Small: If the story is being considered for a sprint iteration, it needs to be small enough for the team to consume, commit, and complete it.  
+**T** - Testable: The story is testable from a user perspective and has a good start on acceptance criteria.  
 
 #### Acceptance Criteria  
+Acceptance criteria help the team define what success looks like from a user perspective.  
+Acceptance criteria are typically a list of statements that have a clear result. Such as statements to build a test to, to test the products. They might contain scenarios, rules and logic that create a specific outcome for a user, or there might be non-functional requirements like security, performance, expected volumes, response time, and thresholds of performance.  
+
+Acceptance criteria is not meant to be an all inclusive list of every little detail, but it gives the team enough information to remember, discuss, and test the story.  
 
 #### User story maps  
+A story map is all about telling the whole story versus a small part of it - it keeps the team focused on the user experience and results in better dialogue in conversation.  
+
+To create a user story map, we take all of the user stories for a product release and place them in the sequence of how a customer uses the product, from left to right. The vertical columns of a story map provide the details under the higher level story or theme.  
+Going from top to bottom, we get more details by chunking out the top level.  
+
+Story mapping is a great technique to use as a team in a workshop to help everyone see how all of the stories relate. The team can then discuss which grouping makes up the minimum viable product.  
+
+Story mapping also helps the team identify holes in the storyline of a customer and find gaps in scope that may be missing. There are almost always too many user stories. Story mapping creates a visual that helps the product owner, business analyst and team, find what fits and ultimately which stories should be thrown out.  
 
 #### Story slicing and splitting  
+
 
 #### Lightweight Modeling  
 
