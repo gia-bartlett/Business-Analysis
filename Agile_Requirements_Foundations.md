@@ -32,7 +32,7 @@ Four Values of Agile:
 **customer collaboration over contract negotiation**.  
 - understanding, as a team, that contracts and agreements need to flexible given our ever-changing environments  
 - focus on collaborating rather than requirements documents and contracts  
-- shared understanding through dialog will result in better products over a focus on creating a document as the process for requirements  
+- shared understanding through dialogue will result in better products over a focus on creating a document as the process for requirements  
 
 **responding to change over following a plan**.  
 - plan in value increments instead of big, task-based Gantt charts  
@@ -103,8 +103,8 @@ Four Values of Agile:
 
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.  
 - BAs participate in the team's retrospectives. Frequent retrospectives drive continuous improvement and change the way the team works, to maximise value to the users and the organisation  
-- As BAs, it also helps to look at our own work and retrospect with ourselves on what went well and what we can do to improve things for the next iteration@  
-- Did we, as a team, engage in deep dialog and discovery of requirements?  
+- As BAs, it also helps to look at our own work and retrospect with ourselves on what went well and what we can do to improve things for the next iteration?  
+- Did we, as a team, engage in deep dialogue and discovery of requirements?  
 - Did I do lightweight modeling and did it help the dialogue with the team?  
 - Was I focused on value to the customer?
 
@@ -270,6 +270,12 @@ An Agile team has an extreme focus on one small piece of functionality at a time
 
 ### Agile Concepts for Business Analysts  
 #### Last responsible moment  
+The later a decision is made, the more room there is for change - allowing the team to take advantage of opportunities while minimising the cost of delay.  
+Defining everything upfront can get in the way of speedy delivery - if requirements are defined early on and in bulk then responding to change is much harder.  
+Last responsible moment, is knowing when more information will and is likely to come. It's responsible to hold off decision making until we have more information, or until the cost of waiting outweighs the cost of moving forward.  
+- customer feedback on the last release that's expected to impact the designs of the next backlog items  
+- strategic leadership decisions expected to impact priorities for the next release  
+If you wait to make a 
 
 #### Minimum Viable Products (MVP)  
 
