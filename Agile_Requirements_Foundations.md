@@ -257,9 +257,16 @@ Story mapping is a great technique to use as a team in a workshop to help everyo
 Story mapping also helps the team identify holes in the storyline of a customer and find gaps in scope that may be missing. There are almost always too many user stories. Story mapping creates a visual that helps the product owner, business analyst and team, find what fits and ultimately which stories should be thrown out.  
 
 #### Story slicing and splitting  
-
+The functionality needs to be broken down further into smaller user stories - splitting the user stories into smaller chunks so they can be completed in a sprint.  
+Helps the team avoid breaking down the user story by technical tasks, which leaves the team with pieces that are difficult to test, demo and get feedback on.  
+There are many strategies to slice user stories, including slicing by user role or persona, business rules, scenarios, process or workflow steps, or a piece of data entered by a user - but they should always be split by user increment of value from a user perspective.  
 
 #### Lightweight Modeling  
+An Agile team has an extreme focus on one small piece of functionality at a time - BAs focus on lightweight context visuals and lightweight visual models of details.  
+- teams only documenting what's needed, when it's needed, just in time at the last responsible moment.  
+- drawings, models, and diagrams on whiteboards and flip charts that are photographed rather than recreated in detailed electronic formal modeling language.  
+- documentation that's a reminder of a conversation rather than a process and purpose for a conversation.  
+- visuals that can be created quickly, changed quickly, and where the main purpose is to promote conversation and shared understanding.  
 
 ### Agile Concepts for Business Analysts  
 #### Last responsible moment  
