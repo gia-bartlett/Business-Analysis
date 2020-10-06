@@ -278,8 +278,19 @@ Last responsible moment, is knowing when more information will and is likely to 
 If you wait to make a decision you will likely have more up to date information to use.  
 
 #### Minimum Viable Products (MVP)  
+Version of the product that balances cost, risk, and value.  
+Ensures a product is not over- or under-engineered - learn just enough, quickly enough to confirm the product is viable and learn what is needed next for the product.  
+Keeps work small and flexible and allows for pivoting to more important areas if necessary.  
+
+**Minimum Vible Thinking (MVT)**  
+Focus on what matters - avoiding unecessary features and details.  
+Deliver work faster by discussing each feature to the right depth and breadth.  
+Gives the right focus when prioritising backlog items.
 
 #### Experiments  
+Experiments provide a process-driven approach to solving ambiguity.  
+They help teams learn while delivering, instead of pushing out features that might not deliver value.  
+When a product or feature is being discussed and there are critical unknowns then this is the time for experimenting (not potentially building the wrong thing)
 
 #### Value-stream  
 
