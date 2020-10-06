@@ -275,7 +275,7 @@ Defining everything upfront can get in the way of speedy delivery - if requireme
 Last responsible moment, is knowing when more information will and is likely to come. It's responsible to hold off decision making until we have more information, or until the cost of waiting outweighs the cost of moving forward.  
 - customer feedback on the last release that's expected to impact the designs of the next backlog items  
 - strategic leadership decisions expected to impact priorities for the next release  
-If you wait to make a 
+If you wait to make a decision you will likely have more up to date information to use.  
 
 #### Minimum Viable Products (MVP)  
 
