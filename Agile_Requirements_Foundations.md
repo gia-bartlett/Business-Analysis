@@ -293,7 +293,21 @@ They help teams learn while delivering, instead of pushing out features that mig
 When a product or feature is being discussed and there are critical unknowns then this is the time for experimenting (not potentially building the wrong thing)
 
 #### Value-stream  
+Helps teams organise and deliver around what is valuable - it prevents improving things at the cost of other parts or features.  
+The value stream may include many processes, departments, systems, and the value may be delivered to multiple users in different groups.  
+Understanding value streams allows BAs to effectively analyse backlogs, slice user stories, and facilitate minimum viable discussions.  
+Value streams improve the processes overall by identifying waste.  
 
 #### Outcome-focused  
+Without a focus on outcomes, teams produce lots of features, but these features may not produce actual business outcomes - creating waste.  
+BAs help the teams to understand outcomes of the big-pictureand the detailed levels. BAs facilitate team thinking in terms of design trade-offs, options, and alternatives - helping the team think about valuable outcomes of every option.  
+For each iteration, release, and feature, the team should be striving for an outcome rather than how many requirements they've met, or how many tasks they complete.  
+Outcomes should be defined at the strategic portfolio and product level, the road map level, the release level, and the iteration level.  
+Agile BAs can break large outcomes into smaller goals for each iteration.  
 
 #### Who is the customer?  
+Not always the requester of the product, feature, or modification - the requester is often not close to the end customer and is often guessing at how to solve a problem or create an opportunity.  
+BAs must recognise and think like the end customer. They need to consider their insights and needs - as well as those not close to the end product (requesters).  
+Requesters needs cannot take priority as they risk causing the team to create a product or feature that doesn't deliver value to the real customer. 
+The end customer (real customer) should always be kept in sight as they are the one buying the product, feature, or service. Even the most mundane backlog item will impact the end customer and that impact must be found.  
+Focusing on the end customer gets to the real problem and the root cause faster.  
