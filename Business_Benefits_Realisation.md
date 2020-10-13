@@ -107,14 +107,48 @@ It is important to note that one stakeholders benefit - job cuts (saving money) 
 
 Do not confuse disbenefits with risks - risks can be avoided but disbenefits will be created by the required changes. The BA's job is to manage their impact - so it's important to know which stakeholders will lose out.  
 
-
 ## Creating a Business Benefits Roadmap  
 ### Business Benefits Roadmap Explained  
+A benefits roadmap is a high-level picture or diagram of what needs to be done across the life of a project. It can also show interrelated projects that make up the program of work with the whole thing showing how it leads to business benefits. 
+
+Roadmap Benfits:  
+- Ensure rigour on understanding of benefits  
+- Get stakeholders on the same page  
+- Set the stage for change management  
+- Provide information for investment decisions  
+- Provide linkage between program and project acitivites  
+- Carify benefits that can be expected  
+
+Captures which programs need to be prioritised and approved.  
+
+Key things to capture on the map:  
+- The relationship between the program and outputs  
+- Business changes needed to take on the new capabilities  
+- Expected outcomes for the success of those business changes  
+- Anticipated benefits to be realised as a result of those outcomes  
+- Strategic objectives that will be achieved as a result  
+
+Created prior to a business case and before a project is approved.  
 
 ### Steps to create the Business Benefits Roadmap  
+Single page:  
+It describes the "what" and shows the linkage to the "why" and "how". NOTE: This is different to the benefits realisation plan, which provides the summary of the "what" and "why" and explains in more detail how the benefits will be realized, by whom, and when.  
+
+Identify and validate expected strategic outcomes through facilitated workshops - think about what will be maintained, eliminated, decreased, increased, or created to achieve the program or project outcomes. Think about the benefits that could be measured, as well as the organisational changes that will be required and supported to realise and manage the benefits.  
+
+Start with the end in mind  
+List the emasureable benefits  
+Work backward from the outcomes or forward from a project - make the connection between what has to change in order to achieve those outcomes.  
+List the assumptions and conditions that are required in order to achieve each of the outcomes and outputs.  
 
 ### Tricks to populate a great Business Benefits Roadmap  
-
+Common mistakes:  
+1. not getting the right level of engagement from senior stakeholders. Take time to understand the business need, and strategic outcomes, that are drivers in the project - collect facts to make them real for the relevant stakeholders.  
+2. not clearly articulating the definitions and descriptors of outcomes, outputs, and assumptions. Don't allow for sweeping statements of benefits - be robust in your research.  
+3. don't allow stakeholders to spend too much time on the solution or the detail. Make sure you align the required outcomes of the project with the organistaion's strategic objectives.  
+4. inability to adjust the benefit as it evolves. Be ready when new information becomes available and make decisions based on the benefits measure.  
+5. not testing the roadmap by discussing and validating the current business problem. Ask - What has to change to the project and operations? What has to stop? And if the benefit is realised, will it make a big difference?  
+6. poorly defined strategy. If stakeholders can't clearly articulate the strategy  then they'll struggle to be clear on the benefits. Encourage them to discuss the strategic outcome and have them sign off on the benefits.
 
 ## Creating a Business Benefits Realisation Plan  
 ### Business Benefits Realisation Plan Explained  
@@ -123,7 +157,7 @@ Do not confuse disbenefits with risks - risks can be avoided but disbenefits wil
 
 ### Populate the Performance Measurement Matrix  
 
-### Commin challenges with Business Benefits Realisation Plan  
+### Common challenges with Business Benefits Realisation Plan  
 
 
 ## Making the Process Work  
