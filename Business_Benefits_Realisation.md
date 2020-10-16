@@ -152,13 +152,33 @@ Common mistakes:
 
 ## Creating a Business Benefits Realisation Plan  
 ### Business Benefits Realisation Plan Explained  
+Having a living document that's referred to beyond the project life-cycle to ensure that your project really does achieve what it set out to achieve.  
+Articulates the expected outcomes of your project.  
+1. Benefits themselves - financial? holistic? disbenefits?  
+Make benefits SMART.  
+Get senior stakehodlers to develop and own the benefits early.  
+2. How they will be measured - analyse baseline data.  
+RACI chart for the measurement and reporting process.  
 
 ### How to create a Business Benefits Realisation Plan  
+Creating a document that can be referenced to, even beyond the project, ensures that your project really does achieve what it's set out to achieve.  
+Chunk it into manageable pieces:  
+1. Understand the program of work and associated benefits - work with senior stakeholders who have a stake in the realization of the benefits.  
+2. Prioritise the benefits - Has the baseline or as is point been agreed with your key stakeholders so you know your starting point? Has the benefit owner or owners been consulted? Have benefit profiles and specifics and measurable targets been developed and agreed?  
+3. Put the right emtrics in teh plan - show why the project is important and why the improvements recommended align with the organisation's plan.  
+4. Carve out evaluation steps around the benefits - How will the benefits owner know how and when to report against the progress made? How will lessons learnt be captured and communicated?
 
 ### Populate the Performance Measurement Matrix  
+The register should include a Benefits Description, and a Unique Identification Number, so the benefit can be referenced for traceability purposes, to business requirements, and solutions.  
+Include the Benefit and Validation Owner, with their name, or position title.  
+Include the Baseline and Date, the Target Value, current measures, and the anticipated End Benefit End Date.  
+Include periodic checkpoints throughout the different stages of the project, for assurance, refinement, and validation.  
 
 ### Common challenges with Business Benefits Realisation Plan  
-
+Ill defined benefits - avoid vagueties (bigger, faster, better)  
+Lack of focus - something and then another thing  
+Poor data - no organisational data or too spread out  
+Unclear benefits ownership - owner isn't interested or lacks authority  
 
 ## Making the Process Work  
 ### Risk Management Planning  
