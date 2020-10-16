@@ -182,11 +182,43 @@ Unclear benefits ownership - owner isn't interested or lacks authority
 
 ## Making the Process Work  
 ### Risk Management Planning  
+1. the org does not have a sponsor or champion to be the owner of the nusiness benefits realisation  
+2. planned benefits are not realised  
+3. documented benefits are realised but eh customer is not satisfied  
+4. documented benefits are realised but company personel perception is negative  
+5. some benefits are realised but they are not the critical benefits
 
 ### Governance Requirements  
+1. Measurements during a change initiative  
+2. Measurements after your change is in place  
+3. Governance meetings  
+4. Reporting  
+
+Check you are successfully collecting data to support your change  
+Measure the degree of consistency that exists about what "better" looks like for your subjective business benefits  
+Create measures to ensure you understand that your change initiative actually satisfies what your customers want  
+Evaluate to ensure your business benefit needs remain valid as your change initiative progresses  
+
+Measurements need to directly support the desired benefit with objective data, such as increased profit, increased productivity, reduced cost, or improved customer satisfaction as determined from customer surveys.  
+Measurements should be easy to collect. If a measurement costs a lot to collect, the value of the information that it produces should be evaluated against the insights it provides.  
+Measurements should be universally understood by your management team. If your managers do not have a common view of what the measurement is trying to confirm, it needs to be restructured.  
+Good governance requires frequent meetings focused on the evaluation of the measurements and the information they provide. Appropriate, well-positioned managers with the ability to share views openly and change direction when needed are fundamental aspects of good benefits governance meetings.  
+Good benefits governance process has good reporting of the business benefits, including the progress made and/or lessons learnt.  
 
 ### Monitor Business Benefits  
+1. Business benefit definition and analysis. Define the benefit and confirm the benefit is built with proper consideration for all areas of your business. The definition and analysis stage identifies these impacts, both positive and negative, and ensures a pathway forward is defined for all affected areas of your business.  
+2. Solution and design. During this lifecycle stage, the approaches, processes and/or technology solutions are designed to meet the business benefit defined in the first lifecycle stage.  This stage defines how each business benefit will be achieved. Monitoring of the viability of the proposed solution is then conducted.  
+3. Evaluation of the organisational change management implications for each of your business benefits. New business benefits potentially bring about changes to processes, power shifts between departments, new roles and changed roles in your organisation. Each of these need to be defined and monitored.  
+4. Process and user acceptance testing. The solutions defined and drafted need to be reviewed, understood and confirmed by all affected areas of your business. Key staff members of management both need to be in the loop at this stage. This acceptance testing is performed by walking through each step of a new process and/or testing all of the components of a new technology solution. Any errors or failures to achieve the intended business benefits could be examined carefully, changed and reevaluated until a desirable outcome is achieved.  
+5. Training and post-implementation reviews. This lifecycle stage occurs immediately before and after your change is implemented for your business to use. Every person who needs to alter their approach to work needs to be trained so they can understand what is expected of them to achieve the new business benefits. After the changes are put in place, you and your management team should carefully examine what is happening with each of these changes and determine whether or not the intended business benefits are being realised.  
+6. Oerational quarterly reviews after your new benefit-producing processes have been embedded in your organisation. These ensure that old work habits have not been reintroduced into your organisation and that your business benefits are withstanding the test of time.  
 
 ### Report Results  
+First, report on results frequently, and utilise specific measurement criteria for each business benefit you are tracking.  
+Next, share the health or status of benefits in any initiative or project status reports. These status reports should also include, risk status tracking for anything that can affect the realisation of your business benefit.  
+Next, have a centralised method for reporting the status of business benefits for your entire organisation.  
+Next, provide updates on your business's readiness for change. Readiness for change can include, the completeness of new business processes, the percentage of staff members that have received the appropriate training, or, the status of the change management implementation, including definition of the new roles, and the identification of staff members to fulfill those roles.  
 
-### Pull it all together  
+What do you do if you have a large initiative with multiple or very substantial changes occurring over a longer period of time? - create a schedule:  
+
+A business benefit realisation schedule is a sequential list of when the business benefit will be installed, who will be affected by any business process changes, and when the new measurements and targets for each business benefit should be expected by your management team.  
