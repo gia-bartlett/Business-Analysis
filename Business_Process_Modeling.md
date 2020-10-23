@@ -41,7 +41,24 @@ Internationally recognised modeling standards
 
 ### Context Diagram  
 
+- provides a visual view  
+- high level  
+- serves as a checklist  
+- at a glance tool  
+
 <img src="https://online.visual-paradigm.com/servlet/editor-content/knowledge/system-context-diagram/what-is-system-context-diagram/sites/7/2019/08/system-context-diagram-example-hotel-reservation-system.png"><img>
+
+ --> boxes show external entities  
+ --> arrows show interactions coming into and from the organisation  
+ 
+ - understand relationships  
+ - understand functions  
+ - explain scope  
+ 
+ Context - how a business area interacts with the world  
+ Actor - a person, department, or system directly involved in what is being analysed  
+ External entity - a person, department, or system not being analysed  
+ 
 ### Functional Flow Diagram  
 ### Cross Functional Flow Diagram  
 ### Process Flow Charting  
