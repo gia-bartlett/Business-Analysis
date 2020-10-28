@@ -55,10 +55,39 @@ Internationally recognised modeling standards
  - understand functions  
  - explain scope  
  
- Context - how a business area interacts with the world  
- Actor - a person, department, or system directly involved in what is being analysed  
- External entity - a person, department, or system not being analysed  
+Context - how a business area interacts with the world  
+Actor - a person, department, or system directly involved in what is being analysed  
+External entity - a person, department, or system not being analysed  
  
+Research - ask colleagues, run workshops, search intranet  
+Start with a single page - keep it high level and simple  
+ - start with main entity (in a circle)  
+ - add external stakeholders (in boxes)  
+ - connect relationships with arrows  
+
 ### Functional Flow Diagram  
+
+- shows each functional area or stakeholder internal to the organisation  
+- shows how they interact in the logical overall flow of the work
+- effective in showing new users and executives the conceptual detail of how, internally, information, data and activities pass between the different functional areas  
+- useful in targeting specific audiences when analysing detail  
+- ensures all areas are touched upon before documenting the cross-functional flow diagram  
+
+--> should focus on a single interaction between the external entity and the organisation  
+--> provide a quick overview  
+--> identifies improvement opportunities  
+
+<img src="https://static-cdn.imageservice.cloud/4125645/understanding-the-purpose-of-the-functional-flow-diagram.jpg"><img>
+
+- keep it uncluttered  
+- start with external entitiy whose relationship you are looking to analyse  
+- context diagram within a context diagram  
+- choose a interaction to focus on and list the involved stakeholders  
+- run high-level process workshops  
+
+- circle for functional areas  
+- arrows for relationships  
+- label arrows to identify what is exchanged  
+
 ### Cross Functional Flow Diagram  
 ### Process Flow Charting  
