@@ -4,7 +4,7 @@
 
 ### What is Elicitation and Analysis?  
 
-`Elicitation is the discover and progressive elaboration of understanding the needs of our stakeholders and customers.`  
+`Elicitation is the discovery and progressive elaboration of understanding the needs of our stakeholders and customers.`  
 
 Critical to understand if the solution we're working on is right for the stakeholders, customers, and the organization.  
 Everyone has ideas - stakeholders, customers, users, developers. Elicitation and analysis finds the actual needs of the customers.  
@@ -78,7 +78,7 @@ Collaborative Elicitation:
 - Relationship building tool and deeper dive into the details of someone's domain or scope of work.  
 - Value can be found in interviewing anyone involved in the project - sponsors, SMEs, business managers, customers and users.  
 - Interviews should be strategic - helping to build or smooth relationships with key stakeholders or elicit details in areas of complexity.  
-- Break each interview into three steps: 
+- Break each interview into three steps:  
 **Prepare:**  
 - Who are you interviewing?  
 - What is their role and how can I make a personal connection with them?  
