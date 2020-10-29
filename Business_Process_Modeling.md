@@ -89,5 +89,81 @@ Start with a single page - keep it high level and simple
 - arrows for relationships  
 - label arrows to identify what is exchanged  
 
-### Cross Functional Flow Diagram  
-### Process Flow Charting  
+### Cross Functional Flow Diagram (swimlane)  
+
+- capture and order activities performed by various stakeholders  
+- tell the story from start to end - illustrates a flow of events (how they cross over between the different functional areas)  
+
+<img src-"https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2015/11/Cross-functional-flowchart.png"><img>
+
+- an 'as-is' CFFD identifies and breaks down exisiting complaex business processes - identifying unecessary routing of work  
+- identifies inefficiencies  
+- if the number of steps looks overwhelming they can be broken down into subprocesses  
+- swimlanes clearly show where one task ends and the next begins  
+- each actor is assigned a swimlane  
+- shows who is involved in the end to end process  
+
+**Flowchart symbols** 
+- circle = terminator (start and end points)  
+- rectangle = process box  
+- parallel lines = subprocess box (plus symbol)  
+- diamond = decision symbol (where a decision has to be made before moving on - outcome will split the flow of events)  
+- arrows = connectors (direction and order the activities take place)  
+
+- start with a trigger even in a circle  
+- from the trigger map out each activity using process boxes and connecting them with arrows in the direction the flow needs to go  
+- 'what functions need to occur from start to finish to achieve the fasted result' - the happy path (main path)  
+- clearly label each activity with a verb noun phrase (take payment)  
+- Alternate flows/exception flows - challenges and unforseen problems ocur and prevent a function from being completed  
+- Alternate flow is where a transaction continues via an alternate path, rejoining the original path to complete the transaction after the alternate process is complete  
+- Exception flows are when a process comes to a complete stop. A completely different process or trigger is required to complete the activity - create another swim lane diagram to capture the handling of this exception  
+- have the diagram validated by the actors - walk them through  
+
+### Process Maps (Flowchart Diagram)  
+
+- documents the flow of activities performed by a single actor at the lowest level of detail  
+- used for 'as-is' and future 'to-be'  
+- breaks down complex precesses and analyse inefficiencies  
+- KRAC (Keep - Remove - Add - Change)  
+- single source of truth - what needs to be done  
+- support the creation of test scripts  
+- ensure consistent outcome  
+
+- overlay as-is with tp-be to see GAPS and set requirements to close them  
+
+- impact assessment - identify what has changed and analyse the impacts to existing functional areas  
+- create instructional guides, training manuals - identify the amount of training required  
+- isolate each activity - can be taught, assessed, refined, and updated  
+
+<img src="https://m.foolcdn.com/media/the-blueprint/images/Process_Mapping-01-Approvals.width-800.png"><img>
+
+**Features**  
+- no interaction with other functional areas (no swimlanes -dealing with a single actor)  
+- flows in any direction (start in top left corner)  
+- uses standard symbols (process box, decision diamond, arrow/connector)  
+- start point (trigger) and end point  
+
+- should trace back to cross-functional flow diagrams  
+- never have more than one step in each box  
+
+### Which diagram to use when  
+
+**Contaxt Diagram**  
+- how your organisation fits in the big picture and relates with the outside world  
+- captures the relationships, input, and outputs that help your organisation understand what is needed by these external entity relationships to deliver products and services to customers  
+
+**Functional Flow Diagram**  
+- shows a number of functional areas internal to your organisation, and how they interact with the customer, being an external entity and each other  
+
+**Cross-Functional Flow Diagram**  
+- how the flow of work moves across the functional areas of your organisation  
+- contains the complete end-to-end process of a single transaction or interaction from the initial customer trigger through to the delivery of a service or product  
+
+**Process Map**  
+- take the subprocesses that are in our cross-functional flow diagram and expand them into the finest level of detail in what you now know as flowchart process maps  
+
+Understand your objective  
+- what is the area of focus  
+- what already exists  
+- who is the end user  
+- how will the information be used  
